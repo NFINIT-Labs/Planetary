@@ -1,0 +1,20 @@
+#Dungeon Tweaks for:farlanders
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+farlanders:classic_enderman = 0
+farlanders:elder_farlander = 0
+farlanders:ender_golem = 0
+farlanders:ender_guardian = 0
+farlanders:enderminion = 0
+farlanders:fanmade_enderman = 0
+farlanders:farlander = 0
+farlanders:looter = 0
+farlanders:mystic_enderman = 0
+farlanders:mystic_enderminion = 0
+farlanders:rebel = 0
+farlanders:titan = 0
+farlanders:wanderer = 0
+
+</DungeonMobs>

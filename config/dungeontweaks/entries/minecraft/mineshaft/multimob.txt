@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:multimob
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+multimob:dummy = 0
+
+</DungeonMobs>

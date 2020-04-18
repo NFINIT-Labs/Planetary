@@ -1,0 +1,25 @@
+#Dungeon Tweaks for:eim
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+eim:blazinator = 0
+eim:blazvoker = 0
+eim:burn_voker = 0
+eim:dragovoker = 0
+eim:endcator = 0
+eim:forest_voker = 0
+eim:frostman = 0
+eim:frostoker = 0
+eim:lava_golem = 0
+eim:skelet_voker = 20
+eim:skullhead = 0
+eim:snowicator = 0
+eim:snowman = 0
+eim:stone_monster = 0
+eim:stonegolem = 20
+eim:stonevoker = 20
+eim:tree_monster = 20
+eim:wither_voker = 0
+
+</DungeonMobs>

@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:extraplanets
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+extraplanets:extraplanets.evolvedgiantzombieboss = 0
+
+</DungeonMobs>

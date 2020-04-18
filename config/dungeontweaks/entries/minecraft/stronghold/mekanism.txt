@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:mekanism
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+mekanism:babyskeleton = 0
+
+</DungeonMobs>

@@ -1,0 +1,10 @@
+#Dungeon Tweaks for:camping
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+camping:beargrizzly = 0
+camping:camper = 0
+camping:foxarctic = 0
+
+</DungeonMobs>

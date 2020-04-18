@@ -1,0 +1,12 @@
+#Dungeon Tweaks for:rfmobs
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+rfmobs:redmite = 0
+rfmobs:redum = 0
+rfmobs:rfcreeper = 0
+rfmobs:rfvillager = 0
+rfmobs:rfzombie = 0
+
+</DungeonMobs>

@@ -1,0 +1,13 @@
+#Dungeon Tweaks for:illagers_plus
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+illagers_plus:archer = 80
+illagers_plus:enchanter = 80
+illagers_plus:furantur = 80
+illagers_plus:hoarder = 80
+illagers_plus:illager_king = 5
+illagers_plus:necromancer = 80
+
+</DungeonMobs>

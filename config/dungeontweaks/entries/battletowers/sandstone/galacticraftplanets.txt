@@ -1,0 +1,12 @@
+#Dungeon Tweaks for:galacticraftplanets
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+galacticraftplanets:creeper_boss = 0
+galacticraftplanets:juicer = 0
+galacticraftplanets:slimeling = 0
+galacticraftplanets:sludgeling = 0
+galacticraftplanets:spider_queen = 0
+
+</DungeonMobs>

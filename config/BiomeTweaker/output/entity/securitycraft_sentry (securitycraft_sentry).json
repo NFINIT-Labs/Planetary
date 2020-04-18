@@ -1,0 +1,6 @@
+
+{
+  "Name": "securitycraft:sentry",
+  "Registry ID": "securitycraft:sentry",
+  "Class": "net.geforcemods.securitycraft.entity.EntitySentry"
+}

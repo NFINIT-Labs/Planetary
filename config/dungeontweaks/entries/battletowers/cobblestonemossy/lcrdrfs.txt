@@ -1,0 +1,10 @@
+#Dungeon Tweaks for:lcrdrfs
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+lcrdrfs:jet_pack_spider = 0
+lcrdrfs:laser_creeper = 0
+lcrdrfs:robo_dino = 0
+
+</DungeonMobs>

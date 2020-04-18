@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:industrialforegoing
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+industrialforegoing:pink_slime = 0
+
+</DungeonMobs>

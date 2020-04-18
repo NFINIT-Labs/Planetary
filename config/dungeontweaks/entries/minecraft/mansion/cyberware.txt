@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:cyberware
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+cyberware:cyberzombie = 0
+
+</DungeonMobs>

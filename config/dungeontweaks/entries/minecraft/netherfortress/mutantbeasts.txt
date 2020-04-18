@@ -1,0 +1,15 @@
+#Dungeon Tweaks for:mutantbeasts
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+mutantbeasts:creeper_minion = 0
+mutantbeasts:enderman_clone = 0
+mutantbeasts:mutant_creeper = 0
+mutantbeasts:mutant_enderman = 0
+mutantbeasts:mutant_skeleton = 0
+mutantbeasts:mutant_snow_golem = 0
+mutantbeasts:mutant_zombie = 0
+mutantbeasts:spider_pig = 0
+
+</DungeonMobs>

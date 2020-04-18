@@ -1,0 +1,9 @@
+#Dungeon Tweaks for:openblocks
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+openblocks:luggage = 0
+openblocks:mini_me = 0
+
+</DungeonMobs>

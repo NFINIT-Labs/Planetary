@@ -1,0 +1,10 @@
+#Dungeon Tweaks for:thermalfoundation
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+thermalfoundation:basalz = 20
+thermalfoundation:blitz = 20
+thermalfoundation:blizz = 20
+
+</DungeonMobs>

@@ -1,0 +1,29 @@
+#Dungeon Tweaks for:techguns
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+techguns:alienbug = 0
+techguns:armysoldier = 0
+techguns:attackhelicopter = 0
+techguns:bandit = 0
+techguns:commando = 0
+techguns:cyberdemon = 0
+techguns:dictatordave = 0
+techguns:ghastling = 0
+techguns:outcast = 0
+techguns:psychosteve = 0
+techguns:skeletonsoldier = 0
+techguns:stormtrooper = 0
+techguns:supermutantbasic = 0
+techguns:supermutantelite = 0
+techguns:supermutantheavy = 0
+techguns:tgdummyspawn = 0
+techguns:turret = 0
+techguns:zombiefarmer = 0
+techguns:zombieminer = 0
+techguns:zombiepigmansoldier = 0
+techguns:zombiepoliceman = 0
+techguns:zombiesoldier = 0
+
+</DungeonMobs>

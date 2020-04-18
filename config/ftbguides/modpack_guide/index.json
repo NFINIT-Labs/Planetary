@@ -1,0 +1,18 @@
+[
+
+	{
+		"id": "planetary",
+		"title": "Planetary",
+		"icon": "item:ezwastelands:ezwastelandblock"
+	},
+	{
+		"id": "features",
+		"title": "Modpack Features",
+		"icon": "item:variedcommodities:letter"
+	},
+	{
+		"id": "servers",
+		"title": "Servers",
+		"icon": "item:variedcommodities:letter"
+	}
+]

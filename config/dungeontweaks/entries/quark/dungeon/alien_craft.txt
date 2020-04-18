@@ -1,0 +1,15 @@
+#Dungeon Tweaks for:alien_craft
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+alien_craft:alien = 0
+alien_craft:aliencivil = 0
+alien_craft:longalien = 0
+alien_craft:longlaienguard = 0
+alien_craft:ufo = 0
+alien_craft:ufoflyable = 0
+alien_craft:ufonoai = 0
+alien_craft:zombiealien = 180
+
+</DungeonMobs>

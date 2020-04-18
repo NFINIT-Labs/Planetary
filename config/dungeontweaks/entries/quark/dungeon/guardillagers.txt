@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:guardillagers
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+guardillagers:guard_illager = 0
+
+</DungeonMobs>

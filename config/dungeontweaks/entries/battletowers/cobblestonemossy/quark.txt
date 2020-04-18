@@ -1,0 +1,17 @@
+#Dungeon Tweaks for:quark
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+quark:archaeologist = 0
+quark:ashen = 0
+quark:crab = 0
+quark:dweller = 0
+quark:foxhound = 0
+quark:frog = 0
+quark:leash_knot = 0
+quark:pirate = 0
+quark:stoneling = 0
+quark:wraith = 0
+
+</DungeonMobs>

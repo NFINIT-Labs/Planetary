@@ -1,0 +1,25 @@
+#Dungeon Tweaks for:mod_lavacow
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+mod_lavacow:foglet = 0
+mod_lavacow:lavacow = 0
+mod_lavacow:lilsludge = 0
+mod_lavacow:mimic = 0
+mod_lavacow:parasite = 0
+mod_lavacow:piranha = 0
+mod_lavacow:ptera = 0
+mod_lavacow:raven = 0
+mod_lavacow:salamander = 0
+mod_lavacow:scarecrow = 0
+mod_lavacow:sludgelord = 0
+mod_lavacow:undeadswine = 0
+mod_lavacow:vespa = 0
+mod_lavacow:vespacocoon = 0
+mod_lavacow:wendigo = 0
+mod_lavacow:zombiefrozen = 0
+mod_lavacow:zombiemushroom = 0
+mod_lavacow:zombiepiranha = 0
+
+</DungeonMobs>

@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:gravestone
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+gravestone:player_ghost = 0
+
+</DungeonMobs>

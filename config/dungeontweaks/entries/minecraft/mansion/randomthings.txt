@@ -1,0 +1,9 @@
+#Dungeon Tweaks for:randomthings
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+randomthings:goldenchicken = 0
+randomthings:spirit = 0
+
+</DungeonMobs>

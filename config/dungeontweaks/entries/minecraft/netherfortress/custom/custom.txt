@@ -1,0 +1,7 @@
+#Dungeon Tweaks for:custom
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+
+</DungeonMobs>

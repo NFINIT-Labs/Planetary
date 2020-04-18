@@ -1,0 +1,12 @@
+#Dungeon Tweaks for:deepmoblearning
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+deepmoblearning:glitch = 0
+deepmoblearning:trial_cave_spider = 0
+deepmoblearning:trial_enderman = 0
+deepmoblearning:trial_slime = 0
+deepmoblearning:trial_spider = 0
+
+</DungeonMobs>

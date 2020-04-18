@@ -1,0 +1,12 @@
+#Dungeon Tweaks for:animalium
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+animalium:bear = 0
+animalium:bear_tamed = 0
+animalium:piranha = 0
+animalium:rat = 0
+animalium:wild_dog = 0
+
+</DungeonMobs>

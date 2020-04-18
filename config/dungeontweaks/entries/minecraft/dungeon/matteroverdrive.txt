@@ -1,0 +1,15 @@
+#Dungeon Tweaks for:matteroverdrive
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+matteroverdrive:failed_chicken = 0
+matteroverdrive:failed_cow = 0
+matteroverdrive:failed_pig = 0
+matteroverdrive:failed_sheep = 0
+matteroverdrive:mad_scientist = 0
+matteroverdrive:mutant_scientist = 0
+matteroverdrive:ranged_rogue_android = 0
+matteroverdrive:rogue_android = 0
+
+</DungeonMobs>

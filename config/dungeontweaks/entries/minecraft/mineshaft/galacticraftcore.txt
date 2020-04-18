@@ -1,0 +1,15 @@
+#Dungeon Tweaks for:galacticraftcore
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+galacticraftcore:alien_villager = 0
+galacticraftcore:evolved_creeper = 0
+galacticraftcore:evolved_enderman = 0
+galacticraftcore:evolved_skeleton = 0
+galacticraftcore:evolved_skeleton_boss = 0
+galacticraftcore:evolved_spider = 0
+galacticraftcore:evolved_witch = 0
+galacticraftcore:evolved_zombie = 0
+
+</DungeonMobs>

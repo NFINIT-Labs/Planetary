@@ -1,0 +1,19 @@
+#Dungeon Tweaks for:rats
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+rats:black_death = 0
+rats:feral_ratlantean = 0
+rats:illager_piper = 0
+rats:marbled_cheese_golem = 0
+rats:neo_ratlantean = 0
+rats:pirat = 0
+rats:pirat_boat = 0
+rats:plague_beast = 0
+rats:plague_cloud = 0
+rats:plague_doctor = 0
+rats:rat = 0
+rats:ratlantean_spirit = 0
+
+</DungeonMobs>

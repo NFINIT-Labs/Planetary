@@ -1,0 +1,8 @@
+#Dungeon Tweaks for:securitycraft
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+securitycraft:sentry = 0
+
+</DungeonMobs>

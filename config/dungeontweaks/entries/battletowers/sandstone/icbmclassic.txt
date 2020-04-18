@@ -1,0 +1,13 @@
+#Dungeon Tweaks for:icbmclassic
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+icbmclassic:skeleton.xmas.boss = 0
+icbmclassic:skeleton.xmas.elf = 0
+icbmclassic:skeleton.xmas.snowman = 0
+icbmclassic:zombie.xmas.boss = 0
+icbmclassic:zombie.xmas.creeper = 0
+icbmclassic:zombie.xmas.elf = 0
+
+</DungeonMobs>

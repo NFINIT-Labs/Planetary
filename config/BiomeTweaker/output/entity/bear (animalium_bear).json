@@ -1,0 +1,6 @@
+
+{
+  "Name": "bear",
+  "Registry ID": "animalium:bear",
+  "Class": "animalium.entities.EntityBear"
+}

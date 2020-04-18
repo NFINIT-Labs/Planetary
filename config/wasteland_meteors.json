@@ -1,0 +1,205 @@
+{
+  "surface": [
+    {
+      "block": "galacticraftplanets:asteroids_block",
+      "meta": "0",
+      "weight": 90
+    },
+	{
+      "block": "galacticraftplanets:asteroids_block",
+      "meta": "3",
+      "weight": 30
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "0",
+      "weight": 30
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "1",
+      "weight": 30
+    },
+	{
+      "block": "mekanism:oreblock",
+      "meta": "0",
+      "weight": 20
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "2",
+      "weight": 10
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "3",
+      "weight": 10
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "5",
+      "weight": 10
+    },
+	{
+      "block": "thermalfoundation:ore",
+      "meta": "6",
+      "weight": 3
+    },
+    {
+      "block": "galacticraftplanets:asteroids_block",
+      "meta": "4",
+      "weight": 10
+    },
+    {
+      "block": "minecraft:iron_ore",
+      "meta": "",
+      "weight": 70
+    },
+	{
+      "block": "minecraft:coal_ore",
+      "meta": "",
+      "weight": 60
+    },
+    {
+      "block": "minecraft:gold_ore",
+      "meta": "",
+      "weight": 30
+    },
+	{
+      "block": "minecraft:redstone_ore",
+      "meta": "",
+      "weight": 20
+    },
+	{
+      "block": "utilitybaseores:glowstone_ore",
+      "meta": "",
+      "weight": 20
+    },
+	{
+      "block": "spacecraftx:ore_lithium",
+      "meta": "",
+      "weight": 20
+    },
+    {
+      "block": "minecraft:lapis_ore",
+      "meta": "",
+      "weight": 10
+    },
+	{
+      "block": "galacticraftplanets:venus",
+      "meta": "9",
+      "weight": 20
+    },
+	{
+      "block": "galacticraftcore:basic_block_core",
+      "meta": "8",
+      "weight": 25
+    },
+	{
+      "block": "matteroverdrive:tritanium_ore",
+      "meta": "",
+      "weight": 5
+    },
+    {
+      "block": "minecraft:diamond_ore",
+      "meta": "",
+      "weight": 10
+    },
+    {
+      "block": "minecraft:emerald_ore",
+      "meta": "",
+      "weight": 5
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=east",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=west",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=north",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=south",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    }
+  ],
+  "underground": [
+  {
+      "block": "galacticraftplanets:asteroids_block",
+      "meta": "0",
+      "weight": 100
+    },
+	{
+      "block": "densemetals:dense_iron_ore",
+      "meta": "",
+      "weight": 60
+    },
+	{
+      "block": "densemetals:dense_coal_ore",
+      "meta": "",
+      "weight": 60
+    },
+	{
+      "block": "densemetals:dense_gold_ore",
+      "meta": "",
+      "weight": 20
+    },
+	{
+      "block": "densemetals:dense_redstone_ore",
+      "meta": "",
+      "weight": 20
+    },
+	{
+      "block": "densemetals:dense_lapis_ore",
+      "meta": "",
+      "weight": 10
+    },
+
+	{
+      "block": "densemetals:dense_diamond_ore",
+      "meta": "",
+      "weight": 5
+    },
+    {
+      "block": "densemetals:dense_emerald_ore",
+      "meta": "",
+      "weight": 5
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=east",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=west",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=north",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    },
+    {
+      "block": "wasteland_meteors:meteor_chest",
+      "meta": "facing=south",
+      "nbt": "{LootTable:\"wasteland_meteors:chests/minecraft_plants\"}",
+      "weight": 1
+    }
+  ]
+}

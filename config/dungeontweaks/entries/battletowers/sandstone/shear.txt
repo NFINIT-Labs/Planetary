@@ -1,0 +1,15 @@
+#Dungeon Tweaks for:shear
+#Format mobid:mobname { } = weight
+
+<DungeonMobs>
+
+shear:chickennaked = 0
+shear:cownaked = 0
+shear:llamanaked = 0
+shear:parrotnaked = 0
+shear:pigmannaked = 0
+shear:pignaked = 0
+shear:polarbearnaked = 0
+shear:rabbitnaked = 0
+
+</DungeonMobs>
