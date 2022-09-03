@@ -1,0 +1,27 @@
+{
+	title: "Chapter 4",
+	icon: {
+		id: "matteroverdrive:contract",
+		tag: {
+			Completed: 0b,
+			Data: {
+				BlockType: 0b,
+				MaxMineCount: 1
+			},
+			Quest: 6s
+		}
+	},
+	x: -10.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	text: [
+		"To unlock this chapter you must complete the \"Pistol\" Quest in chapter 3",
+		"",
+		"When the mobs took over my lab and befor I was killed by them I heard one of the retched androids talking about the schematics.",
+		"Something about spliting them up between them, the monsters, the cyber mess of a monster and now turned Mutant scientists.",
+		"I need to find their bases of operations and retrieve whats was once ours!"
+	],
+	dependencies: [
+		"ac575d02"
+	]
+}

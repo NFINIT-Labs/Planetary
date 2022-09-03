@@ -1,0 +1,26 @@
+{
+	x: -10.0d,
+	y: -0.5d,
+	dependencies: [
+		"ef1973f8"
+	],
+	tasks: [{
+		uid: "0e527cbf",
+		type: "item",
+		items: [{
+			item: "sevendaystomine:firstaidkit"
+		}]
+	},
+	{
+		uid: "ac8d80d6",
+		type: "item",
+		items: [{
+			item: "sevendaystomine:bloodbag"
+		}]
+	}],
+	rewards: [{
+		uid: "998408da",
+		type: "choice",
+		table: 9
+	}]
+}

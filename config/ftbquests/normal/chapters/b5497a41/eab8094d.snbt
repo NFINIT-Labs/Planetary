@@ -1,0 +1,24 @@
+{
+	x: 6.5d,
+	y: -2.5d,
+	text: [
+		"The Compressor, also known as Ingot Compressor, is a Tier 1 machine block that is used to compress different kinds of ingots and convert them into compressed metal sheets and platings, just being powered by Coal. No energy required.",
+		"",
+		"The Compressor can also be used to craft Gravel, Sand, and Clay blocks."
+	],
+	dependencies: [
+		"9a8c4967"
+	],
+	tasks: [{
+		uid: "c57ec2bd",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "1099ce94",
+		type: "choice",
+		table: 10
+	}]
+}

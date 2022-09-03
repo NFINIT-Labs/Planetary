@@ -1,0 +1,21 @@
+{
+  "dimensions": [
+    {
+      "dim": 3,
+	  "biome": "minecraft:plains",
+      "dimensiontype": {
+        "id": 3,
+        "name": "Wildzone",
+        "suffix": "_wildzone",
+        "keeploaded": true,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+	  
+	  "worldinfo": {
+        "JED": {
+        "SkyColor": "8B572A"
+        }
+      }
+    }
+  ]
+}

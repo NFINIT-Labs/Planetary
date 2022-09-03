@@ -1,0 +1,22 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	dependencies: [
+		"bfe2e6a3",
+		"45b26a7b",
+		"ce1245d9"
+	],
+	tasks: [{
+		uid: "5466103f",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8cdf8f2e",
+		type: "random",
+		table: 10
+	}]
+}

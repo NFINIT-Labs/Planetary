@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	text: [
+		"The Refinery is a machine block that uses electrical power to process Crude Oil into usable Fuel."
+	],
+	dependencies: [
+		"2fc7eb6d"
+	],
+	tasks: [{
+		uid: "9dc0fe8b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:refinery"
+		}]
+	}],
+	rewards: [{
+		uid: "7ddcea51",
+		type: "choice",
+		table: 9
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -1.0d,
+	dependencies: [
+		"0e25e612"
+	],
+	tasks: [{
+		uid: "315ada3e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:salt_mixer"
+		}]
+	}],
+	rewards: [{
+		uid: "0f9a570d",
+		type: "choice",
+		table: 9
+	}]
+}

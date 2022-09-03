@@ -1,0 +1,18 @@
+{
+	title: "Uranus Moon: Miranda",
+	x: 14.5d,
+	y: 0.0d,
+	dependencies: [
+		"af4ddc56"
+	],
+	tasks: [{
+		uid: "1809e1fa",
+		type: "dimension",
+		dim: -1024
+	}],
+	rewards: [{
+		uid: "fec64f8a",
+		type: "choice",
+		table: 10
+	}]
+}

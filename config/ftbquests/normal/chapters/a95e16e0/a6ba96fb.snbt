@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	text: [
+		"Oxygen Collector is a block that gathers oxygen from the air, leaves, or crops to use in a Oxygen Bubble Distributor, Oxygen Sealer, Oxygen Compressor, and other oxygen-reliant machines."
+	],
+	dependencies: [
+		"5a198c49"
+	],
+	tasks: [{
+		uid: "96b594ba",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:collector"
+		}]
+	}],
+	rewards: [{
+		uid: "49473d22",
+		type: "choice",
+		table: 10
+	}]
+}

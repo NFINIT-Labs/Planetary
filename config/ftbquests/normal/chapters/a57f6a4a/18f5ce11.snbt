@@ -1,0 +1,53 @@
+{
+	x: -8.5d,
+	y: -5.0d,
+	text: [
+		"To unlock this chapter you must complete the \"Wastelands Blocks\" Quest in chapter 1",
+		"",
+		"Coins are part of the economy system, they can be sold for money using the \"Shop\".",
+		"",
+		"You can obtain coins by completing quests or crafting them using the \"Compactor\".",
+		"",
+		"You can unlock this chapter by completing the \"Wasteland Blocks\" quest from chapter 1."
+	],
+	dependencies: [
+		"242504f2"
+	],
+	tasks: [{
+		uid: "ebcf701f",
+		type: "item",
+		title: "Coins",
+		items: [{
+			item: "thermalfoundation:coin"
+		},
+		{
+			item: "thermalfoundation:coin 1 1"
+		},
+		{
+			item: "thermalfoundation:coin 1 64"
+		},
+		{
+			item: "thermalfoundation:coin 1 65"
+		},
+		{
+			item: "thermalfoundation:coin 1 67"
+		},
+		{
+			item: "thermalfoundation:coin 1 68"
+		},
+		{
+			item: "thermalfoundation:coin 1 66"
+		},
+		{
+			item: "thermalfoundation:coin 1 101"
+		},
+		{
+			item: "thermalfoundation:coin 1 103"
+		}]
+	}],
+	rewards: [{
+		uid: "9f967445",
+		type: "item",
+		item: "adminshop:shop"
+	}]
+}

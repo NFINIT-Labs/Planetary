@@ -1,0 +1,6 @@
+
+{
+  "Name": "zombie_crawler",
+  "Registry ID": "sevendaystomine:zombie_crawler",
+  "Class": "nuparu.sevendaystomine.entity.EntityZombieCrawler"
+}

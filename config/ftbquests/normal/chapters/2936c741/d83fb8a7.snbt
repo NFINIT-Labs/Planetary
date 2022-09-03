@@ -1,0 +1,12 @@
+{
+	title: "Undergound Failed Lab",
+	icon: "minecraft:stonebrick",
+	x: -11.5d,
+	y: -3.0d,
+	text: [
+		"Underground Failed Labs are made out of \"Stone Brick\" blocks."
+	],
+	dependencies: [
+		"ec7f123b"
+	]
+}

@@ -1,0 +1,454 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "alienbase-loot",
+  "items": [
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "galacticraftcore:item_basic_moon",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.2900550961494446,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "galacticraftcore:basic_item",
+        "damage": 19,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 9,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:buggymat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:buggymat",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:buggymat",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "galacticraftcore:canvas",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 28,
+      "item": {
+        "id": "galacticraftcore:cheese_curd",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "galacticraftcore:food",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:dungeonfinder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 30,
+      "item": {
+        "id": "galacticraftplanets:basic_item_venus",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "galacticraftcore:oxygen_concentrator",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "galacticraftcore:basic_item",
+        "damage": 20,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "galacticraftcore:air_fan",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "galacticraftplanets:basic_item_venus",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "galacticraftcore:canister",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "galacticraftcore:canister",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.2900550961494446,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:oil_canister_partial",
+        "damage": 1001,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftplanets:atomic_battery",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:air",
+        "damage": 14,
+        "count": 0
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 66,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 64,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.2900550961494446,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:oxygen_tank_light_full",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:oxygen_tank_med_full",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "galacticraftcore:oxygen_tank_heavy_full",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:alienblaster",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 10
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "deepmoblearning:living_matter_extraterrestrial",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "sevendaystomine:bottledwater",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 17,
+      "item": {
+        "id": "galacticraftcore:meteoric_iron_raw",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "galacticraftcore:item_basic_moon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "mysticalagriculture:meteoric_iron_essence",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mysticalagriculture:meteoric_iron_seeds",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "cannedfoodanddrinks:cannedapple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "cannedfoodanddrinks:cannedbakedpotato",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "cannedfoodanddrinks:cannedgoldencarrot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "cannedfoodanddrinks:cannedporkchop",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "cannedfoodanddrinks:cannedenchantedgoldenapple",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

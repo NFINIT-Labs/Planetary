@@ -1,6 +1,6 @@
 
 {
-  "ID": 41,
+  "ID": 89,
   "Name": "Storage Cell",
   "Resource Location": "appliedenergistics2:storage_biome",
   "Class": "appeng.spatial.BiomeGenStorage",
@@ -20,29 +20,107 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "COLD",
-    "PLAINS"
+    "PLAINS",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
   "Spawnable Monsters": [
     {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityBloatedZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityPlaguedNurse",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieCrawler",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombiePig",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntitySpiderZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityFrigidHunter",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieWolf",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieMiner",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityFeralZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "matteroverdrive.entity.monster.EntityMeleeRougeAndroidMob",
-      "Weight": 25,
+      "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 25,
+      "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "techguns.entities.npcs.TGDummySpawn",
-      "Weight": 600,
+      "Weight": 30,
       "Min Group Count": 1,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityRat",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],

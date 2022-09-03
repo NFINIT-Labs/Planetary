@@ -1,0 +1,12 @@
+{
+	title: "Undergroung Cyber Lab",
+	icon: "chisel:factory 1 13",
+	x: -8.0d,
+	y: -4.0d,
+	text: [
+		"Underground Cyber Labs are made out of \"Factory\" blocks."
+	],
+	dependencies: [
+		"ec7f123b"
+	]
+}

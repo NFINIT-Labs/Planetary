@@ -1,0 +1,103 @@
+# Configuration file
+
+charm {
+    # List of charm item names that will keep armor and held items
+    # Warning: items listed here are responsible to save & restore inventory on death, GraveKeeper won't do it for them.
+    S:charm_armor_held_names <
+        twilightforest:charm_of_keeping_1
+     >
+
+    # List of charm item names that will keep armor and hotbar items
+    # Warning: items listed here are responsible to save & restore inventory on death, GraveKeeper won't do it for them.
+    S:charm_armor_hotbar_names <
+        twilightforest:charm_of_keeping_2
+     >
+
+    # List of charm item names that will keep armor, baubles, off hand and main inventory items
+    # Warning: items listed here are responsible to save & restore inventory on death, GraveKeeper won't do it for them.
+    S:charm_full_names <
+        twilightforest:charm_of_keeping_3
+     >
+}
+
+
+general {
+    # Enable console logs for debugging purpose
+    B:enable_debug_logs=false
+
+    # Time in seconds after which other players will be able to collect ones grave
+    # Use 0 to have an instant expiration and anyone is able to pick up the grave instantly
+    # Use -1 or lower to remove expiration and only the owner will ever be able to pick up the grave
+    I:expire_time=5200
+
+    # Whether the chests should still spawn when keepInventory is enabled
+    B:ignore_keep_inventory=false
+
+    # Define which inventories are enabled and in which order they're processed. Missing mods are ignored when creating a grave.
+    # Use this to adjust soulbind priority between inventory type. Remove inventories you don't want to be saved in a grave.
+    # Note: Traveler's backpack are only saved if you disable block placement in the related mod.
+    # Valid vanilla values are: minecraft:armour, minecraft:main & minecraft:offhand.
+    # Valid modded values are: aether_legacy, baubles, cosmeticarmorreworked, galacticraftcore, techguns, travelersbackpack.
+    S:inventory_sorting <
+        minecraft:armour
+        minecraft:main
+        minecraft:offhand
+        aether_legacy
+        baubles
+        cosmeticarmorreworked
+        galacticraftcore
+        techguns
+        travelersbackpack
+        sevendaystomine
+     >
+}
+
+
+grave_location {
+    # Force a minimum altitude before looking for a free spot (this also applies to home/spawn location).
+    I:search_min_altitude=0
+
+    # How far to search around vertically above for a free spot to place the grave.
+    I:search_radius_above_m=10
+
+    # How far to search around vertically below for a free spot to place the grave.
+    I:search_radius_below_m=-1
+
+    # How far to search around horizontally for a free spot to place the grave.
+    I:search_radius_horizontal_m=5
+
+    # Defines which spawn dimension to use when player has no bed set.
+    I:spawn_dimension=0
+
+    # Use Bed or spawn location when death happens with Y below this value.
+    # Use -1000 or lower to disable it, use 1000 or higher to force permanently.
+    # We first check bed in current dimension, then bed in spawn dimension, then we use the actual spawn.
+    # Note: default spawn is center of the world at Y = 0.
+    I:use_bed_or_spawn_location_below_y=0
+}
+
+
+soulbound {
+    # The amount of soulbound items should be kept in player inventory, remaining will go into the grave
+    I:amount=5
+
+    # Enable to workaround for soul binding mods that don't support modded inventories.
+    # For example: CoFH doesn't support Baubles, Twilight Forest doesn't support TechGuns,
+    # EnderIO doesn't support AetherLegacy, etc.
+    B:move_soulbound_items_to_main_inventory=true
+
+    # List of enchantment names that are considered as soulbinding
+    S:soulbound_enchantment_names <
+        enderio:soulbound
+        cofhcore:soulbound
+        aoa3:intervention
+     >
+
+    # List of JSON based alternate NBT values that are considered as soulbinding when found on an item.
+    S:soulbound_tags <
+        { "Botania_keepIvy": 1b }
+        { "spectreAnchor": 0b }
+     >
+}
+
+

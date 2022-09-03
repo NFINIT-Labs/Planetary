@@ -1,0 +1,24 @@
+{
+	title: "Iron Ore",
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"Iron Ore is the most abundant ore found inside meteors."
+	],
+	dependencies: [
+		"f90d39c2"
+	],
+	tasks: [{
+		uid: "11e29452",
+		type: "item",
+		icon: "galacticraftplanets:asteroids_block 1 5",
+		items: [{
+			item: "minecraft:iron_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "09832888",
+		type: "choice",
+		table: 10
+	}]
+}

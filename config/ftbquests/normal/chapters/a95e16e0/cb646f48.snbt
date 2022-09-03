@@ -1,0 +1,23 @@
+{
+	x: 2.5d,
+	y: -2.5d,
+	shape: "circle",
+	text: [
+		"Oxygen Gear is used to attach Oxygen Tanks to the Oxygen Masks. This is vital to any astronaut."
+	],
+	dependencies: [
+		"dff5b8f8"
+	],
+	tasks: [{
+		uid: "92d25273",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_gear"
+		}]
+	}],
+	rewards: [{
+		uid: "67454a32",
+		type: "choice",
+		table: 9
+	}]
+}

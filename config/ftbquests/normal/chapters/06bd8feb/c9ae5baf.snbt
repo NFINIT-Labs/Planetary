@@ -1,0 +1,23 @@
+{
+	title: "IO Ores",
+	x: 10.0d,
+	y: 0.0d,
+	dependencies: [
+		"4c8f7320"
+	],
+	tasks: [{
+		uid: "435683b9",
+		type: "item",
+		items: [{
+			item: "galaxyspace:ioblocks 1 5"
+		},
+		{
+			item: "galaxyspace:gs_basic 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "14e2e018",
+		type: "choice",
+		table: 10
+	}]
+}

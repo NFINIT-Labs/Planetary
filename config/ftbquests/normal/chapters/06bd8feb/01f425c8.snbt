@@ -1,0 +1,18 @@
+{
+	title: "Jupiter Moon: Europa",
+	x: 9.5d,
+	y: 1.0d,
+	dependencies: [
+		"8e649ac0"
+	],
+	tasks: [{
+		uid: "e9c435a6",
+		type: "dimension",
+		dim: -1015
+	}],
+	rewards: [{
+		uid: "5263e486",
+		type: "choice",
+		table: 10
+	}]
+}

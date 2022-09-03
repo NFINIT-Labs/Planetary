@@ -1,0 +1,26 @@
+{
+	title: "Ore Processing Upgrade",
+	x: 4.5d,
+	y: -0.5d,
+	text: [
+		"Ore Processing Upgrade: ",
+		"It doubles the output of the furnace when processing ores in an iron furnace or higher."
+	],
+	dependencies: [
+		"8cb5e6f4"
+	],
+	tasks: [{
+		uid: "dd1e0b12",
+		type: "item",
+		items: [{
+			item: "furnaceoverhaul:ore_processing_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b6422d54",
+		type: "choice",
+		table: 9
+	}]
+}

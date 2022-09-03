@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: -1.0d,
+	dependencies: [
+		"c672de04"
+	],
+	tasks: [{
+		uid: "78232fd5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway_slow"
+		}]
+	}],
+	rewards: [{
+		uid: "2a318e7b",
+		type: "choice",
+		table: 9
+	}]
+}

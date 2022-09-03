@@ -1,0 +1,33 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	text: [
+		"Oxygen Tank is an oxygen storage container used as Breathing Equipment in Galacticraft."
+	],
+	dependencies: [
+		"2972a3f6"
+	],
+	tasks: [{
+		uid: "c75fd9f7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_tank_heavy_full"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "372d739d",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_tank_heavy_full"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "75685a3a",
+		type: "choice",
+		table: 9
+	}]
+}

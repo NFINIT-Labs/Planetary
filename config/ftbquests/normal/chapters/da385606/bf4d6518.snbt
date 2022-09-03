@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	text: [
+		"Its primary use is an ore-doubler. It is also used as crafting item in the construction of some advanced machinery."
+	],
+	dependencies: [
+		"8deacbf9"
+	],
+	tasks: [{
+		uid: "cfd1e9f3",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:manufactory"
+		}]
+	}],
+	rewards: [{
+		uid: "eb533cf3",
+		type: "choice",
+		table: 9
+	}]
+}

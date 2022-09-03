@@ -1,0 +1,62 @@
+{
+	title: "Meteor Chest Special items",
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"a8b0ef58"
+	],
+	tasks: [{
+		uid: "970b8588",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:living_matter_overworldian"
+		}]
+	},
+	{
+		uid: "112de9de",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:living_matter_hellish"
+		}]
+	},
+	{
+		uid: "51dd0934",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:living_matter_extraterrestrial"
+		}]
+	},
+	{
+		uid: "54179bff",
+		type: "item",
+		items: [{
+			item: "projectred-core:resource_item 1 200"
+		}]
+	},
+	{
+		uid: "e4b2ff13",
+		type: "item",
+		items: [{
+			item: "projectred-core:resource_item 1 202"
+		}]
+	},
+	{
+		uid: "e4af7a1f",
+		type: "item",
+		items: [{
+			item: "projectred-core:resource_item 1 201"
+		}]
+	},
+	{
+		uid: "034e086d",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}]
+	}],
+	rewards: [{
+		uid: "de96db9e",
+		type: "choice",
+		table: 9
+	}]
+}

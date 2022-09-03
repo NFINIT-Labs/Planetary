@@ -1,0 +1,22 @@
+{
+	x: -6.5d,
+	y: -5.0d,
+	text: [
+		"Used to buy and sell items in a clear User Interface."
+	],
+	dependencies: [
+		"18f5ce11"
+	],
+	tasks: [{
+		uid: "a42e6804",
+		type: "item",
+		items: [{
+			item: "adminshop:shop"
+		}]
+	}],
+	rewards: [{
+		uid: "e82a93fd",
+		type: "random",
+		table: 0
+	}]
+}

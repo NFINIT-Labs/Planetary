@@ -1,0 +1,83 @@
+{
+	title: "Mars Ores",
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"6a74bf14"
+	],
+	tasks: [{
+		uid: "eb4f7fcf",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars 1 2"
+		},
+		{
+			item: "galacticraftplanets:item_basic_mars"
+		}]
+	},
+	{
+		uid: "53dad998",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores"
+		},
+		{
+			item: "minecraft:diamond"
+		}]
+	},
+	{
+		uid: "ae1588e5",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores 1 1"
+		},
+		{
+			item: "minecraft:gold_ingot"
+		}]
+	},
+	{
+		uid: "7883cac5",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores 1 2"
+		},
+		{
+			item: "minecraft:coal"
+		}]
+	},
+	{
+		uid: "7f1007dc",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores 1 3"
+		},
+		{
+			item: "minecraft:redstone"
+		}]
+	},
+	{
+		uid: "97ee5c8c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores 1 4"
+		},
+		{
+			item: "galacticraftcore:basic_item 1 2"
+		}]
+	},
+	{
+		uid: "de93f684",
+		type: "item",
+		items: [{
+			item: "galaxyspace:marsores 1 5"
+		},
+		{
+			item: "galacticraftcore:basic_item 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "8460a21b",
+		type: "choice",
+		table: 10
+	}]
+}

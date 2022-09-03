@@ -1,0 +1,25 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"b9d4d461"
+	],
+	tasks: [{
+		uid: "115227b1",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "redstone",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad22f132",
+		type: "choice",
+		table: 9
+	}]
+}

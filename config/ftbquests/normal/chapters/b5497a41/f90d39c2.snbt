@@ -1,0 +1,24 @@
+{
+	title: "Meteors",
+	x: -2.5d,
+	y: -1.5d,
+	text: [
+		"Resource Meteors can be found on the surface of the world, they contain various resources including ores and meteor chests."
+	],
+	dependencies: [
+		"3e215254"
+	],
+	tasks: [{
+		uid: "9ca34b90",
+		type: "item",
+		items: [{
+			item: "wasteland_meteors:meteor_block"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "c8d754d7",
+		type: "choice",
+		table: 9
+	}]
+}

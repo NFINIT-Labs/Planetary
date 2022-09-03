@@ -1,0 +1,40 @@
+{
+	title: "Undergound Space Lab Mobs",
+	x: -6.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"bfbd8e76"
+	],
+	tasks: [{
+		uid: "0e0dcdb9",
+		type: "kill",
+		entity: "galacticraftcore:evolved_zombie",
+		value: 1L
+	},
+	{
+		uid: "860a8934",
+		type: "kill",
+		entity: "galacticraftcore:evolved_skeleton",
+		value: 1L
+	},
+	{
+		uid: "2d1f04a0",
+		type: "kill",
+		entity: "galacticraftcore:evolved_creeper",
+		value: 1L
+	},
+	{
+		uid: "4fe7ca7a",
+		type: "kill",
+		entity: "galacticraftcore:evolved_enderman",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "02ea6b02",
+		type: "choice",
+		table: 10
+	}]
+}

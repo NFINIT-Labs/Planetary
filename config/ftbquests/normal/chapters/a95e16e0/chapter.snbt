@@ -1,0 +1,7 @@
+{
+	title: "Chapter 5 - Oxygen",
+	icon: "galacticraftcore:oxygen_gear",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

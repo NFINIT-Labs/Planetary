@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	dependencies: [
+		"822a66d2"
+	],
+	tasks: [{
+		uid: "9ce566bf",
+		type: "item",
+		title: "Kepler 22b Research Paper",
+		items: [{
+			item: "planetprogression:research_paper_20"
+		}]
+	}]
+}

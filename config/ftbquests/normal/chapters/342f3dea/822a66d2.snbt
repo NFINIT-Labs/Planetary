@@ -1,0 +1,28 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	dependencies: [
+		"5c8f1e4e"
+	],
+	tasks: [{
+		uid: "9e2c6be4",
+		type: "kill",
+		entity: "moreplanets:vein_floater",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "46048952",
+		type: "item",
+		item: "planetprogression:research_paper_13"
+	},
+	{
+		uid: "6c8a4cff",
+		type: "item",
+		item: "extraplanets:schematic_tier10"
+	},
+	{
+		uid: "897769b0",
+		type: "item",
+		item: "extraplanets:schematic_tier10_electric_rocket"
+	}]
+}

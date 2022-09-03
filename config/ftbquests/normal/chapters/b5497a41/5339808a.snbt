@@ -1,0 +1,54 @@
+{
+	x: 8.0d,
+	y: -2.0d,
+	dependencies: [
+		"b1181662"
+	],
+	tasks: [{
+		uid: "69cae4f5",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_zinc_ore"
+		}]
+	},
+	{
+		uid: "938497a2",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_boron_ore"
+		}]
+	},
+	{
+		uid: "4385fd1a",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_thorium_ore"
+		}]
+	},
+	{
+		uid: "033f1685",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_magnesium_ore"
+		}]
+	},
+	{
+		uid: "fb5ccd8c",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_tungsten_ore"
+		}]
+	},
+	{
+		uid: "039d10bc",
+		type: "item",
+		items: [{
+			item: "densemetals:dense_uranium_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "06d8f9dc",
+		type: "choice",
+		table: 10
+	}]
+}

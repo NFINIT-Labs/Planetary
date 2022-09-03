@@ -1,0 +1,72 @@
+{
+	x: 4.0d,
+	y: -1.5d,
+	dependencies: [
+		"02703715"
+	],
+	tasks: [{
+		uid: "25478149",
+		type: "item",
+		items: [{
+			id: "apexguns:r99",
+			tag: {
+				AmmoCount: 27
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0945cdfd",
+		type: "item",
+		items: [{
+			id: "apexguns:r301",
+			tag: {
+				AmmoCount: 28
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0ae0a6c2",
+		type: "item",
+		items: [{
+			id: "apexguns:spitfire",
+			tag: {
+				AmmoCount: 50
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "12a6c45f",
+		type: "item",
+		items: [{
+			id: "apexguns:rifle3030",
+			tag: {
+				AmmoCount: 12
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ac6dadd5",
+		type: "item",
+		items: [{
+			id: "apexguns:kraber",
+			tag: {
+				AmmoCount: 12
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1a54bde",
+		type: "choice",
+		table: 10
+	}]
+}

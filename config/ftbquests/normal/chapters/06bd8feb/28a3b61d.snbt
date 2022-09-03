@@ -1,0 +1,19 @@
+{
+	title: "Ceres Dungeons",
+	icon: "galaxyspace:dungeon_blocks",
+	x: 6.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"e1ba0d3e"
+	],
+	tasks: [{
+		uid: "2eade84b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:dungeonfinder"
+		}]
+	}]
+}

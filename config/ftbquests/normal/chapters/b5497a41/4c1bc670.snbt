@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	text: [
+		"You can craft Water Buckets using Overwolrdian Matter and a Bucket."
+	],
+	dependencies: [
+		"a8b0ef58",
+		"8b93b976"
+	],
+	tasks: [{
+		uid: "cbbf191b",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2bb313d3",
+		type: "choice",
+		table: 9
+	}]
+}

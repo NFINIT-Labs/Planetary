@@ -1,0 +1,7 @@
+{
+	title: "Chapter 6 - Orbit",
+	icon: "galacticraftcore:basic_block_moon 1 3",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

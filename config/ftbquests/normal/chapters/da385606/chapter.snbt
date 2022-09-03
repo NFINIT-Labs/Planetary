@@ -1,0 +1,10 @@
+{
+	title: "Chapter 2 - Advanced Radiation",
+	icon: {
+		id: "atomicscience:hazmat_mask",
+		tag: {}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

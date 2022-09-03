@@ -1,0 +1,19 @@
+{
+	title: "Moon Dungeons",
+	icon: "galacticraftcore:basic_block_moon 1 14",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"The Moon Dungeon is a generated structure found at the bottom of narrow and deep craters on the Moon."
+	],
+	dependencies: [
+		"3a9e1ebf"
+	],
+	tasks: [{
+		uid: "22d9bc63",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:dungeonfinder"
+		}]
+	}]
+}

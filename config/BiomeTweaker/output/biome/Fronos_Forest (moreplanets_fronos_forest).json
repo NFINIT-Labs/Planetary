@@ -1,0 +1,185 @@
+
+{
+  "ID": 87,
+  "Name": "Fronos Forest",
+  "Resource Location": "moreplanets:fronos_forest",
+  "Class": "stevekung.mods.moreplanets.planets.fronos.world.gen.biome.BiomeFronosForest",
+  "Root Height": 0.1,
+  "Height Variation": 0.05,
+  "Top Block": "moreplanets:fronos_grass_block[layer\u003dnone]",
+  "Filler Block": "moreplanets:fronos_dirt",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.7,
+  "Humidity": 0.8,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "FOREST"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "stevekung.mods.moreplanets.planets.fronos.entity.EntityBearry",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "stevekung.mods.moreplanets.planets.fronos.entity.EntityMarshmallow",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "stevekung.mods.moreplanets.planets.fronos.entity.EntityGiantBlueberry",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
+      "Weight": 95,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "stevekung.mods.moreplanets.planets.fronos.entity.EntityJellySlime",
+      "Weight": 5,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityBloatedZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityPlaguedNurse",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieCrawler",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombiePig",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntitySpiderZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieMiner",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityFeralZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "matteroverdrive.entity.monster.EntityMeleeRougeAndroidMob",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityRat",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySquid",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

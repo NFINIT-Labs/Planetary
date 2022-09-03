@@ -3,7 +3,7 @@
 	"spawns": {
 		"dense_coal_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_coal_ore",
 			"dimensions": [],
@@ -25,7 +25,7 @@
 		},
 		"dense_iron_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_iron_ore",
 			"dimensions": [],
@@ -47,7 +47,7 @@
 		},
 		"dense_gold_ore_standard": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_gold_ore",
 			"dimensions": [],
@@ -69,7 +69,7 @@
 		},
 		"dense_gold_ore_mesa": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_gold_ore",
 			"dimensions": [],
@@ -91,7 +91,7 @@
 		},
 		"dense_diamond_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_diamond_ore",
 			"dimensions": [],
@@ -113,7 +113,7 @@
 		},
 		"dense_redstone_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_redstone_ore",
 			"dimensions": [],
@@ -135,7 +135,7 @@
 		},
 		"dense_lapis_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_lapis_ore",
 			"dimensions": [],
@@ -157,7 +157,7 @@
 		},
 		"dense_emerald_ore": {
 			"retrogen": false,
-			"enabled": true,
+			"enabled": false,
 			"feature": "precision",
 			"replaces": "replace_emerald_ore",
 			"dimensions": [],

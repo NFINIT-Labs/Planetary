@@ -1,0 +1,12 @@
+{
+	title: "Underground Android Laboratory",
+	icon: "matteroverdrive:decorative.tritanium_plate_colored 1 8",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"Underground Android Labs are made out of \"Colored Tritanium Plate\" blocks."
+	],
+	dependencies: [
+		"06325809"
+	]
+}

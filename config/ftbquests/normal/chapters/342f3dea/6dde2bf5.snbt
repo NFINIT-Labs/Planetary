@@ -1,0 +1,9 @@
+{
+	title: "Diona Dungeon",
+	icon: "moreplanets:diona_dungeon_brick",
+	x: -4.5d,
+	y: -0.5d,
+	dependencies: [
+		"28fb3106"
+	]
+}

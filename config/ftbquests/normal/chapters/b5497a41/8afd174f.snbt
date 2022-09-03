@@ -1,0 +1,24 @@
+{
+	title: "Anti Rad Items",
+	icon: "sevendaystomine:bottledwater",
+	x: -11.5d,
+	y: -1.5d,
+	text: [
+		"Some of the items that can be used to reduce radiation."
+	],
+	dependencies: [
+		"05bd1753"
+	],
+	rewards: [{
+		uid: "4f5d0f9b",
+		type: "item",
+		item: "sevendaystomine:bottledwater",
+		count: 16
+	},
+	{
+		uid: "bd67b2ba",
+		type: "item",
+		item: "matteroverdrive:emergency_ration",
+		count: 16
+	}]
+}

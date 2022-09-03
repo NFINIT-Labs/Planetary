@@ -1,0 +1,13 @@
+{
+	title: "Underground Space Lab",
+	icon: "galacticraftcore:basic_block_core 1 4",
+	x: -8.0d,
+	y: -3.0d,
+	shape: "circle",
+	text: [
+		"Underground Space Labs are made out of \"Tin Wall\" blocks."
+	],
+	dependencies: [
+		"ec7f123b"
+	]
+}

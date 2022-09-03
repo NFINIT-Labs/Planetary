@@ -1,0 +1,145 @@
+minecraft:ocean
+minecraft:plains
+minecraft:desert
+minecraft:extreme_hills
+minecraft:forest
+minecraft:taiga
+minecraft:swampland
+minecraft:river
+minecraft:hell
+minecraft:sky
+minecraft:frozen_ocean
+minecraft:frozen_river
+minecraft:ice_flats
+minecraft:ice_mountains
+minecraft:mushroom_island
+minecraft:mushroom_island_shore
+minecraft:beaches
+minecraft:desert_hills
+minecraft:forest_hills
+minecraft:taiga_hills
+minecraft:smaller_extreme_hills
+minecraft:jungle
+minecraft:jungle_hills
+minecraft:jungle_edge
+minecraft:deep_ocean
+minecraft:stone_beach
+minecraft:cold_beach
+minecraft:birch_forest
+minecraft:birch_forest_hills
+minecraft:roofed_forest
+minecraft:taiga_cold
+minecraft:taiga_cold_hills
+minecraft:redwood_taiga
+minecraft:redwood_taiga_hills
+minecraft:extreme_hills_with_trees
+minecraft:savanna
+minecraft:savanna_rock
+minecraft:mesa
+minecraft:mesa_rock
+minecraft:mesa_clear_rock
+moreplanets:diona
+moreplanets:chalos_plains
+moreplanets:chalos_moutains
+moreplanets:slimely_stream
+moreplanets:infected_plains
+moreplanets:infected_infested_plains
+moreplanets:infected_dead_savanna
+moreplanets:infected_dead_savanna_plateau
+moreplanets:infected_desert
+moreplanets:infected_desert_hills
+moreplanets:infected_river
+moreplanets:infected_frozen_river
+moreplanets:infected_ocean
+moreplanets:infected_forest
+moreplanets:infected_wooded_hills
+moreplanets:infected_deep_ocean
+moreplanets:infected_dead_dark_forest
+moreplanets:infected_mountains
+moreplanets:infected_mountains_edge
+moreplanets:infected_wooded_mountains
+moreplanets:infected_swamp
+moreplanets:infected_taiga
+moreplanets:infected_taiga_hills
+moreplanets:infected_snowy_taiga
+moreplanets:infected_snowy_taiga_hills
+moreplanets:infected_giant_tree_taiga
+moreplanets:infected_giant_tree_taiga_hills
+moreplanets:infected_giant_spruce_taiga
+moreplanets:infected_giant_spruce_taiga_hills
+moreplanets:infected_jungle
+moreplanets:infected_jungle_hills
+moreplanets:infected_jungle_edge
+moreplanets:infected_snowy_tundra
+moreplanets:infected_snowy_mountains
+moreplanets:infected_ice_spikes
+moreplanets:green_vein_fields
+moreplanets:cold_green_vein_moutains
+moreplanets:green_vein_field_shore
+moreplanets:infected_beaches
+moreplanets:infected_stone_shore
+moreplanets:infected_snowy_beach
+moreplanets:infected_badlands
+moreplanets:infected_wooded_badlands_plateau
+moreplanets:infected_badlands_plateau
+moreplanets:fronos_meadow
+moreplanets:fronos_plains
+moreplanets:fronos_river
+moreplanets:fronos_forest
+randomthings:spectral
+appliedenergistics2:storage_biome
+galacticraftcore:outer space
+galacticraftplanets:outer space 1
+galacticraftplanets:outer space 2
+extraplanets:outer space 3
+extraplanets:outer space 4
+extraplanets:outer space 5
+extraplanets:outer space 6
+extraplanets:outer space 7
+extraplanets:outer space 8
+extraplanets:outer space 9
+extraplanets:outer space 10
+extraplanets:outer space 11
+extraplanets:outer space 12
+galaxyspace:space
+galaxyspace:spacelowplains
+galaxyspace:spacemidplains
+galaxyspace:spacelowhills
+galaxyspace:spacemidhills
+asmodeuscore:-=|worldengine|=-
+asmodeuscore:-=|worldengine 2|=-
+nuclearcraft:nuclear_wasteland
+rats:ratlantis
+betteragriculture:farmlandbiome
+sevendaystomine:burnt forest
+sevendaystomine:burnt jungle
+sevendaystomine:wasteland
+sevendaystomine:wasteland river
+sevendaystomine:burnt cold taiga
+sevendaystomine:wasteland ocean
+sevendaystomine:wasteland deep ocean
+sevendaystomine:wasteland desert
+sevendaystomine:wasteland beach
+sevendaystomine:dead forest
+minecraft:void
+minecraft:mutated_plains
+minecraft:mutated_desert
+minecraft:mutated_extreme_hills
+minecraft:mutated_forest
+minecraft:mutated_taiga
+minecraft:mutated_swampland
+minecraft:mutated_ice_flats
+minecraft:mutated_jungle
+minecraft:mutated_jungle_edge
+minecraft:mutated_birch_forest
+minecraft:mutated_birch_forest_hills
+minecraft:mutated_roofed_forest
+minecraft:mutated_taiga_cold
+minecraft:mutated_redwood_taiga
+minecraft:mutated_redwood_taiga_hills
+minecraft:mutated_extreme_hills_with_trees
+minecraft:mutated_savanna
+minecraft:mutated_savanna_rock
+minecraft:mutated_mesa
+minecraft:mutated_mesa_rock
+minecraft:mutated_mesa_clear_rock

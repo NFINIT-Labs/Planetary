@@ -1,0 +1,22 @@
+{
+	x: 13.0d,
+	y: 0.0d,
+	dependencies: [
+		"2d6e81cf",
+		"949532f6",
+		"6d0c49b3"
+	],
+	tasks: [{
+		uid: "ba26e2f4",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_tier_5"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c595bccf",
+		type: "choice",
+		table: 10
+	}]
+}

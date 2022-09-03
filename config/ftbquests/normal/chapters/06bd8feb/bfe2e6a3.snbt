@@ -1,0 +1,53 @@
+{
+	title: "Rocket Schematics",
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"c4e77cd2"
+	],
+	tasks: [{
+		uid: "9269e31a",
+		type: "item",
+		items: [{
+			item: "galaxyspace:schematics"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eff4fbf4",
+		type: "item",
+		items: [{
+			item: "galaxyspace:schematics 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "87b20e92",
+		type: "item",
+		items: [{
+			item: "galaxyspace:schematics 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "509aa88c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:schematics 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "66316b7b",
+		type: "item",
+		items: [{
+			item: "galaxyspace:schematics 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "43904c45",
+		type: "choice",
+		table: 10
+	}]
+}

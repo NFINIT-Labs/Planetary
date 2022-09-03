@@ -1,0 +1,37 @@
+{
+	title: "Jupiter Research Paper",
+	x: 7.0d,
+	y: 1.0d,
+	dependencies: [
+		"0caf2e53"
+	],
+	tasks: [{
+		uid: "c71b51ed",
+		type: "item",
+		title: "Jupiter Research Paper",
+		items: [{
+			item: "planetprogression:research_paper_22"
+		}]
+	},
+	{
+		uid: "5e42b1d2",
+		type: "item",
+		title: "IO Resarch Paper",
+		items: [{
+			item: "planetprogression:research_paper_8"
+		}]
+	},
+	{
+		uid: "db466093",
+		type: "item",
+		title: "Europa Research Paper",
+		items: [{
+			item: "planetprogression:research_paper_9"
+		}]
+	}],
+	rewards: [{
+		uid: "a35c9095",
+		type: "choice",
+		table: 10
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 17.5d,
+	y: 0.0d,
+	dependencies: [
+		"41ae387d"
+	],
+	tasks: [{
+		uid: "7ef89bcd",
+		type: "item",
+		title: "Tier 6 Rocket License",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "eb9f40e3",
+		type: "choice",
+		table: 10
+	}]
+}

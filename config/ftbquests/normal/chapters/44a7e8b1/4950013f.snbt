@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"3a9e1ebf"
+	],
+	tasks: [{
+		uid: "cb233019",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:meteoric_iron_raw"
+		}]
+	}],
+	rewards: [{
+		uid: "cfad6af0",
+		type: "choice",
+		table: 9
+	}]
+}

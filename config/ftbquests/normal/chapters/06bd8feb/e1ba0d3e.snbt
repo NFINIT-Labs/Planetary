@@ -1,0 +1,18 @@
+{
+	title: "Visit Ceres",
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"9785d855"
+	],
+	tasks: [{
+		uid: "5b03120c",
+		type: "dimension",
+		dim: -1007
+	}],
+	rewards: [{
+		uid: "7011e431",
+		type: "choice",
+		table: 9
+	}]
+}

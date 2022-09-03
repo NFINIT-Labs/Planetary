@@ -1,0 +1,19 @@
+{
+	title: "Mars Dungeon",
+	icon: "galacticraftplanets:mars 1 7",
+	x: -0.5d,
+	y: 1.0d,
+	text: [
+		"The Mars Dungeon is a generated structure found at the bottom of narrow and deep craters on Mars."
+	],
+	dependencies: [
+		"6a74bf14"
+	],
+	tasks: [{
+		uid: "b4f1b0bd",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:dungeonfinder"
+		}]
+	}]
+}

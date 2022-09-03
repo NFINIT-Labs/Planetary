@@ -1,0 +1,37 @@
+{
+	title: "Underground Failed Lab Mobs",
+	x: -13.0d,
+	y: -3.0d,
+	dependencies: [
+		"d83fb8a7"
+	],
+	tasks: [{
+		uid: "0fcc61cb",
+		type: "kill",
+		entity: "matteroverdrive:failed_pig",
+		value: 1L
+	},
+	{
+		uid: "3be659ac",
+		type: "kill",
+		entity: "matteroverdrive:failed_cow",
+		value: 1L
+	},
+	{
+		uid: "cadfd788",
+		type: "kill",
+		entity: "matteroverdrive:failed_chicken",
+		value: 1L
+	},
+	{
+		uid: "90f6dd13",
+		type: "kill",
+		entity: "matteroverdrive:failed_sheep",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "05483618",
+		type: "choice",
+		table: 9
+	}]
+}

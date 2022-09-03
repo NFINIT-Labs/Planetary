@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "loot-android-house",
+  "items": [
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 17,
+      "item": {
+        "id": "matteroverdrive:emergency_ration",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

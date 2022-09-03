@@ -1,0 +1,857 @@
+{
+	title: "Common Reward",
+	loot_size: 1,
+	hide_tooltip: true,
+	use_title: true,
+	rewards: [{
+		item: "pickletweaks:dye_powder 1 1",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 2",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 3",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 4",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 5",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 6",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 7",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 8",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 9",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 10",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 11",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 12",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 13",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 14",
+		count: 4
+	},
+	{
+		item: "pickletweaks:dye_powder 1 15",
+		count: 4
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 11250603
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 4408131
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 14188952
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 4312372
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 14602026
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 12801229
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 6719955
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 15435844
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:crayon_glasses",
+			tag: {
+				Color: 15790320
+			}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:technicolor_glasses",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:serious_glasses",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "openblocks:sleeping_bag",
+			tag: {}
+		}
+	},
+	{
+		item: "openblocks:scaffolding",
+		count: 16
+	},
+	{
+		item: "openblocks:donation_station"
+	},
+	{
+		item: "openblocks:fan"
+	},
+	{
+		item: "openblocks:sponge"
+	},
+	{
+		item: "openblocks:sprinkler"
+	},
+	{
+		item: "deepmoblearning:living_matter_overworldian",
+		count: 5
+	},
+	{
+		item: "deepmoblearning:living_matter_hellish",
+		count: 5
+	},
+	{
+		item: "deepmoblearning:living_matter_extraterrestrial",
+		count: 5
+	},
+	{
+		item: "deepmoblearning:living_matter_overworldian",
+		count: 5
+	},
+	{
+		item: "deepmoblearning:living_matter_hellish",
+		count: 5
+	},
+	{
+		item: "deepmoblearning:living_matter_extraterrestrial",
+		count: 5
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "dark_oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "birch"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "jungle"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "acacia"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "dark_oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "birch"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "birch"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "jungle"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "acacia"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 1s,
+			tag: {
+				material: "dark_oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "jungle"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
+			tag: {
+				material: "acacia"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "birch"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "jungle"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "acacia"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 3s,
+			tag: {
+				material: "dark_oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "oak"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "spruce"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "birch"
+			}
+		}
+	},
+	{
+		item: "storagedrawers:upgrade_redstone 1 2"
+	},
+	{
+		item: "storagedrawers:upgrade_redstone"
+	},
+	{
+		item: "storagedrawers:upgrade_redstone 1 1"
+	},
+	{
+		item: "storagedrawers:upgrade_conversion"
+	},
+	{
+		item: "storagedrawers:upgrade_status 1 1"
+	},
+	{
+		item: "storagedrawers:upgrade_status"
+	},
+	{
+		item: "storagedrawers:upgrade_one_stack"
+	},
+	{
+		item: "storagedrawers:upgrade_storage 1 4"
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "dark_oak"
+			}
+		}
+	},
+	{
+		item: "storagedrawers:upgrade_storage 1 2"
+	},
+	{
+		item: "storagedrawers:upgrade_storage 1 1"
+	},
+	{
+		item: "storagedrawers:upgrade_template"
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "acacia"
+			}
+		}
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			Damage: 4s,
+			tag: {
+				material: "jungle"
+			}
+		}
+	},
+	{
+		item: "storagedrawers:upgrade_void"
+	},
+	{
+		item: "storagedrawers:upgrade_storage 1 3"
+	},
+	{
+		item: {
+			id: "simplybackpacks:commonbackpack",
+			tag: {
+				inv: {
+					Items: [],
+					Size: 18
+				},
+				filter: {
+					Items: [],
+					Size: 16
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Inventory: [],
+					Filter: []
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:wooden_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:tuberous_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:stone_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: "immersiveengineering:tool"
+	},
+	{
+		item: "projectred-exploration:backpack"
+	},
+	{
+		item: "projectred-exploration:backpack 1 1"
+	},
+	{
+		item: "projectred-exploration:backpack 1 2"
+	},
+	{
+		item: "projectred-exploration:backpack 1 3"
+	},
+	{
+		item: "projectred-exploration:backpack 1 4"
+	},
+	{
+		item: "projectred-exploration:backpack 1 5"
+	},
+	{
+		item: "projectred-exploration:backpack 1 6"
+	},
+	{
+		item: "projectred-exploration:backpack 1 8"
+	},
+	{
+		item: "projectred-exploration:backpack 1 9"
+	},
+	{
+		item: "projectred-exploration:backpack 1 7"
+	},
+	{
+		item: "projectred-exploration:backpack 1 10"
+	},
+	{
+		item: "projectred-exploration:backpack 1 11"
+	},
+	{
+		item: "projectred-exploration:backpack 1 12"
+	},
+	{
+		item: "projectred-exploration:backpack 1 13"
+	},
+	{
+		item: "projectred-exploration:backpack 1 14"
+	},
+	{
+		item: {
+			id: "projectred-exploration:backpack",
+			Damage: 15s,
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:magnet",
+			tag: {
+				Energy: 40000
+			}
+		}
+	},
+	{
+		item: {
+			id: "whoosh:transporter",
+			tag: {
+				Energy: 50000,
+				Fluid: {
+					FluidName: "ender",
+					Amount: 1000
+				}
+			}
+		}
+	},
+	{
+		item: "sevendaystomine:firstaidkit"
+	},
+	{
+		item: "xlfoodmod:super_energy_drink"
+	},
+	{
+		item: "xlfoodmod:healthy_energy_drink"
+	},
+	{
+		item: "xlfoodmod:strong_energy_drink"
+	},
+	{
+		item: "sevendaystomine:antibiotics"
+	},
+	{
+		item: {
+			id: "exchangers:stone_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:tuberous_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:wooden_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:drill",
+			tag: {
+				Energy: 40000,
+				Mode: 1
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:saw",
+			tag: {
+				Energy: 40000,
+				Mode: 1
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalcultivation:watering_can",
+			tag: {
+				Water: 4000,
+				Mode: 0
+			}
+		}
+	},
+	{
+		item: "minecraft:redstone",
+		count: 8
+	},
+	{
+		item: "minecraft:redstone_torch",
+		count: 4
+	},
+	{
+		item: "minecraft:stone_button",
+		count: 4
+	},
+	{
+		item: "minecraft:lever",
+		count: 4
+	},
+	{
+		item: "minecraft:hopper"
+	},
+	{
+		item: "minecraft:spruce_door",
+		count: 4
+	},
+	{
+		item: "minecraft:birch_door",
+		count: 4
+	},
+	{
+		item: "minecraft:jungle_door",
+		count: 4
+	},
+	{
+		item: "minecraft:acacia_door",
+		count: 4
+	},
+	{
+		item: "minecraft:dark_oak_door",
+		count: 4
+	},
+	{
+		item: "minecraft:diamond"
+	},
+	{
+		item: "minecraft:coal 1 1",
+		count: 8
+	},
+	{
+		item: "minecraft:coal",
+		count: 8
+	},
+	{
+		item: "minecraft:iron_ingot",
+		count: 4
+	},
+	{
+		item: "minecraft:gold_ingot",
+		count: 4
+	},
+	{
+		item: "minecraft:flint_and_steel"
+	},
+	{
+		item: "minecraft:gunpowder",
+		count: 4
+	},
+	{
+		item: "minecraft:string",
+		count: 4
+	},
+	{
+		item: "minecraft:feather",
+		count: 4
+	},
+	{
+		item: "minecraft:feather",
+		count: 4
+	},
+	{
+		item: {
+			id: "minecraft:leather_helmet",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_chestplate",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_leggings",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:leather_boots",
+			tag: {}
+		}
+	},
+	{
+		item: "minecraft:clay_ball",
+		count: 4
+	},
+	{
+		item: "minecraft:slime_ball",
+		count: 2
+	},
+	{
+		item: "minecraft:glowstone_dust",
+		count: 4
+	},
+	{
+		item: "minecraft:dye 1 15",
+		count: 4
+	}],
+	loot_crate: {
+		string_id: "random_reward_common_",
+		item_name: "Common Reward",
+		color: 15921645,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

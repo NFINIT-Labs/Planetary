@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "outpost-common",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 37,
+      "item": {
+        "id": "galacticraftcore:basic_block_core",
+        "damage": 4,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

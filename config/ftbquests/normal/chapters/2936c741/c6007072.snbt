@@ -1,0 +1,12 @@
+{
+	title: "Underground Scientist Lab",
+	icon: "chisel:laboratory 1 5",
+	x: -8.0d,
+	y: -5.0d,
+	text: [
+		"Underground Scientist Labs are made out of \"Laboratory\" blocks."
+	],
+	dependencies: [
+		"ec7f123b"
+	]
+}

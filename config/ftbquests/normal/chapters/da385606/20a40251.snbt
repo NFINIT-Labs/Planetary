@@ -1,0 +1,56 @@
+{
+	title: "Hazmat Suit Armor",
+	x: 10.0d,
+	y: -2.5d,
+	text: [
+		"The Hazmat Suit is a piece of armor that protects the player against environmental dangers, such as fire, lava and radiation."
+	],
+	dependencies: [
+		"a20ef94e"
+	],
+	tasks: [{
+		uid: "11529fb5",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:helm_hazmat",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0e0475ae",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:chest_hazmat",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "199c2e5c",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:legs_hazmat",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "13912a37",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:boots_hazmat",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5d38c446",
+		type: "choice",
+		table: 10
+	}]
+}

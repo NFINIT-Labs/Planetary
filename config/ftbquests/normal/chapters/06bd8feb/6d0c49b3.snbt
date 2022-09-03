@@ -1,0 +1,45 @@
+{
+	title: "Tier 3 Thermal Padding",
+	x: 11.5d,
+	y: 0.0d,
+	dependencies: [
+		"c9ae5baf"
+	],
+	tasks: [{
+		uid: "15bb3d23",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "15617d81",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t3 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9ef37f45",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t3 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e75f8181",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t3 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5ffbf8d",
+		type: "choice",
+		table: 9
+	}]
+}

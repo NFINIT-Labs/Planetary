@@ -1,0 +1,7 @@
+{
+	title: "Chapter 1 - Wasteland",
+	icon: "ezwastelands:ezwastelandblock",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

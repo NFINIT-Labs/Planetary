@@ -1,0 +1,22 @@
+{
+	title: "Undergound Scientist Lab Mobs",
+	x: -6.5d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c6007072"
+	],
+	tasks: [{
+		uid: "a80c4262",
+		type: "kill",
+		entity: "matteroverdrive:mutant_scientist",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "46439428",
+		type: "choice",
+		table: 10
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Undergound Military Lab Mobs",
+	x: -6.5d,
+	y: -1.0d,
+	dependencies: [
+		"2af52660"
+	],
+	tasks: [{
+		uid: "4e2bcbfd",
+		type: "kill",
+		entity: "techguns:zombiesoldier",
+		value: 1L
+	},
+	{
+		uid: "194c9aeb",
+		type: "kill",
+		entity: "techguns:skeletonsoldier",
+		value: 1L
+	},
+	{
+		uid: "6ead6057",
+		type: "kill",
+		entity: "techguns:armysoldier",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0f8ecd16",
+		type: "choice",
+		table: 10
+	}]
+}

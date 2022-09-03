@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	text: [
+		"The Fuel Loader is a machine that is necessary in order to supply fuel to any type of Rocket or to a Moon Buggy.",
+		"",
+		"To use the Fuel Loader, it must be supplied with power (either by wire or a battery) and Fuel (either by a pipe or Fuel Canister).",
+		"",
+		"It must be placed directly next to a Rocket Launch Pad or a Buggy Fueling Pad."
+	],
+	dependencies: [
+		"2fc7eb6d"
+	],
+	tasks: [{
+		uid: "70ffb435",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}],
+	rewards: [{
+		uid: "fc2e7c0e",
+		type: "choice",
+		table: 9
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Underground Military Lab",
+	icon: "chisel:concrete_gray 1 7",
+	x: -8.0d,
+	y: -1.0d,
+	text: [
+		"Underground Military Labs are made out of \"Gray Concrete\" blocks."
+	],
+	dependencies: [
+		"ec7f123b"
+	]
+}

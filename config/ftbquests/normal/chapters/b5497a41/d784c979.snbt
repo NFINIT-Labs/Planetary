@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: -2.5d,
+	text: [
+		"A stone version of the wooden chest with the same features."
+	],
+	dependencies: [
+		"5ba64c0a"
+	],
+	tasks: [{
+		uid: "c3f400ff",
+		type: "item",
+		items: [{
+			item: "stonechest:chest_cobblestone"
+		}]
+	}],
+	rewards: [{
+		uid: "5d7536be",
+		type: "choice",
+		table: 9
+	}]
+}

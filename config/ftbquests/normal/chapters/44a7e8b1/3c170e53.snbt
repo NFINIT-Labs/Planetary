@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: -1.0d,
+	dependencies: [
+		"d582a3c3"
+	],
+	tasks: [{
+		uid: "b61d86cf",
+		type: "item",
+		title: "Tier 2 Rocket Schematic",
+		items: [{
+			item: "galacticraftcore:schematic 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "63c272c8",
+		type: "choice",
+		table: 10
+	}]
+}

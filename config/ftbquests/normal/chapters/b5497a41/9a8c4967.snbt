@@ -1,0 +1,27 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"The Survivalist Generator is a generator that allows early power generation.",
+		"",
+		" It burns coal to produce electricity."
+	],
+	dependencies: [
+		"8b93b976"
+	],
+	tasks: [{
+		uid: "ccd4b786",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_survival"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "908df07f",
+		type: "choice",
+		table: 10
+	}]
+}

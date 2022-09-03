@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"d917fac5"
+	],
+	tasks: [{
+		uid: "424aab2a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "17c95ddc",
+		type: "choice",
+		table: 9
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Underground Mars Labs",
+	icon: "techguns:concrete 1 5",
+	x: -0.5d,
+	y: -1.0d,
+	text: [
+		"Underground Mars Labs are made out of \"Reinforced Concrete\" blocks."
+	],
+	dependencies: [
+		"6a74bf14"
+	]
+}

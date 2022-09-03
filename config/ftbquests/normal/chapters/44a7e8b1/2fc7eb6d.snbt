@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"The Rocket Launch Pad is needed to launch your Spaceship out of the atmosphere in Galacticraft.",
+		"",
+		"The Rocket Launch Pad must be placed in a 3 x 3 square to create a functional launch pad."
+	],
+	dependencies: [
+		"61e2927f"
+	],
+	tasks: [{
+		uid: "6087377b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "e90c8ff6",
+		type: "choice",
+		table: 9
+	}]
+}

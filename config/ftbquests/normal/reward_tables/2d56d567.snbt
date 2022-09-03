@@ -1,0 +1,54 @@
+{
+	title: "Choice Rare Reward",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "random_reward_rare_"
+			}
+		}
+	},
+	{
+		title: "Anti Rad Reward",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "anti_radiation"
+			}
+		}
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "first_aid_reward"
+			}
+		}
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "food"
+			}
+		}
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "basic_weapon_ammo"
+			}
+		}
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "coins"
+			}
+		}
+	}]
+}

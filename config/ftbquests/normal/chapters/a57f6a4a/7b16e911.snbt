@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: -5.0d,
+	text: [
+		"Multi-purpose selling block. Manually insert or pipe in items, fluids, and forge energy to automatically sell for money."
+	],
+	dependencies: [
+		"e4f034de"
+	],
+	tasks: [{
+		uid: "df598a88",
+		type: "item",
+		items: [{
+			item: "adminshop:seller"
+		}]
+	}],
+	rewards: [{
+		uid: "85e87be7",
+		type: "random",
+		table: 0
+	}]
+}

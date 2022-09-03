@@ -1,0 +1,39 @@
+{
+	title: "Fuel",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"bb4143ac"
+	],
+	tasks: [{
+		uid: "c94fe194",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:bucket_fuel"
+		},
+		{
+			item: "galacticraftcore:fuel_canister_partial 1 1"
+		},
+		{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "fuel",
+				Amount: 1000
+			}
+		},
+		{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "refined_fuel",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed9bd796",
+		type: "choice",
+		table: 10
+	}]
+}

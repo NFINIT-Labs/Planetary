@@ -1,0 +1,88 @@
+{
+	title: "Food",
+	loot_size: 1,
+	hide_tooltip: true,
+	use_title: true,
+	rewards: [{
+		item: "cannedfoodanddrinks:cannedapple",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedbakedpotato",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedbread",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedcake",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedchicken",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedcod",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedenchantedgoldenapple"
+	},
+	{
+		item: "cannedfoodanddrinks:cannedgoldenapple"
+	},
+	{
+		item: "cannedfoodanddrinks:cannedgoldencarrot"
+	},
+	{
+		item: "cannedfoodanddrinks:cannedsteak",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedmelon",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:cannedpumpkinpie",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:enchantedgoldenapplejuice"
+	},
+	{
+		item: "cannedfoodanddrinks:applejuice",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:beetrootjuice",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:carrotjuice",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:goldenapplejuice",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:goldencarrotjuice",
+		count: 4
+	},
+	{
+		item: "cannedfoodanddrinks:melonjuice",
+		count: 4
+	}],
+	loot_crate: {
+		string_id: "food",
+		item_name: "Food Reward",
+		color: 15578382,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

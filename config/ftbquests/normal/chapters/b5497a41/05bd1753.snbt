@@ -1,0 +1,35 @@
+{
+	title: "Radiation",
+	icon: "engineersdecor:sign_radioactive",
+	x: -13.0d,
+	y: -1.5d,
+	text: [
+		"Radiation Damage levels:",
+		"Level 1 (0 - 50%)",
+		"- No Effects (Safe)",
+		"",
+		"Level 2 (50 - 70%)",
+		"- Hunger level 1",
+		"",
+		"Level 3 (70 - 95%)",
+		"- Weaknes level 1",
+		"- Mining Fatigue 1",
+		"- Slowness 1",
+		"- Hunger 1",
+		"",
+		"Level 4 (95 - 100%) ",
+		"- Weaknes level 3",
+		"- Mining Fatigue 3",
+		"- Slowness 2",
+		"- Hunger 2",
+		"- Poison 1"
+	],
+	dependencies: [
+		"60cac434"
+	],
+	rewards: [{
+		uid: "88170c96",
+		type: "item",
+		item: "nuclearcraft:geiger_counter"
+	}]
+}

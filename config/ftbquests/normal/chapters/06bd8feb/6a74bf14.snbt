@@ -1,0 +1,21 @@
+{
+	title: "Visit Mars",
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Mars has no Oxygen. Living on Mars is hard because there is no water, trees or villages where you can seek protection and resources. Also you will require Thermal Padding to survive the cold temperatures on Mars (especially at night)."
+	],
+	dependencies: [
+		"6d756d4a"
+	],
+	tasks: [{
+		uid: "30463dcd",
+		type: "dimension",
+		dim: -29
+	}],
+	rewards: [{
+		uid: "82551c38",
+		type: "choice",
+		table: 10
+	}]
+}

@@ -1,0 +1,93 @@
+{
+	title: "Rare Ores",
+	x: 4.5d,
+	y: -2.5d,
+	text: [
+		"Rare Ores found inside resource meteors."
+	],
+	dependencies: [
+		"0903d43c"
+	],
+	tasks: [{
+		uid: "935199da",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}]
+	},
+	{
+		uid: "cc73ebbb",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	},
+	{
+		uid: "66b7df4b",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	},
+	{
+		uid: "a0d47b2f",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}]
+	},
+	{
+		uid: "eb7562bf",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}]
+	},
+	{
+		uid: "c167309f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore"
+		}]
+	},
+	{
+		uid: "00e7b6a0",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 1"
+		}]
+	},
+	{
+		uid: "eaa94cb8",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:asteroids_block 1 3"
+		}]
+	},
+	{
+		uid: "2b7a1a47",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 3"
+		}]
+	},
+	{
+		uid: "d4917b28",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 6"
+		}]
+	},
+	{
+		uid: "58a170f7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "ffc6fe75",
+		type: "choice",
+		table: 10
+	}]
+}

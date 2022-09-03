@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	dependencies: [
+		"c510d46a"
+	],
+	tasks: [{
+		uid: "d9616488",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part"
+		}]
+	}],
+	rewards: [{
+		uid: "4edf5101",
+		type: "choice",
+		table: 9
+	}]
+}

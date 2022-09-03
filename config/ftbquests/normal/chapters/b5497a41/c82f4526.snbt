@@ -1,0 +1,33 @@
+{
+	x: 6.5d,
+	y: -3.5d,
+	dependencies: [
+		"eab8094d"
+	],
+	tasks: [{
+		uid: "3dfb3f9d",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	},
+	{
+		uid: "bd7618fd",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}]
+	},
+	{
+		uid: "4bd46ec1",
+		type: "item",
+		items: [{
+			item: "minecraft:clay"
+		}]
+	}],
+	rewards: [{
+		uid: "bd3537ad",
+		type: "choice",
+		table: 9
+	}]
+}

@@ -1,0 +1,507 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "loot-crane",
+  "items": [
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "nuclearcraft:radaway",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "nuclearcraft:radaway_slow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "nuclearcraft:rad_x",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "sevendaystomine:bottledwater",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.8473554849624634,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "sevendaystomine:bottledmurkywater",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "sevendaystomine:bottledbeer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "sevendaystomine:goldenrodtea",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "sevendaystomine:bottledcoffee",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "sevendaystomine:jarofhoney",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:iron_gold_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:gold_diamond_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:copper_silver_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:silver_gold_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:copper_iron_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:diamond_crystal_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:wood_iron_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:wood_copper_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.08515378087759018,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ironchest:diamond_obsidian_chest_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_wooden",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_copper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_tin",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_golden",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bettercrates:up_golden2",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "sevendaystomine:bandage",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "matteroverdrive:emergency_ration",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "sevendaystomine:advancedbandage",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:sledgehammer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:machete",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:armyknife",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:sledgehammer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:kitchenknife",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:ironreinforcedclub",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:woodenclub",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:crudeclub",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:barbedclub",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:spikedclub",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:wrench",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "X": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Y": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Z": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Percent": {
+              "nbtType": "float",
+              "nbt": 0.0
+            },
+            "ID": {
+              "nbtType": "string",
+              "nbt": "4fd9157d-96e5-4253-b259-ec1f6ed42de32022/09/02/23/19/40/613"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "sevendaystomine:clawhammer",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "X": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Y": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Z": {
+              "nbtType": "int",
+              "nbt": 0
+            },
+            "Percent": {
+              "nbtType": "float",
+              "nbt": 0.0
+            },
+            "ID": {
+              "nbtType": "string",
+              "nbt": "4fd9157d-96e5-4253-b259-ec1f6ed42de32022/09/02/23/19/43/312"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:factory",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:factory",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:factory",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:factory",
+        "damage": 6,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:technical",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7755888104438782,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chisel:technical",
+        "damage": 12,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

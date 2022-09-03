@@ -1,0 +1,6 @@
+
+{
+  "Name": "infected_survivor",
+  "Registry ID": "sevendaystomine:infected_survivor",
+  "Class": "nuparu.sevendaystomine.entity.EntityInfectedSurvivor"
+}

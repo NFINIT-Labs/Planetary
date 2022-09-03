@@ -1,0 +1,27 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	text: [
+		"The Oxygen Compressor is a Galacticraft machine used to fill empty or depleted oxygen tanks.",
+		"",
+		"Connect an Oxygen Pipe to the blue ring input side and a power source to the grey square input side.",
+		"",
+		"Place an Oxygen Tank in the bottom right slot and it will take oxygen from the input and place it into the tank.",
+		""
+	],
+	dependencies: [
+		"90906070"
+	],
+	tasks: [{
+		uid: "1d3d58ad",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "749fe846",
+		type: "choice",
+		table: 10
+	}]
+}

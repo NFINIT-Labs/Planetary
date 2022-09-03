@@ -1,0 +1,71 @@
+{
+	title: "Android Parts",
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"38f7c604"
+	],
+	tasks: [{
+		uid: "35c0fba4",
+		type: "item",
+		items: [{
+			id: "matteroverdrive:rogue_android_part",
+			tag: {
+				Type: 0
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 1s,
+			tag: {
+				Type: 0
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 2s,
+			tag: {
+				Type: 0
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 3s,
+			tag: {
+				Type: 0
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			tag: {
+				Type: 1
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 1s,
+			tag: {
+				Type: 1
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 2s,
+			tag: {
+				Type: 1
+			}
+		},
+		{
+			id: "matteroverdrive:rogue_android_part",
+			Damage: 3s,
+			tag: {
+				Type: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "21919d74",
+		type: "choice",
+		table: 10
+	}]
+}

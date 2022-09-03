@@ -1,0 +1,25 @@
+{
+	x: 7.0d,
+	y: 0.5d,
+	dependencies: [
+		"354de78f"
+	],
+	tasks: [{
+		uid: "de9a8fd8",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "radaway",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d483e99d",
+		type: "choice",
+		table: 9
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Chapter 3 - Advanced Weapons",
+	icon: {
+		id: "apexguns:r301",
+		tag: {
+			AmmoCount: 28
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

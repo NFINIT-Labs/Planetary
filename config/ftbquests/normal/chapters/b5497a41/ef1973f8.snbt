@@ -1,0 +1,18 @@
+{
+	title: "Bleeding",
+	icon: "sevendaystomine:bandage",
+	x: -10.0d,
+	y: -1.5d,
+	text: [
+		"Bandages can be used to cure bleeding."
+	],
+	dependencies: [
+		"8afd174f"
+	],
+	rewards: [{
+		uid: "1d99473f",
+		type: "item",
+		item: "sevendaystomine:bandage",
+		count: 4
+	}]
+}

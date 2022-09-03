@@ -1,0 +1,19 @@
+{
+	x: -10.0d,
+	y: -2.5d,
+	dependencies: [
+		"ef1973f8"
+	],
+	tasks: [{
+		uid: "7e850146",
+		type: "item",
+		items: [{
+			item: "sevendaystomine:advancedbandage"
+		}]
+	}],
+	rewards: [{
+		uid: "e6b92327",
+		type: "random",
+		table: 9
+	}]
+}

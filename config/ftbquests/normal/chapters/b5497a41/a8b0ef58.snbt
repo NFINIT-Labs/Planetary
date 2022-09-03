@@ -1,0 +1,12 @@
+{
+	title: "Meteor Chest",
+	icon: "wasteland_meteors:meteor_chest",
+	x: -0.5d,
+	y: -1.5d,
+	text: [
+		"Meteor Chests can be found inside resource meteors, they can include saplings, plants and other items."
+	],
+	dependencies: [
+		"f90d39c2"
+	]
+}

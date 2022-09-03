@@ -1,0 +1,37 @@
+{
+	title: "Special Anti Rad Items",
+	x: -11.5d,
+	y: -0.5d,
+	text: [
+		"Can be obtained from Anti Rad quest rewards early game."
+	],
+	dependencies: [
+		"8afd174f"
+	],
+	tasks: [{
+		uid: "76d4fd0e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway"
+		}]
+	},
+	{
+		uid: "eab3ffec",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway_slow"
+		}]
+	},
+	{
+		uid: "8440bc66",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_x"
+		}]
+	}],
+	rewards: [{
+		uid: "45c11371",
+		type: "choice",
+		table: 9
+	}]
+}

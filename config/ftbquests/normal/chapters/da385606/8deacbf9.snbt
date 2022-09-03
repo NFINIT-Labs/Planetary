@@ -1,0 +1,23 @@
+{
+	title: "Chapter 2",
+	icon: {
+		id: "matteroverdrive:contract",
+		tag: {
+			Completed: 0b,
+			Data: {
+				BlockType: 0b,
+				MaxMineCount: 1
+			},
+			Quest: 6s
+		}
+	},
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"To unlock this chapter you must complete the \"Compressed Steel\" and \"Advanced Wafer\"  Quests in chapter 1"
+	],
+	dependencies: [
+		"4cce73ff",
+		"c855d45c"
+	]
+}

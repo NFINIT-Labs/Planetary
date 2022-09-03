@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 1.0d,
+	dependencies: [
+		"e1d74ee5"
+	],
+	tasks: [{
+		uid: "7ce62ea2",
+		type: "item",
+		items: [{
+			item: "extraplanets:item_tier10_electric_rocket"
+		}],
+		ignore_nbt: 1b
+	}]
+}

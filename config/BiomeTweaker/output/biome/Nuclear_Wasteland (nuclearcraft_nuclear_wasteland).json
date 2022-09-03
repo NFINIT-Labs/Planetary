@@ -1,0 +1,133 @@
+
+{
+  "ID": 110,
+  "Name": "Nuclear Wasteland",
+  "Resource Location": "nuclearcraft:nuclear_wasteland",
+  "Class": "nc.worldgen.biome.BiomeNuclearWasteland",
+  "Root Height": 0.12,
+  "Height Variation": 0.02,
+  "Top Block": "nuclearcraft:wasteland_earth",
+  "Filler Block": "minecraft:sand[variant\u003dsand]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "10046464",
+  "Temperature": 2.0,
+  "Humidity": 0.5,
+  "Water Tint": 10046464,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "SAVANNA",
+    "PLAINS",
+    "DEAD",
+    "DRY",
+    "WASTELAND",
+    "HOT",
+    "SPARSE"
+  ],
+  "BiomeManager Entries": {
+    "DESERT Weights": [
+      5
+    ]
+  },
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "nc.entity.EntityFeralGhoul",
+      "Weight": 32767,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityBloatedZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityPlaguedNurse",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieCrawler",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombiePig",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntitySpiderZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieMiner",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityFeralZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "matteroverdrive.entity.monster.EntityMeleeRougeAndroidMob",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityRat",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

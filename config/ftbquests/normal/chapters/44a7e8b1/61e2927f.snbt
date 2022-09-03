@@ -1,0 +1,29 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	dependencies: [
+		"b9a74d2a"
+	],
+	tasks: [{
+		uid: "c3089bbc",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		},
+		{
+			item: "galacticraftcore:rocket_t1 1 1"
+		},
+		{
+			item: "galacticraftcore:rocket_t1 1 2"
+		},
+		{
+			item: "galacticraftcore:rocket_t1 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a69942dc",
+		type: "choice",
+		table: 10
+	}]
+}

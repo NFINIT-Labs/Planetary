@@ -1,0 +1,25 @@
+{
+	title: "Wasteland Blocks",
+	x: -8.5d,
+	y: -1.5d,
+	text: [
+		"Start by breaking and collecting Wasteland Blocks from the world."
+	],
+	dependencies: [
+		"ef1973f8"
+	],
+	tasks: [{
+		uid: "51cdecdd",
+		type: "item",
+		items: [{
+			item: "ezwastelands:ezwastelandblock"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "05f929df",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	}]
+}

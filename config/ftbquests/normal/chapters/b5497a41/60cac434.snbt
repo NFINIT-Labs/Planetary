@@ -1,0 +1,32 @@
+{
+	icon: {
+		id: "matteroverdrive:contract",
+		tag: {
+			Completed: 0b,
+			Data: {
+				BlockType: 0b,
+				MaxMineCount: 1
+			},
+			Quest: 6s
+		}
+	},
+	x: -14.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	text: [
+		"After many wars between man and nature and infighting in all of the human nations, it left the earth barren, destroyed by the many battles..."
+	],
+	guide_page: "planetary",
+	tasks: [{
+		uid: "ae5a9274",
+		type: "dimension",
+		title: "Earth (Wasteland)",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "55abfe00",
+		type: "random",
+		title: "Coin Reward",
+		table: 0
+	}]
+}

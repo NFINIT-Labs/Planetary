@@ -65,3 +65,26 @@ appliedenergistics2:storage_biome
 galacticraftcore:outer space
 galacticraftplanets:outer space 1
 galacticraftplanets:outer space 2
+extraplanets:outer space 3
+extraplanets:outer space 4
+extraplanets:outer space 5
+extraplanets:outer space 6
+extraplanets:outer space 7
+extraplanets:outer space 8
+extraplanets:outer space 9
+extraplanets:outer space 10
+extraplanets:outer space 11
+extraplanets:outer space 12
+nuclearcraft:nuclear_wasteland
+rats:ratlantis
+immersiveintelligence:wasteland
+sevendaystomine:burnt forest
+sevendaystomine:burnt jungle
+sevendaystomine:wasteland
+sevendaystomine:wasteland river
+sevendaystomine:burnt cold taiga
+sevendaystomine:wasteland ocean
+sevendaystomine:wasteland deep ocean
+sevendaystomine:wasteland desert
+sevendaystomine:wasteland beach
+sevendaystomine:dead forest

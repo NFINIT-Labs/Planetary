@@ -1,0 +1,19 @@
+{
+	title: "Visit Kepler 22b",
+	icon: "extraplanets:kepler22b_grass",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"90baa65e"
+	],
+	tasks: [{
+		uid: "5aea2697",
+		type: "dimension",
+		dim: -22
+	}],
+	rewards: [{
+		uid: "22c7c0ed",
+		type: "choice",
+		table: 10
+	}]
+}

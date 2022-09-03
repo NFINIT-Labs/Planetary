@@ -1,0 +1,43 @@
+{
+	title: "Coins Reward",
+	loot_size: 1,
+	hide_tooltip: true,
+	use_title: true,
+	rewards: [{
+		item: "thermalfoundation:coin"
+	},
+	{
+		item: "thermalfoundation:coin 1 1"
+	},
+	{
+		item: "thermalfoundation:coin 1 64"
+	},
+	{
+		item: "thermalfoundation:coin 1 66"
+	},
+	{
+		item: "thermalfoundation:coin 1 67"
+	},
+	{
+		item: "thermalfoundation:coin 1 68"
+	},
+	{
+		item: "thermalfoundation:coin 1 101"
+	},
+	{
+		item: "thermalfoundation:coin 1 103"
+	},
+	{
+		item: "thermalfoundation:coin 1 65"
+	}],
+	loot_crate: {
+		string_id: "coins",
+		item_name: "Coins Reward",
+		color: 389336,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

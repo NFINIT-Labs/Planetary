@@ -1,0 +1,129 @@
+{
+	title: "Underground Meteor Ores",
+	x: 8.0d,
+	y: -1.0d,
+	dependencies: [
+		"b1181662"
+	],
+	tasks: [{
+		uid: "8341b347",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 5"
+		}]
+	},
+	{
+		uid: "68e74701",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 6"
+		}]
+	},
+	{
+		uid: "ffb76ca7",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 7"
+		}]
+	},
+	{
+		uid: "0544e641",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 3"
+		}]
+	},
+	{
+		uid: "3e83d542",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 4"
+		}]
+	},
+	{
+		uid: "da473d3f",
+		type: "item",
+		items: [{
+			item: "projectred-exploration:ore 1 6"
+		},
+		{
+			item: "projectred-core:resource_item 1 105"
+		}]
+	},
+	{
+		uid: "62d35d6b",
+		type: "item",
+		items: [{
+			item: "projectred-exploration:ore 1 2"
+		},
+		{
+			item: "projectred-core:resource_item 1 202"
+		}]
+	},
+	{
+		uid: "65975313",
+		type: "item",
+		items: [{
+			item: "projectred-exploration:ore"
+		},
+		{
+			item: "projectred-core:resource_item 1 200"
+		}]
+	},
+	{
+		uid: "aed7b90d",
+		type: "item",
+		items: [{
+			item: "projectred-exploration:ore 1 1"
+		},
+		{
+			item: "projectred-core:resource_item 1 201"
+		}]
+	},
+	{
+		uid: "9d5e7ea5",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:ore 1 2"
+		}]
+	},
+	{
+		uid: "4ef09618",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:ore 1 3"
+		}]
+	},
+	{
+		uid: "1d51428e",
+		type: "item",
+		items: [{
+			item: "immersiveintelligence:ore 1 1"
+		}]
+	},
+	{
+		uid: "31cf9e67",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:inferium_ore"
+		},
+		{
+			item: "mysticalagriculture:crafting"
+		}]
+	},
+	{
+		uid: "34af6578",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prosperity_ore"
+		},
+		{
+			item: "mysticalagriculture:crafting 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "51f5a7ea",
+		type: "choice",
+		table: 10
+	}]
+}

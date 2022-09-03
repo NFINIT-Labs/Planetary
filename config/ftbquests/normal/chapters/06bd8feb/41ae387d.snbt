@@ -1,0 +1,12 @@
+{
+	title: "Miranda Underground Laboratory",
+	icon: "chisel:marble 1 1",
+	x: 16.0d,
+	y: 0.0d,
+	text: [
+		"Underground Cyborg Labs are made out of \"Marble\" blocks."
+	],
+	dependencies: [
+		"90b8210a"
+	]
+}

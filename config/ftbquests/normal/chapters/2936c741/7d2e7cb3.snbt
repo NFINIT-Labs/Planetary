@@ -1,0 +1,22 @@
+{
+	title: "Moon Research Paper",
+	icon: "planetprogression:research_paper_0",
+	x: -2.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ddcfb7f6",
+		"5e2102f3",
+		"87e88b7a",
+		"80c4e28b",
+		"4896c7b1"
+	],
+	rewards: [{
+		uid: "64f8d52a",
+		type: "item",
+		title: "Moon Research Paper",
+		item: "planetprogression:research_paper_0"
+	}]
+}

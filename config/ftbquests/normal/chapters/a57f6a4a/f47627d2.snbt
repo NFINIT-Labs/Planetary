@@ -1,0 +1,58 @@
+{
+	title: "Guns",
+	x: -6.5d,
+	y: -6.0d,
+	text: [
+		"Buy a gun from the shop."
+	],
+	dependencies: [
+		"e4f034de"
+	],
+	tasks: [{
+		uid: "cad48af3",
+		type: "item",
+		items: [{
+			id: "cgm:handgun",
+			tag: {
+				AmmoCount: 15
+			}
+		},
+		{
+			id: "cgm:shotgun",
+			tag: {
+				AmmoCount: 4
+			}
+		},
+		{
+			id: "cgm:rifle",
+			tag: {
+				AmmoCount: 1
+			}
+		},
+		{
+			id: "cgm:machine_pistol",
+			tag: {
+				AmmoCount: 30
+			}
+		},
+		{
+			id: "cgm:assault_rifle",
+			tag: {
+				AmmoCount: 30
+			}
+		},
+		{
+			id: "cgm:chain_gun",
+			tag: {
+				AmmoCount: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85390041",
+		type: "choice",
+		table: 9
+	}]
+}

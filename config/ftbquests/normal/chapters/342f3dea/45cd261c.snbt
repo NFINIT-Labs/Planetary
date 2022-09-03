@@ -1,0 +1,13 @@
+{
+	title: "Visit Barnada C",
+	x: -7.5d,
+	y: 1.0d,
+	dependencies: [
+		"6cea35e1"
+	],
+	tasks: [{
+		uid: "7ad5e706",
+		type: "dimension",
+		dim: -1030
+	}]
+}

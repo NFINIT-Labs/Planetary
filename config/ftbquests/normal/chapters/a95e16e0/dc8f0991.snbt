@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	text: [
+		"The Oxygen Mask is one part of the Oxygen System used to breathe on planets without oxygen, the others being (Oxygen Gear and Oxygen Tanks)."
+	],
+	dependencies: [
+		"cb646f48"
+	],
+	tasks: [{
+		uid: "08201db9",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}]
+	}],
+	rewards: [{
+		uid: "a655bec6",
+		type: "choice",
+		table: 9
+	}]
+}

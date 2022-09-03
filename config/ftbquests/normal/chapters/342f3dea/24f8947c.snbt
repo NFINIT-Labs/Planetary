@@ -1,0 +1,15 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	dependencies: [
+		"0b829216"
+	],
+	tasks: [{
+		uid: "ccb8a33f",
+		type: "item",
+		title: "Nibiru Research Paper",
+		items: [{
+			item: "planetprogression:research_paper_13"
+		}]
+	}]
+}

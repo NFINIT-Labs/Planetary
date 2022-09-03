@@ -1,0 +1,28 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	dependencies: [
+		"0d404d38",
+		"a4a1ca29",
+		"f412345b"
+	],
+	tasks: [{
+		uid: "694bdfd0",
+		type: "item",
+		items: [{
+			id: "techguns:pistol",
+			tag: {
+				ammo: 18s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f3148a9",
+		type: "choice",
+		table: 9
+	}]
+}

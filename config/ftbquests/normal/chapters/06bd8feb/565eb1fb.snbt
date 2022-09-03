@@ -1,0 +1,22 @@
+{
+	title: "Chapter 7",
+	icon: {
+		id: "matteroverdrive:contract",
+		tag: {
+			Completed: 0b,
+			Data: {
+				BlockType: 0b,
+				MaxMineCount: 1
+			},
+			Quest: 6s
+		}
+	},
+	x: -4.5d,
+	y: 0.0d,
+	text: [
+		"To unlock this chapter you must complete the \"Tier 2 Rocket Schematic\" and \"Mars Research Paper\"  Quests in chapter 6"
+	],
+	dependencies: [
+		"00ac86a6"
+	]
+}

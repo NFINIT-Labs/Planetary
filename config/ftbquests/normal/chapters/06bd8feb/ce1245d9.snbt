@@ -1,0 +1,48 @@
+{
+	title: "Isothermal Padding",
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		"Isothermal Padding suit is required to survive on Venus and other planets"
+	],
+	dependencies: [
+		"c4e77cd2"
+	],
+	tasks: [{
+		uid: "228dbfd1",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding_t2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3cd58869",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding_t2 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1e2cb389",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding_t2 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "192eef5e",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding_t2 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f0de97e",
+		type: "choice",
+		table: 10
+	}]
+}

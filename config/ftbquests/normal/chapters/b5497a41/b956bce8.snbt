@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	text: [
+		"You can craft Lava Buckets using Hellish Matter and a Bucket."
+	],
+	dependencies: [
+		"a8b0ef58",
+		"8b93b976"
+	],
+	tasks: [{
+		uid: "f6411149",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0228e900",
+		type: "choice",
+		table: 9
+	}]
+}

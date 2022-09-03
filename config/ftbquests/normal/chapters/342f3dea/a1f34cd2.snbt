@@ -1,0 +1,21 @@
+{
+	title: "Chapter 8",
+	icon: {
+		id: "matteroverdrive:contract",
+		tag: {
+			Data: {
+				MaxKillCount: 12
+			},
+			Quest: 3s,
+			Completed: 0b
+		}
+	},
+	x: -9.0d,
+	y: -0.5d,
+	text: [
+		"To unlock this chapter you must complete the \"Tier 6 Rocket License\" Quest in chapter 7"
+	],
+	dependencies: [
+		"3f8b47fe"
+	]
+}

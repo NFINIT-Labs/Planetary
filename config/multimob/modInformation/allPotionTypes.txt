@@ -67,6 +67,10 @@ quark:long_resistance
 quark:strong_resistance
 quark:danger_sight
 quark:long_danger_sight
+techguns:radpotion
+techguns:radpotion_severe
+techguns:radregenerationpotion
+techguns:radresistancepotion
 apotheosis:resistance
 apotheosis:long_resistance
 apotheosis:strong_resistance
@@ -156,8 +160,6 @@ cofhcore:unluck2+
 cofhcore:unluck3+
 cofhcore:wither2+
 cofhcore:wither3+
-toxicrain:antidote_type
-toxicrain:long_antidote_type
 extrautils2:xu2.doom
 extrautils2:xu2.gravity
 extrautils2:xu2.gravity.long

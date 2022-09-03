@@ -66,38 +66,254 @@
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken1",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken2",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken3",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken4",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken5",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken6",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken7",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken8",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken9",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken10",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow1",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow2",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow3",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow4",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow5",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow6",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow7",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow8",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow9",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.cow.EntityMobCow10",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep1",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep2",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep3",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep4",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep5",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep6",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep7",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep8",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep9",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.sheep.EntityMobSheep10",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig1",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig2",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig3",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig4",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig5",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig6",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig7",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig8",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig9",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.knoxhack.betteragriculture.entities.pig.EntityMobPig10",
+      "Weight": 50,
+      "Min Group Count": 3,
+      "Max Group Count": 5
     }
   ],
   "Spawnable Monsters": [
-    {
-      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
-      "Weight": 100,
-      "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
-      "Weight": 95,
-      "Min Group Count": 4,
-      "Max Group Count": 4
-    },
     {
       "Entity Class": "net.minecraft.entity.monster.EntityZombieVillager",
       "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
-      "Weight": 100,
-      "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
-      "Weight": 100,
-      "Min Group Count": 4,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "net.minecraft.entity.monster.EntitySlime",
@@ -112,45 +328,87 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "animalium.entities.EntityRat",
+      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
+      "Weight": 60,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "techguns.entities.npcs.ZombieMiner",
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
     {
-      "Entity Class": "vazkii.quark.world.entity.EntityStoneling",
-      "Weight": 80,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
     },
     {
-      "Entity Class": "vazkii.quark.world.entity.EntityDweller",
-      "Weight": 30,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "vazkii.quark.world.entity.EntityAshen",
-      "Weight": 30,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "lcrdrfs.entities.EntityLaserCreeper",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "lcrdrfs.entities.EntityRoboDino",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "lcrdrfs.entities.EntityJetPackSpider",
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
       "Weight": 0,
-      "Min Group Count": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityBloatedZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityPlaguedNurse",
+      "Weight": 1,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieCrawler",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombiePig",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntitySpiderZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityZombieMiner",
+      "Weight": 0,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nuparu.sevendaystomine.entity.EntityFeralZombie",
+      "Weight": 0,
+      "Min Group Count": 0,
       "Max Group Count": 1
     },
     {
@@ -161,15 +419,33 @@
     },
     {
       "Entity Class": "matteroverdrive.entity.monster.EntityMeleeRougeAndroidMob",
-      "Weight": 25,
+      "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
       "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 25,
+      "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "techguns.entities.npcs.TGDummySpawn",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityRat",
+      "Weight": 80,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [
@@ -180,14 +456,7 @@
       "Max Group Count": 4
     }
   ],
-  "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    }
-  ],
+  "Spawnable Cave Creatures": [],
   "Spawn Biome": true,
   "Tweaked": true
 }

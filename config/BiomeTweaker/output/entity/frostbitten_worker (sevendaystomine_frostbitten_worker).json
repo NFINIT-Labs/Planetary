@@ -1,0 +1,6 @@
+
+{
+  "Name": "frostbitten_worker",
+  "Registry ID": "sevendaystomine:frostbitten_worker",
+  "Class": "nuparu.sevendaystomine.entity.EntityFrostbittenWorker"
+}

@@ -1,0 +1,31 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	dependencies: [
+		"6ddcf230",
+		"0af681a8",
+		"915765e9"
+	],
+	tasks: [{
+		uid: "de17f32b",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_tier_4 1 3"
+		},
+		{
+			item: "galaxyspace:rocket_tier_4 1 2"
+		},
+		{
+			item: "galaxyspace:rocket_tier_4 1 1"
+		},
+		{
+			item: "galaxyspace:rocket_tier_4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "48d4a028",
+		type: "choice",
+		table: 10
+	}]
+}

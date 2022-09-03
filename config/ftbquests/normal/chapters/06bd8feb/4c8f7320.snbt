@@ -1,0 +1,18 @@
+{
+	title: "Jupiter Moon: IO",
+	x: 9.5d,
+	y: -1.0d,
+	dependencies: [
+		"8e649ac0"
+	],
+	tasks: [{
+		uid: "f47185fa",
+		type: "dimension",
+		dim: -1014
+	}],
+	rewards: [{
+		uid: "0ff72a87",
+		type: "choice",
+		table: 10
+	}]
+}

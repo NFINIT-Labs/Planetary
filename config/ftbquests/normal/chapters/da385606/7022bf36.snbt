@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: -2.0d,
+	text: [
+		"Can be applied to armor to give the player 0.01 rad resistant while worn."
+	],
+	dependencies: [
+		"4e03cadc"
+	],
+	tasks: [{
+		uid: "1d17c1dd",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_shielding"
+		}]
+	}],
+	rewards: [{
+		uid: "4c52d956",
+		type: "choice",
+		table: 9
+	}]
+}

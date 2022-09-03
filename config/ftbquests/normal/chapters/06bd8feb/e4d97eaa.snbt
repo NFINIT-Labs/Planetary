@@ -1,0 +1,19 @@
+{
+	title: "Underground Military Laboratory",
+	icon: "techguns:metalpanel 1 4",
+	x: 10.5d,
+	y: -1.0d,
+	text: [
+		"Underground Military Labs are made out of \"Steel Panel\" blocks."
+	],
+	dependencies: [
+		"4c8f7320"
+	],
+	tasks: [{
+		uid: "412b3475",
+		type: "item",
+		items: [{
+			item: "techguns:metalpanel 1 4"
+		}]
+	}]
+}

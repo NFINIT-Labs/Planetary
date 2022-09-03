@@ -1,0 +1,19 @@
+{
+	title: "Underground Cyborg Laboratory",
+	icon: "techguns:metalpanel 1 5",
+	x: 10.5d,
+	y: 1.0d,
+	text: [
+		"Underground Cyborg Labs are made out of \"Silver Steel Panel\" blocks."
+	],
+	dependencies: [
+		"01f425c8"
+	],
+	tasks: [{
+		uid: "b5140cb9",
+		type: "item",
+		items: [{
+			item: "techguns:metalpanel 1 5"
+		}]
+	}]
+}

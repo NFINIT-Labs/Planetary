@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5616dbf2"
+	],
+	tasks: [{
+		uid: "2c8c7f9f",
+		type: "item",
+		items: [{
+			item: "planetprogression:telescope"
+		}]
+	}],
+	rewards: [{
+		uid: "bf41392f",
+		type: "choice",
+		table: 10
+	}]
+}

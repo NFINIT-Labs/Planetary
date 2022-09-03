@@ -1,0 +1,25 @@
+{
+	title: "Iron Pickaxe",
+	x: 3.0d,
+	y: -2.5d,
+	text: [
+		"Once you have gotten iron, you can now use it to upgrade your pickaxe to be able to mine more rare ores."
+	],
+	dependencies: [
+		"8b93b976"
+	],
+	tasks: [{
+		uid: "08da8f3b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "190d447b",
+		type: "choice",
+		table: 9
+	}]
+}

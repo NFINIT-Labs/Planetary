@@ -1,0 +1,159 @@
+{
+	title: "More Saplings",
+	x: -0.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"a8b0ef58"
+	],
+	tasks: [{
+		uid: "41bca654",
+		type: "item",
+		title: "Fruit Tree Saplings",
+		items: [{
+			item: "harvestcraft:date_sapling"
+		},
+		{
+			item: "harvestcraft:papaya_sapling"
+		},
+		{
+			item: "harvestcraft:cherry_sapling"
+		},
+		{
+			item: "harvestcraft:fig_sapling"
+		},
+		{
+			item: "harvestcraft:soursop_sapling"
+		},
+		{
+			item: "harvestcraft:dragonfruit_sapling"
+		},
+		{
+			item: "harvestcraft:mango_sapling"
+		},
+		{
+			item: "harvestcraft:peach_sapling"
+		},
+		{
+			item: "harvestcraft:pawpaw_sapling"
+		},
+		{
+			item: "harvestcraft:chestnut_sapling"
+		},
+		{
+			item: "harvestcraft:gooseberry_sapling"
+		},
+		{
+			item: "harvestcraft:almond_sapling"
+		},
+		{
+			item: "harvestcraft:peppercorn_sapling"
+		},
+		{
+			item: "harvestcraft:lime_sapling"
+		},
+		{
+			item: "harvestcraft:hazelnut_sapling"
+		},
+		{
+			item: "harvestcraft:pomegranate_sapling"
+		},
+		{
+			item: "harvestcraft:cashew_sapling"
+		},
+		{
+			item: "harvestcraft:vanillabean_sapling"
+		},
+		{
+			item: "harvestcraft:starfruit_sapling"
+		},
+		{
+			item: "harvestcraft:banana_sapling"
+		},
+		{
+			item: "harvestcraft:plum_sapling"
+		},
+		{
+			item: "harvestcraft:avocado_sapling"
+		},
+		{
+			item: "harvestcraft:pecan_sapling"
+		},
+		{
+			item: "harvestcraft:pistachio_sapling"
+		},
+		{
+			item: "harvestcraft:rambutan_sapling"
+		},
+		{
+			item: "harvestcraft:jackfruit_sapling"
+		},
+		{
+			item: "harvestcraft:passionfruit_sapling"
+		},
+		{
+			item: "harvestcraft:apple_sapling"
+		},
+		{
+			item: "harvestcraft:lemon_sapling"
+		},
+		{
+			item: "harvestcraft:pear_sapling"
+		},
+		{
+			item: "harvestcraft:olive_sapling"
+		},
+		{
+			item: "harvestcraft:spiderweb_sapling"
+		},
+		{
+			item: "harvestcraft:grapefruit_sapling"
+		},
+		{
+			item: "harvestcraft:guava_sapling"
+		},
+		{
+			item: "harvestcraft:persimmon_sapling"
+		},
+		{
+			item: "harvestcraft:lychee_sapling"
+		},
+		{
+			item: "harvestcraft:walnut_sapling"
+		},
+		{
+			item: "harvestcraft:orange_sapling"
+		},
+		{
+			item: "harvestcraft:apricot_sapling"
+		},
+		{
+			item: "harvestcraft:paperbark_sapling"
+		},
+		{
+			item: "harvestcraft:maple_sapling"
+		},
+		{
+			item: "harvestcraft:cinnamon_sapling"
+		},
+		{
+			item: "harvestcraft:tamarind_sapling"
+		},
+		{
+			item: "harvestcraft:breadfruit_sapling"
+		},
+		{
+			item: "harvestcraft:nutmeg_sapling"
+		},
+		{
+			item: "harvestcraft:durian_sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "0e0fb0c5",
+		type: "choice",
+		table: 9
+	}]
+}

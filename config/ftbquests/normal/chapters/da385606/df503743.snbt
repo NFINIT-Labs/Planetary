@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	text: [
+		"It is used to convert an ingot or dust of a radioactive substance such as Uranium or Thorium into separate lumps of two different isotopes."
+	],
+	dependencies: [
+		"2e5f1120"
+	],
+	tasks: [{
+		uid: "e711dfd6",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:separator"
+		}]
+	}],
+	rewards: [{
+		uid: "40f45031",
+		type: "choice",
+		table: 9
+	}]
+}

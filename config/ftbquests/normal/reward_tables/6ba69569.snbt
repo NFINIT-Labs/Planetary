@@ -1,0 +1,952 @@
+{
+	title: "Rare Reward",
+	loot_size: 1,
+	hide_tooltip: true,
+	use_title: true,
+	rewards: [{
+		item: {
+			id: "usefulnullifiers:overflownullifieritem",
+			tag: {}
+		}
+	},
+	{
+		item: "usefulnullifiers:voidnullifieritem"
+	},
+	{
+		item: "usefulnullifiers:fluidvoidnullifieritem"
+	},
+	{
+		item: {
+			id: "usefulnullifiers:aionitem",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:magnet",
+			tag: {
+				Energy: 40000
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 1000000
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_survivalist_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 1000000
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:drill",
+			tag: {
+				Energy: 40000,
+				Mode: 1
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:saw",
+			tag: {
+				Energy: 40000,
+				Mode: 1
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:magnet",
+			Damage: 1s,
+			tag: {
+				Energy: 120000
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "whoosh:transporter",
+			tag: {
+				Energy: 50000,
+				Fluid: {
+					FluidName: "ender",
+					Amount: 1000
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "whoosh:transporter",
+			Damage: 1s,
+			tag: {
+				Energy: 100000,
+				Fluid: {
+					FluidName: "ender",
+					Amount: 2000
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:tank",
+			tag: {
+				RSControl: 0b,
+				Level: 0b
+			}
+		}
+	},
+	{
+		item: "randomthings:advanceditemcollector"
+	},
+	{
+		item: {
+			id: "pickletweaks:nightvision_goggles",
+			tag: {}
+		}
+	},
+	{
+		item: "openblocks:hang_glider"
+	},
+	{
+		item: {
+			id: "openblocks:luggage",
+			tag: {}
+		}
+	},
+	{
+		item: "nuclearcraft:portable_ender_chest"
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_pink_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_overclocked_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_potion_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_slimey_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_culinary_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_death_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_end_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_explosive_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_halitosis_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_furnace_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_frosty_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_magmatic_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorygenerators:inv_nether_star_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}
+	},
+	{
+		item: "extrautils2:compoundbow"
+	},
+	{
+		item: "extrautils2:fireaxe"
+	},
+	{
+		item: "furnaceoverhaul:efficiency_upgrade"
+	},
+	{
+		item: "furnaceoverhaul:ore_processing_upgrade"
+	},
+	{
+		item: "furnaceoverhaul:liquid_fuel_upgrade"
+	},
+	{
+		item: "furnaceoverhaul:electric_fuel_upgrade"
+	},
+	{
+		item: "furnaceoverhaul:speed_upgrade"
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_culinary"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_ender"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_tnt"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_dragonsbreath"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_redstone"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_lava"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_netherstar"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_overclock"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_pink"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_potion"
+			}
+		}
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_survival"
+			}
+		}
+	},
+	{
+		item: "extrautils2:drum 1 1"
+	},
+	{
+		item: "extrautils2:drum 1 2"
+	},
+	{
+		item: "extrautils2:drum"
+	},
+	{
+		item: "extrautils2:goldenlasso 1 1"
+	},
+	{
+		item: "extrautils2:goldenlasso"
+	},
+	{
+		item: "extrautils2:bagofholding"
+	},
+	{
+		item: "extrautils2:itembuilderswand"
+	},
+	{
+		item: "extrautils2:itemdestructionwand"
+	},
+	{
+		item: "extrautils2:trashcan"
+	},
+	{
+		item: "extrautils2:trashcanfluid"
+	},
+	{
+		item: "extrautils2:trashcanenergy"
+	},
+	{
+		item: {
+			id: "exchangers:golden_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:leadstone_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				Energy: 80000,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:hardened_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				Energy: 500000,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:reinforced_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				Energy: 1000000,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "extraplanets:advanced_battery",
+			tag: {
+				electricity: 150000.0f
+			}
+		}
+	},
+	{
+		item: {
+			id: "extraplanets:ultimate_battery",
+			tag: {
+				electricity: 200000.0f
+			}
+		}
+	},
+	{
+		item: {
+			id: "extraplanets:massive_battery",
+			tag: {
+				electricity: 500000.0f
+			}
+		}
+	},
+	{
+		item: "exocraft:industrial_excavator"
+	},
+	{
+		item: "exocraft:industrial_miner"
+	},
+	{
+		item: "exocraft:industrial_multi_tool"
+	},
+	{
+		item: {
+			id: "exchangers:diamond_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:obsidian_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "exchangers:advanced_exchanger",
+			tag: {
+				exmode: 0,
+				directionalPlacement: 0b,
+				forceDropItems: 0b,
+				Energy: 800000,
+				range: 0,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}
+	},
+	{
+		item: "deepmoblearning:data_model_skeleton"
+	},
+	{
+		item: "deepmoblearning:data_model_zombie"
+	},
+	{
+		item: "deepmoblearning:data_model_creeper"
+	},
+	{
+		item: "deepmoblearning:data_model_spider"
+	},
+	{
+		item: "deepmoblearning:data_model_mo_android"
+	},
+	{
+		item: "darkutils:material 1 3",
+		count: 5
+	},
+	{
+		item: "darkutils:material 1 2",
+		count: 5
+	},
+	{
+		item: "darkutils:material 1 1",
+		count: 4
+	},
+	{
+		item: "darkutils:material",
+		count: 5
+	},
+	{
+		item: "darkutils:ender_tether"
+	},
+	{
+		item: "darkutils:ender_hopper"
+	},
+	{
+		item: "darkutils:grate"
+	},
+	{
+		item: "bhc:red_heart"
+	},
+	{
+		item: "bhc:yellow_heart"
+	},
+	{
+		item: {
+			id: "simplybackpacks:rarebackpack",
+			tag: {
+				inv: {
+					Items: [],
+					Size: 66
+				},
+				filter: {
+					Items: [],
+					Size: 16
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Inventory: [],
+					Filter: []
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "simplybackpacks:commonbackpack",
+			tag: {
+				inv: {
+					Items: [],
+					Size: 18
+				},
+				filter: {
+					Items: [],
+					Size: 16
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Inventory: [],
+					Filter: []
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "simplybackpacks:uncommonbackpack",
+			tag: {
+				inv: {
+					Items: [],
+					Size: 33
+				},
+				filter: {
+					Items: [],
+					Size: 16
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Inventory: [],
+					Filter: []
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:magnet",
+			Damage: 1s,
+			tag: {
+				Energy: 120000
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:magnet",
+			Damage: 2s,
+			tag: {
+				Energy: 240000
+			}
+		}
+	},
+	{
+		item: {
+			id: "simplyjetpacks:itemjetpack",
+			Damage: 20s,
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "whoosh:transporter",
+			tag: {
+				Energy: 50000,
+				Fluid: {
+					FluidName: "ender",
+					Amount: 1000
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "whoosh:transporter",
+			Damage: 1s,
+			tag: {
+				Energy: 100000,
+				Fluid: {
+					FluidName: "ender",
+					Amount: 2000
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:drill",
+			Damage: 1s,
+			tag: {
+				Energy: 120000,
+				Mode: 2
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalinnovation:drill",
+			Damage: 2s,
+			tag: {
+				Energy: 240000,
+				Mode: 2
+			}
+		}
+	},
+	{
+		item: "techguns:crowbar"
+	},
+	{
+		item: "techguns:combatknife"
+	},
+	{
+		item: "sevendaystomine:disc"
+	},
+	{
+		item: "sevendaystomine:linux_disc"
+	},
+	{
+		item: "sevendaystomine:win10_disc"
+	},
+	{
+		item: "sevendaystomine:mac_disc"
+	},
+	{
+		item: "sevendaystomine:win7_disc"
+	},
+	{
+		item: "sevendaystomine:win8_disc"
+	},
+	{
+		item: "sevendaystomine:win98_disc"
+	},
+	{
+		item: "sevendaystomine:winxp_disc"
+	},
+	{
+		item: "inventorypets:apple_pet"
+	},
+	{
+		item: "inventorypets:cheetah_pet"
+	},
+	{
+		item: {
+			id: "inventorypets:house_pet",
+			tag: {
+				homeDimension: 0
+			}
+		}
+	},
+	{
+		item: "inventorypets:pacman_pet"
+	},
+	{
+		item: "inventorypets:pixie_pet"
+	},
+	{
+		item: "inventorypets:silverfish_pet"
+	},
+	{
+		item: "inventorypets:torch_pet"
+	},
+	{
+		item: "inventorypets:wolf_pet"
+	},
+	{
+		item: "inventorypets:banana_pet"
+	},
+	{
+		item: {
+			id: "inventorypets:chicken_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: "inventorypets:cow_pet"
+	},
+	{
+		item: "inventorypets:mooshroom_pet"
+	},
+	{
+		item: "inventorypets:ocelot_pet"
+	},
+	{
+		item: {
+			id: "inventorypets:pig_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorypets:sheep_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: "inventorypets:squid_pet"
+	},
+	{
+		item: "inventorypets:blaze_pet"
+	},
+	{
+		item: "inventorypets:creeper_pet"
+	},
+	{
+		item: "inventorypets:enderman_pet"
+	},
+	{
+		item: "inventorypets:ghast_pet"
+	},
+	{
+		item: {
+			id: "inventorypets:iron_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: "inventorypets:magma_cube_pet"
+	},
+	{
+		item: {
+			id: "inventorypets:spider_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: {
+			id: "inventorypets:snow_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		item: "inventorypets:anvil_pet"
+	},
+	{
+		item: "inventorypets:bed_pet"
+	},
+	{
+		item: "inventorypets:brewing_stand_pet"
+	},
+	{
+		item: "inventorypets:chest_pet"
+	},
+	{
+		item: "inventorypets:crafting_table_pet"
+	},
+	{
+		item: "inventorypets:double_chest_pet"
+	},
+	{
+		item: "inventorypets:enchanting_table_pet"
+	},
+	{
+		item: "inventorypets:ender_chest_pet"
+	},
+	{
+		item: "inventorypets:furnace_pet"
+	},
+	{
+		item: "inventorypets:jukebox_pet"
+	},
+	{
+		item: "inventorypets:lead_pet"
+	},
+	{
+		item: "inventorypets:saddle_pet"
+	},
+	{
+		item: "storagedrawers:upgrade_storage 1 3"
+	},
+	{
+		item: "storagedrawers:upgrade_void"
+	},
+	{
+		item: "storagedrawers:upgrade_storage"
+	}],
+	loot_crate: {
+		string_id: "random_reward_rare_",
+		item_name: "Rare Reward",
+		color: 717009,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	title: "Visit Nibiru",
+	x: -1.0d,
+	y: -0.5d,
+	dependencies: [
+		"24f8947c"
+	],
+	tasks: [{
+		uid: "4d6df7ef",
+		type: "dimension",
+		dim: -2544
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 10.5d,
+	y: -1.5d,
+	dependencies: [
+		"4cce73ff",
+		"c855d45c"
+	],
+	tasks: [{
+		uid: "85a77cbf",
+		type: "item",
+		items: [{
+			item: "techguns:simplemachine 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "c24db483",
+		type: "choice",
+		table: 9
+	}]
+}

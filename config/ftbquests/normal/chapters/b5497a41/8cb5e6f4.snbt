@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: -0.5d,
+	text: [
+		"An upgraded version of the stone furnace that can cook faster.",
+		"",
+		"It also accepts upgrade modules."
+	],
+	dependencies: [
+		"8b93b976"
+	],
+	tasks: [{
+		uid: "83a6a135",
+		type: "item",
+		items: [{
+			item: "furnaceoverhaul:iron_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "28f4e833",
+		type: "choice",
+		table: 9
+	}]
+}

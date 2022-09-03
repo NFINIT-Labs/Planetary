@@ -1,0 +1,22 @@
+{
+	title: "Underground Meteors",
+	icon: "densemetals:dense_iron_ore",
+	x: 6.5d,
+	y: -1.5d,
+	text: [
+		"Underground meteors contain dense ores and ver rare ores.",
+		"",
+		"ProTip: ",
+		"If you dig down the empty craters on the surface you can find \"Underground Meteors\"."
+	],
+	dependencies: [
+		"8b93b976",
+		"b91796f9",
+		"b44a49b8"
+	],
+	rewards: [{
+		uid: "444c7f14",
+		type: "choice",
+		table: 9
+	}]
+}

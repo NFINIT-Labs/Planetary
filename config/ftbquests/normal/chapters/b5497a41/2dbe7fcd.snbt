@@ -1,0 +1,22 @@
+{
+	x: -5.5d,
+	y: -1.5d,
+	text: [
+		"A stone version of the wooden crafting table with the same features."
+	],
+	dependencies: [
+		"5ba64c0a"
+	],
+	tasks: [{
+		uid: "ca6f269b",
+		type: "item",
+		items: [{
+			item: "sct:stone_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "f99ffca9",
+		type: "choice",
+		table: 9
+	}]
+}

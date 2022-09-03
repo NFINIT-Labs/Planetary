@@ -1,0 +1,7 @@
+{
+	title: "Chapter 7 - Solar System",
+	icon: "galacticraftplanets:mars 1 9",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

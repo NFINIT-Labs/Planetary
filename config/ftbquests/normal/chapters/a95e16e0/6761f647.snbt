@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	text: [
+		"The Oxygen Storage Module is a machine used to store oxygen.",
+		"",
+		"It works in much the same way as the Energy Storage Module, but stores oxygen instead of electricity."
+	],
+	dependencies: [
+		"2972a3f6"
+	],
+	tasks: [{
+		uid: "7a0e7cf7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "2968ab14",
+		type: "choice",
+		table: 10
+	}]
+}

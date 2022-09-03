@@ -1,0 +1,23 @@
+{
+	title: "Plagues",
+	x: -13.0d,
+	y: -0.5d,
+	text: [
+		"Used to cure plague effects."
+	],
+	dependencies: [
+		"05bd1753"
+	],
+	tasks: [{
+		uid: "7e86cc55",
+		type: "item",
+		items: [{
+			item: "rats:purifying_liquid"
+		}]
+	}],
+	rewards: [{
+		uid: "46f68aca",
+		type: "choice",
+		table: 9
+	}]
+}

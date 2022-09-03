@@ -1,0 +1,25 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	text: [
+		"The Oxygen Bubble Distributor takes oxygen from the Oxygen Collector, and makes an oxygen bubble providing an area to safely breathe in without needing Oxygen Gear.",
+		"",
+		"The bubble is a sphere surrounding the distributor and will go through walls (or any block). Alternatively, you can use an Oxygen Sealer to contain oxygen inside a room.",
+		""
+	],
+	dependencies: [
+		"2972a3f6"
+	],
+	tasks: [{
+		uid: "6926ed2e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:distributor"
+		}]
+	}],
+	rewards: [{
+		uid: "7203bf4d",
+		type: "choice",
+		table: 10
+	}]
+}

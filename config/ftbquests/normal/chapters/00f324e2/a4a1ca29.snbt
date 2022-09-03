@@ -1,0 +1,26 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"d1b715f9"
+	],
+	tasks: [{
+		uid: "a7b28ce6",
+		type: "item",
+		items: [{
+			item: "techguns:itemshared 1 1"
+		}]
+	},
+	{
+		uid: "1dab6ee9",
+		type: "item",
+		items: [{
+			item: "techguns:itemshared 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "edbf5c22",
+		type: "choice",
+		table: 9
+	}]
+}

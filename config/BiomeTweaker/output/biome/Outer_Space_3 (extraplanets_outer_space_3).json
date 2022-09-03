@@ -1,6 +1,6 @@
 
 {
-  "ID": 45,
+  "ID": 93,
   "Name": "Outer Space 3",
   "Resource Location": "extraplanets:outer space 3",
   "Class": "micdoodle8.mods.galacticraft.api.prefab.world.gen.BiomeAdaptive",
@@ -17,13 +17,13 @@
   "Temperature": 0.5,
   "Humidity": 0.0,
   "Water Tint": 16777215,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
     "DENSE",
-    "COLD",
-    "LUSH"
+    "LUSH",
+    "DRY",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

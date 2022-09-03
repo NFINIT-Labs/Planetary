@@ -1,0 +1,41 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Oil generates between y-levels 15 and 34 in small underground reservoirs mostly in low altitude."
+	],
+	dependencies: [
+		"bb4143ac"
+	],
+	tasks: [{
+		uid: "ed2bb2f3",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil",
+				Amount: 1000
+			}
+		},
+		{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "crude_oil",
+				Amount: 1000
+			}
+		},
+		{
+			item: "galacticraftcore:bucket_oil"
+		},
+		{
+			item: "galacticraftcore:oil_canister_partial 1 1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "792467fd",
+		type: "choice",
+		table: 9
+	}]
+}

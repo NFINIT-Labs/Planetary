@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		"Fluid Pipes can transport any liquid or gas and can be used them to connect tanks and machines in a system."
+	],
+	dependencies: [
+		"a6ba96fb"
+	],
+	tasks: [{
+		uid: "28989d5a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fluid_pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "05159115",
+		type: "choice",
+		table: 9
+	}]
+}

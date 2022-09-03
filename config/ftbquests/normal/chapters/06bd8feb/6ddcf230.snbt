@@ -1,0 +1,20 @@
+{
+	title: "Tier 4 Rocket License",
+	x: 7.0d,
+	y: -1.0d,
+	dependencies: [
+		"28a3b61d"
+	],
+	tasks: [{
+		uid: "3c2f434e",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "88ee9bef",
+		type: "choice",
+		table: 10
+	}]
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "Chicken1",
+  "Registry ID": "betteragriculture:chicken1",
+  "Class": "com.knoxhack.betteragriculture.entities.chicken.EntityMobChicken1"
+}

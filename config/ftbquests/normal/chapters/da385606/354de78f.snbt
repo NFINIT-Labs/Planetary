@@ -1,0 +1,19 @@
+{
+	x: 5.5d,
+	y: 0.5d,
+	dependencies: [
+		"da7490df"
+	],
+	tasks: [{
+		uid: "fe8da02f",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:enricher"
+		}]
+	}],
+	rewards: [{
+		uid: "103d316b",
+		type: "choice",
+		table: 9
+	}]
+}

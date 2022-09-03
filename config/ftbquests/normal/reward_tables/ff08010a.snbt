@@ -1,0 +1,16 @@
+{
+	title: "Building",
+	loot_size: 1,
+	hide_tooltip: true,
+	use_title: true,
+	rewards: [],
+	loot_crate: {
+		string_id: "building",
+		color: 362482,
+		drops: {
+			passive: 0,
+			monster: 0,
+			boss: 0
+		}
+	}
+}

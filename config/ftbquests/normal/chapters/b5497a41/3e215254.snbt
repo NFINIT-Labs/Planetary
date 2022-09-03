@@ -1,0 +1,25 @@
+{
+	title: "Pickaxe",
+	x: -4.0d,
+	y: -1.5d,
+	text: [
+		"Craft a pickaxe and mine out a meteor."
+	],
+	dependencies: [
+		"2dbe7fcd"
+	],
+	tasks: [{
+		uid: "f8e84066",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "58c60f76",
+		type: "choice",
+		table: 9
+	}]
+}

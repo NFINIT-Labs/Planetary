@@ -1,0 +1,48 @@
+{
+	title: "Thermal Padding Armor",
+	x: 5.5d,
+	y: -2.5d,
+	text: [
+		"Thermal Padding suit is required to survive on Mars."
+	],
+	dependencies: [
+		"dc8f0991"
+	],
+	tasks: [{
+		uid: "06401d77",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eff6ce7d",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "743b2449",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "558a8de3",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6e029b1",
+		type: "choice",
+		table: 10
+	}]
+}

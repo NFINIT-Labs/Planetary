@@ -1,0 +1,22 @@
+{
+	title: "Underground Cyber Lab Mobs",
+	x: -6.5d,
+	y: -4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b5a116a4"
+	],
+	tasks: [{
+		uid: "74225352",
+		type: "kill",
+		entity: "cyberware:cyberzombie",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d1856c42",
+		type: "choice",
+		table: 10
+	}]
+}

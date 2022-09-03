@@ -1,0 +1,32 @@
+{
+	title: "Research Papers",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"The Venus Research Paper can be found in treasure chests in Mars dungeons."
+	],
+	dependencies: [
+		"46caf638"
+	],
+	tasks: [{
+		uid: "ccbae79e",
+		type: "item",
+		title: "Venus Research Paper",
+		items: [{
+			item: "planetprogression:research_paper_2"
+		}]
+	},
+	{
+		uid: "d7a7cced",
+		type: "item",
+		title: "Ceres Reserach Paper",
+		items: [{
+			item: "planetprogression:research_paper_6"
+		}]
+	}],
+	rewards: [{
+		uid: "595225dc",
+		type: "choice",
+		table: 10
+	}]
+}

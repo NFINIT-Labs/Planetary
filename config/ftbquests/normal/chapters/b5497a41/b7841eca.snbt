@@ -1,0 +1,25 @@
+{
+	title: "Dirt",
+	icon: "minecraft:dirt",
+	x: -2.0d,
+	y: -0.5d,
+	text: [
+		"You can craft Dirt blocks using Wasteland Blocks and Overworldian Matter."
+	],
+	dependencies: [
+		"a8b0ef58"
+	],
+	tasks: [{
+		uid: "10a61725",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "7b77c066",
+		type: "choice",
+		table: 9
+	}]
+}

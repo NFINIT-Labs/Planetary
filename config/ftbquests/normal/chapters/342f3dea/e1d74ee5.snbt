@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -0.5d,
+	dependencies: [
+		"d2aed3b6",
+		"08dd0e23"
+	],
+	tasks: [{
+		uid: "2d0218f0",
+		type: "item",
+		items: [{
+			item: "extraplanets:item_tier10_rocket"
+		}],
+		ignore_nbt: 1b
+	}]
+}

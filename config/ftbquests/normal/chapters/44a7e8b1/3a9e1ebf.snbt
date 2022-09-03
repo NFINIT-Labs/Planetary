@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"feef0c81"
+	],
+	tasks: [{
+		uid: "b2d1c863",
+		type: "dimension",
+		dim: -28
+	}],
+	rewards: [{
+		uid: "363e64be",
+		type: "choice",
+		table: 10
+	}]
+}

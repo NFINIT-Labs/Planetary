@@ -1,0 +1,21 @@
+{
+	x: 2.5d,
+	y: -2.0d,
+	dependencies: [
+		"2e5f1120"
+	],
+	tasks: [{
+		uid: "ef83a30c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rock_crusher"
+		}]
+	},
+	{
+		uid: "2fdab2eb",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:dust 1 9"
+		}]
+	}]
+}

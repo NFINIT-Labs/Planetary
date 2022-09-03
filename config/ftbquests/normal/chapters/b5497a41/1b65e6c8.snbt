@@ -1,0 +1,48 @@
+{
+	title: "Garden Bushes",
+	x: -2.0d,
+	y: -2.5d,
+	dependencies: [
+		"a8b0ef58"
+	],
+	tasks: [{
+		uid: "7a9c383a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:windygarden"
+		}]
+	},
+	{
+		uid: "dd5b56c2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tropicalgarden"
+		}]
+	},
+	{
+		uid: "082815c7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:soggygarden"
+		}]
+	},
+	{
+		uid: "b970e397",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shadedgarden"
+		}]
+	},
+	{
+		uid: "f98844a5",
+		type: "item",
+		items: [{
+			item: "harvestcraft:frostgarden"
+		}]
+	}],
+	rewards: [{
+		uid: "0d60c3a7",
+		type: "choice",
+		table: 9
+	}]
+}

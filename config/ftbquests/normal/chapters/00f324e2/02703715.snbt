@@ -1,0 +1,27 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"69f41859",
+		"02f76f7d"
+	],
+	tasks: [{
+		uid: "10824bd1",
+		type: "item",
+		items: [{
+			id: "techguns:pulserifle",
+			tag: {
+				ammo: 12s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f69867fd",
+		type: "choice",
+		table: 10
+	}]
+}

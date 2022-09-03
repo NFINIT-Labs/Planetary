@@ -1,0 +1,24 @@
+{
+	title: "Stone",
+	x: -7.0d,
+	y: -1.5d,
+	text: [
+		"You can craft Cobblestone in your Crafting Grid using Wasteland Blocks."
+	],
+	dependencies: [
+		"242504f2"
+	],
+	tasks: [{
+		uid: "a340a44e",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "f42d0867",
+		type: "choice",
+		table: 9
+	}]
+}

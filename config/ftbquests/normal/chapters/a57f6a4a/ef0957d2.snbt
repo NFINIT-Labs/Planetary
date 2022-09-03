@@ -1,0 +1,24 @@
+{
+	x: -2.0d,
+	y: -5.0d,
+	text: [
+		"Auto purchases items or fluids, and inserts them into the tank/inventory above.",
+		"",
+		"Can set rate of purchase and only active with a redstone signal."
+	],
+	dependencies: [
+		"aac0e055"
+	],
+	tasks: [{
+		uid: "1eaba42c",
+		type: "item",
+		items: [{
+			item: "adminshop:buyer"
+		}]
+	}],
+	rewards: [{
+		uid: "94525a1c",
+		type: "random",
+		table: 0
+	}]
+}

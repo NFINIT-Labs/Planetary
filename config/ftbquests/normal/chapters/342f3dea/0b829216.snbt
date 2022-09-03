@@ -1,0 +1,19 @@
+{
+	title: "Kill the Diona Boss",
+	x: -3.5d,
+	y: -0.5d,
+	dependencies: [
+		"6dde2bf5"
+	],
+	tasks: [{
+		uid: "94855d2e",
+		type: "kill",
+		entity: "moreplanets:infected_purlonite_slime_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a93f4e52",
+		type: "item",
+		item: "planetprogression:research_paper_13"
+	}]
+}

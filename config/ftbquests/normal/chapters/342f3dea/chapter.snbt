@@ -1,0 +1,7 @@
+{
+	title: "Chapter 8 - Deep Space",
+	icon: "galaxyspace:barnarda_c_grasses",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

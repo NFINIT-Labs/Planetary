@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: -5.0d,
+	text: [
+		" Withdraw money from your account in the form of a check that can be given to other players.",
+		"",
+		"The player who right clicks the check will deposit the money into their account."
+	],
+	dependencies: [
+		"7b16e911"
+	],
+	tasks: [{
+		uid: "221f7ca0",
+		type: "item",
+		items: [{
+			item: "adminshop:atm"
+		}]
+	}],
+	rewards: [{
+		uid: "e7efd60a",
+		type: "random",
+		table: 0
+	}]
+}
