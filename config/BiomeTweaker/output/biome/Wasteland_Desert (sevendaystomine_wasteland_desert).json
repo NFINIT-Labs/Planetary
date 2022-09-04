@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "SPOOKY",
-    "DEAD",
     "DRY",
+    "SANDY",
     "WASTELAND",
-    "SANDY"
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -83,6 +83,12 @@
       "Weight": 80,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
     },
     {
       "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",

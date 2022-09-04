@@ -244,6 +244,7 @@
   "galactictweaks": "1.7.2",
   "quark": "r1.6-179",
   "legendarytooltips": "1.1.5",
+  "dtmintegrations": "1.5.0",
   "fluxnetworks": "4.1.0",
   "storagedrawers": "5.2.2",
   "blockcraftery": "1.12.2-1.3.1",

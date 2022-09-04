@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MESA",
     "DRY",
+    "SANDY",
     "SPARSE",
-    "SANDY"
+    "MESA"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -77,12 +77,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
-      "Weight": 20,
-      "Min Group Count": 3,
-      "Max Group Count": 30
-    },
-    {
       "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
       "Weight": 0,
       "Min Group Count": 0,
@@ -123,6 +117,12 @@
       "Weight": 0,
       "Min Group Count": 0,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
     },
     {
       "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",

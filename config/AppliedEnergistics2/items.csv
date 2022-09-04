@@ -8888,15 +8888,15 @@ galacticraftcore:infinite_oxygen, Infinite Oxygen Supply
 galacticraftcore:sensor_lens, Sensor Lens
 galacticraftcore:sensor_glasses, Sensor Glasses
 galacticraftcore:standard_wrench, Standard Wrench
-galacticraftcore:steel_pickaxe, Steel Pickaxe
-galacticraftcore:steel_axe, Steel Axe
-galacticraftcore:steel_hoe, Steel Hoe
-galacticraftcore:steel_shovel, Steel Shovel
+galacticraftcore:steel_pickaxe, Heavy Duty Pickaxe
+galacticraftcore:steel_axe, Heavy Duty Axe
+galacticraftcore:steel_hoe, Heavy Duty Hoe
+galacticraftcore:steel_shovel, Heavy Duty Shovel
 galacticraftcore:steel_sword, Heavy Duty Sword
-galacticraftcore:steel_helmet, Steel Helmet
-galacticraftcore:steel_chestplate, Steel Chestplate
-galacticraftcore:steel_leggings, Steel Leggings
-galacticraftcore:steel_boots, Steel Boots
+galacticraftcore:steel_helmet, Heavy Duty Helmet
+galacticraftcore:steel_chestplate, Heavy Duty Chestplate
+galacticraftcore:steel_leggings, Heavy Duty Leggings
+galacticraftcore:steel_boots, Heavy Duty Boots
 galacticraftcore:canister:0, Tin Canister
 galacticraftcore:canister:1, Copper Canister
 galacticraftcore:air_vent, Oxygen Vent
@@ -9448,27 +9448,6 @@ galaxyspace:plasma_axe, Plasma Axe
 galaxyspace:plasma_pickaxe, Plasma Pickaxe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:100, Geological Scanner
-galaxyspace:proxima_b_blocks:0, Surface
-galaxyspace:proxima_b_blocks:1, Subsurface
-galaxyspace:proxima_b_blocks:2, Stone
-galaxyspace:proxima_b_blocks:3, Ice Surface
-galaxyspace:proxima_b_blocks:4, Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_blocks:11, Rocky Surface
-galaxyspace:proxima_b_blocks:12, Mushroom Skin
-galaxyspace:proxima_b_blocks:13, Mushroom Geyser
-galaxyspace:proxima_b_blocks:14, Mud
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
-galaxyspace:proxima_b_mushroom_log, Mushroom Stem
-galaxyspace:proxima_b_grasses, Grass
-galaxyspace:proxima_b_dandelions:0, Red Tallgrass
-galaxyspace:proxima_b_dandelions:1, Red Tallgrass
 galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
 galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
 galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
@@ -9491,6 +9470,27 @@ galaxyspace:tauceti_f_corals:7, Horn Coral Fan
 galaxyspace:tauceti_f_corals:8, Tube Coral
 galaxyspace:tauceti_f_corals:9, Tube Coral Fan
 galaxyspace:tauceti_f_corals:10, Sponge Coral
+galaxyspace:proxima_b_blocks:0, Surface
+galaxyspace:proxima_b_blocks:1, Subsurface
+galaxyspace:proxima_b_blocks:2, Stone
+galaxyspace:proxima_b_blocks:3, Ice Surface
+galaxyspace:proxima_b_blocks:4, Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_blocks:11, Rocky Surface
+galaxyspace:proxima_b_blocks:12, Mushroom Skin
+galaxyspace:proxima_b_blocks:13, Mushroom Geyser
+galaxyspace:proxima_b_blocks:14, Mud
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:proxima_b_mushroom_log, Mushroom Stem
+galaxyspace:proxima_b_grasses, Grass
+galaxyspace:proxima_b_dandelions:0, Red Tallgrass
+galaxyspace:proxima_b_dandelions:1, Red Tallgrass
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -10539,13 +10539,13 @@ cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 corpsecomplex:scroll, Grave Scroll
-dankstorage:dank_2, Dank 2
-dankstorage:dank_3, Dank 3
 dankstorage:dank_6, Dank 6
 dankstorage:dank_5, Dank 5
-dankstorage:dank_1, Dank 1
+dankstorage:dank_2, Dank 2
 dankstorage:dank_4, Dank 4
 dankstorage:dank_7, Dank 7
+dankstorage:dank_3, Dank 3
+dankstorage:dank_1, Dank 1
 darkutils:trap_move, Vector Plate
 darkutils:trap_move_fast, Fast Vector Plate
 darkutils:trap_move_hyper, Extreme Vector Plate
@@ -10706,6 +10706,563 @@ deepmoblearning:pristine_matter_shulker, Pristine Shulker Matter
 deepmoblearning:pristine_matter_guardian, Pristine Guardian Matter
 deepmoblearning:pristine_matter_thermal_elemental, Pristine Thermal Elemental Matter
 deepmoblearning:pristine_matter_mo_android, Pristine Rogue Android Matter
+sevendaystomine:scrapiron, Scrap Iron
+sevendaystomine:scrapbrass, Scrap Brass
+sevendaystomine:scraplead, Scrap Lead
+sevendaystomine:emptycan, Empty Can
+sevendaystomine:stoneaxe, Stone Axe
+sevendaystomine:woodplank, Wood Plank
+sevendaystomine:smallstone, Small Stone
+sevendaystomine:plantfiber, Plant Fiber
+sevendaystomine:stoneshovel, Stone Shovel
+sevendaystomine:cookinggrill, Cooking Grill
+sevendaystomine:emptyjar, Empty Jar
+sevendaystomine:bottledmurkywater, Bottled Murky Water
+sevendaystomine:bottledwater, Bottled Water
+sevendaystomine:scrapglass, Scrap Glass
+sevendaystomine:bottledbeer, Beer
+sevendaystomine:goldenrodtea, Goldenrod Tea
+sevendaystomine:bottledcoffee, Coffee
+sevendaystomine:jarofhoney, Jar of Honey
+sevendaystomine:cannedmurkywater, Canned Murky Water
+sevendaystomine:cannedwater, Canned Water
+sevendaystomine:cannedbeef, Can of Beef
+sevendaystomine:cannedcatfood, Can of Cat Food
+sevendaystomine:cannedchicken, Can of Chicken
+sevendaystomine:cannedchili, Can of Chili
+sevendaystomine:canneddogfood, Can of Dog Food
+sevendaystomine:cannedham, Can of Ham
+sevendaystomine:cannedlamb, Can of Lamb
+sevendaystomine:cannedmiso, Can of Miso
+sevendaystomine:cannedpasta, Can of Pasta
+sevendaystomine:cannedpears, Can of Pears
+sevendaystomine:cannedpeas, Can of Peas
+sevendaystomine:cannedsalmon, Can of Salmon
+sevendaystomine:cannedsoup, Can of Soup
+sevendaystomine:cannedstock, Can of Stock
+sevendaystomine:cannedtuna, Can of Tuna
+sevendaystomine:coffee_beans, Coffee Beans
+sevendaystomine:corn, Corn
+sevendaystomine:blueberry, Blueberry
+sevendaystomine:baneberry, White Baneberry
+sevendaystomine:coffee_berry, Coffee Berries
+sevendaystomine:bandage, Bandage
+sevendaystomine:advancedbandage, Advanced Bandage
+sevendaystomine:firstaidkit, First Aid Kit
+sevendaystomine:bloodbag, Blood Bag
+sevendaystomine:blooddrawkit, Blood Draw Kit
+sevendaystomine:leadingot, Lead Ingot
+sevendaystomine:brassingot, Brass Ingot
+sevendaystomine:steelingot, Steel Ingot
+sevendaystomine:copperingot, Copper Ingot
+sevendaystomine:tiningot, Tin Ingot
+sevendaystomine:zincingot, Zinc Ingot
+sevendaystomine:bronzeingot, Bronze Ingot
+sevendaystomine:ingotmold, Ingot Mold
+sevendaystomine:cloth, Cloth
+sevendaystomine:antibiotics, Antibiotics
+sevendaystomine:concretemix, Concrete Mix
+sevendaystomine:boneshiv, Bone Shiv
+sevendaystomine:cement, Cement
+sevendaystomine:crudeclub, Crude Club
+sevendaystomine:woodenclub, Wooden Club
+sevendaystomine:ironreinforcedclub, Iron Reinforced Club
+sevendaystomine:barbedclub, Barbed Club
+sevendaystomine:spikedclub, Spiked Club
+sevendaystomine:clawhammer, Clawhammer
+sevendaystomine:wrench, Wrench
+sevendaystomine:kitchenknife, Kitchen Knife
+sevendaystomine:armyknife, Army Knife
+sevendaystomine:machete, Machete
+sevendaystomine:sledgehammer, Sledgehammer
+sevendaystomine:fridgeitem, Refrigerator
+sevendaystomine:sleepingbagitem:0, White Sleeping Bag
+sevendaystomine:sleepingbagitem:1, Orange Sleeping Bag
+sevendaystomine:sleepingbagitem:2, Magenta Sleeping Bag
+sevendaystomine:sleepingbagitem:3, Light Blue Sleeping Bag
+sevendaystomine:sleepingbagitem:4, Yellow Sleeping Bag
+sevendaystomine:sleepingbagitem:5, Lime Sleeping Bag
+sevendaystomine:sleepingbagitem:6, Pink Sleeping Bag
+sevendaystomine:sleepingbagitem:7, Gray Sleeping Bag
+sevendaystomine:sleepingbagitem:8, Silver Sleeping Bag
+sevendaystomine:sleepingbagitem:9, Cyan Sleeping Bag
+sevendaystomine:sleepingbagitem:10, Purple Sleeping Bag
+sevendaystomine:sleepingbagitem:11, Blue Sleeping Bag
+sevendaystomine:sleepingbagitem:12, Brown Sleeping Bag
+sevendaystomine:sleepingbagitem:13, Green Sleeping Bag
+sevendaystomine:sleepingbagitem:14, Red Sleeping Bag
+sevendaystomine:sleepingbagitem:15, Black Sleeping Bag
+sevendaystomine:woodendooritem, Wooden Door
+sevendaystomine:woodendoorreinforceditem, Wooden Door Reinforced
+sevendaystomine:auger, Auger
+sevendaystomine:realitywand, Reality Wand
+sevendaystomine:ram, RAM
+sevendaystomine:cpu, Central Processing Unit
+sevendaystomine:hdd, HDD
+sevendaystomine:gpu, Graphics Processing Unit
+sevendaystomine:motherboard, Motherboard
+sevendaystomine:power_supply, Power Supply Unit
+sevendaystomine:disc, Compact Disc
+sevendaystomine:linux_disc, Linux Installation Disc
+sevendaystomine:mac_disc, macOS Installation Disc
+sevendaystomine:win10_disc, Windows 10 Installation Disc
+sevendaystomine:win7_disc, Windows 7 Installation Disc
+sevendaystomine:win8_disc, Windows 8 Installation Disc
+sevendaystomine:win98_disc, Windows 98 Installation Disc
+sevendaystomine:winxp_disc, Windows XP Installation Disc
+sevendaystomine:locked_door_item, Locked Door
+sevendaystomine:wire, Wire
+sevendaystomine:street_sign, Street Sign
+sevendaystomine:photo, Photo
+sevendaystomine:analog_camera, Analog Camera
+sevendaystomine:shorts, Shorts
+sevendaystomine:car_battery, Lead Car Battery
+sevendaystomine:small_engine, Small Engine
+sevendaystomine:minibike_chassis, Minibike Chassis
+sevendaystomine:minibike_handles, Minibike Handlebars
+sevendaystomine:minibike_seat, Minibike Seat
+sevendaystomine:skirt, Skirt
+sevendaystomine:jeans, Jeans
+sevendaystomine:shorts_long, Long Shorts
+sevendaystomine:jacket, Jacket
+sevendaystomine:jumper, Jumper
+sevendaystomine:shirt, Shirt
+sevendaystomine:short_sleeved_shirt, Short Sleeved Shirt
+sevendaystomine:t_shirt_0, T-Shirt
+sevendaystomine:t_shirt_1, T-Shirt
+sevendaystomine:coat, Coat
+sevendaystomine:fiber_hat, Fiber Hat
+sevendaystomine:fiber_chestplate, Fiber Chestplate
+sevendaystomine:fiber_leggings, Fiber Leggings
+sevendaystomine:fiber_boots, Fiber Footwraps
+sevendaystomine:steel_helmet, Heavy Duty Helmet
+sevendaystomine:steel_chestplate, Heavy Duty Chestplate
+sevendaystomine:steel_leggings, Heavy Duty Leggings
+sevendaystomine:steel_boots, Heavy Duty Boots
+sevendaystomine:cent, Cent
+sevendaystomine:backpack, Backpack
+sevendaystomine:leather_iron_helmet, Leather-Iron Helmet
+sevendaystomine:leather_iron_chestplate, Leather-Iron Chestplate
+sevendaystomine:leather_iron_boots, Leather-Iron Boots
+sevendaystomine:leather_iron_leggings, Leather-Iron Leggings
+sevendaystomine:voltmeter, Voltmeter
+sevendaystomine:chainsaw, Chainsaw
+sevendaystomine:scrap_shovel, Scrap Shovel
+sevendaystomine:scrap_pickaxe, Scrap Pickaxe
+sevendaystomine:scrap_axe, Scrap Axe
+sevendaystomine:copper_shovel, Copper Shovel
+sevendaystomine:copper_pickaxe, Copper Pickaxe
+sevendaystomine:copper_axe, Copper Axe
+sevendaystomine:bronze_shovel, Bronze Shovel
+sevendaystomine:bronze_pickaxe, Bronze Pickaxe
+sevendaystomine:bronze_axe, Bronze Axe
+sevendaystomine:iron_shovel, Iron Shovel
+sevendaystomine:iron_axe, Iron Axe
+sevendaystomine:iron_pickaxe, Iron Pickaxe
+sevendaystomine:steel_shovel, Heavy Duty Shovel
+sevendaystomine:steel_pickaxe, Heavy Duty Pickaxe
+sevendaystomine:steel_axe, Heavy Duty Axe
+sevendaystomine:book_forging, Recipe Book
+sevendaystomine:iron_pipe, Iron Pipe
+sevendaystomine:circuit, Circuit
+sevendaystomine:link_tool, Cable
+sevendaystomine:survival_guide, Survival Guide
+sevendaystomine:microphone, Microphone
+sevendaystomine:bullet_tip, Bullet Tip
+sevendaystomine:bullet_casing, Bullet Casing
+sevendaystomine:moldy_bread, Moldy Bread
+sevendaystomine:pistol_slide, Pistol Slide
+sevendaystomine:pistol_trigger, Pistol Trigger
+sevendaystomine:pistol_grip, Pistol Grip
+sevendaystomine:sniper_rifle_barrel, Sniper Rifle Barrel
+sevendaystomine:sniper_rifle_parts, Sniper Rifle Parts
+sevendaystomine:sniper_rifle_scope, Sniper Rifle Scope
+sevendaystomine:sniper_rifle_stock, Sniper Rifle Stock
+sevendaystomine:sniper_rifle_trigger, Sniper Rifle Trigger
+sevendaystomine:scrap_helmet, Scrap Helmet
+sevendaystomine:scrap_chestplate, Scrap Chestplate
+sevendaystomine:scrap_leggings, Scrap Leggings
+sevendaystomine:scrap_boots, Scrap Boots
+sevendaystomine:iron_helmet, Iron Helmet
+sevendaystomine:iron_chestplate, Iron Chestplate
+sevendaystomine:iron_leggings, Iron Leggings
+sevendaystomine:iron_boots, Iron Boots
+sevendaystomine:leather_helmet, Leather Cap
+sevendaystomine:leather_chestplate, Leather Tunic
+sevendaystomine:leather_leggings, Leather Pants
+sevendaystomine:leather_boots, Leather Boots
+sevendaystomine:military_helmet, Military Helmet
+sevendaystomine:military_chestplate, Military Chestplate
+sevendaystomine:military_leggings, Military Leggings
+sevendaystomine:military_boots, Military Boots
+sevendaystomine:sniper_rifle, Sniper Rifle
+sevendaystomine:pistol, Pistol
+sevendaystomine:ak47, AK-47
+sevendaystomine:hunting_rifle, Hunting Rifle
+sevendaystomine:shotgun, Shotgun
+sevendaystomine:shotgun_short, Sawed-off Shotgun
+sevendaystomine:bellows, Bellows
+sevendaystomine:book_ammo, Recipe Book
+sevendaystomine:bullet_tip_mold, Bullet Tip Mold
+sevendaystomine:bullet_casing_mold, Bullet Casing Mold
+sevendaystomine:book_computers, Recipe Book
+sevendaystomine:book_concrete, Recipe Book
+sevendaystomine:cement_mold, Cement Mold
+sevendaystomine:book_electricity, Recipe Book
+sevendaystomine:magnet, Magnet
+sevendaystomine:photo_cell, Photovoltaic Cell
+sevendaystomine:book_chemistry, Recipe Book
+sevendaystomine:potassium, Potassium
+sevendaystomine:book_metalworking, Recipe Book
+sevendaystomine:book_pistol, Recipe Book
+sevendaystomine:book_minibike, Recipe Book
+sevendaystomine:gas_canister, Gas Can
+sevendaystomine:book_shotgun, Blueprint
+sevendaystomine:shotgun_barrel, Shotgun Barrel
+sevendaystomine:shotgun_barrel_short, Shotgun Short Barrel
+sevendaystomine:shotgun_parts, Shotgun Pump
+sevendaystomine:shotgun_receiver, Shotgun Receiver
+sevendaystomine:shotgun_stock, Shotgun Stock
+sevendaystomine:shotgun_stock_short, Shotgun Short Stock
+sevendaystomine:book_sniper, Blueprint
+sevendaystomine:magnum, .44 Magnum
+sevendaystomine:magnum_scoped, Scoped .44 Magnum
+sevendaystomine:flamethrower, Flamethrower
+sevendaystomine:mp5, MP5
+sevendaystomine:rpg, RPG
+sevendaystomine:m4, M4
+sevendaystomine:bullet_10mm, 10mm Bullet
+sevendaystomine:sevenmmbullet, 7.62mm Bullet
+sevendaystomine:ninemmbullet, 9mm Bullet
+sevendaystomine:bullet_magnum, .44 Magnum Bullet
+sevendaystomine:magnum_frame, .44 Magnum Frame
+sevendaystomine:magnum_cylinder, .44 Magnum Cylinder
+sevendaystomine:magnum_grip, .44 Magnum Grip
+sevendaystomine:book_magnum, Blueprint
+sevendaystomine:mp5_barrel, MP5 Barrel
+sevendaystomine:mp5_stock, MP5 Stock
+sevendaystomine:mp5_trigger, MP5 Trigger
+sevendaystomine:book_mp5, Blueprint
+sevendaystomine:shotgun_shell, Shotgun Shell
+sevendaystomine:auger_blade, Auger Blade
+sevendaystomine:night_vision_device, Night Vision Device
+sevendaystomine:christmas_hat, Christmas Hat
+sevendaystomine:beret, Beret
+sevendaystomine:bloodmoon, Bloodmoon Icon
+sevendaystomine:scrap_hoe, Scrap Hoe
+sevendaystomine:copper_hoe, Copper Hoe
+sevendaystomine:bronze_hoe, Bronze Hoe
+sevendaystomine:iron_hoe, Iron Hoe
+sevendaystomine:steel_hoe, Heavy Duty Hoe
+sevendaystomine:auger_handles, Auger Handlebars
+sevendaystomine:book_auger, Blueprint
+sevendaystomine:hunting_rifle_barrel, Hunting Rifle Barrel
+sevendaystomine:hunting_rifle_bolt, Hunting Rifle Bolt
+sevendaystomine:hunting_rifle_parts, Hunting Rifle Parts
+sevendaystomine:hunting_rifle_stock, Hunting Rifle Stock
+sevendaystomine:book_hunting_rifle, Blueprint
+sevendaystomine:empty_jar_mold, Empty Jar Mold
+sevendaystomine:hunting_rifle_barrel_mold, Hunting Rifle Barrel Mold
+sevendaystomine:hunting_rifle_bolt_mold, Hunting Rifle Bolt Mold
+sevendaystomine:mp5_stock_mold, MP5 Stock Mold
+sevendaystomine:mp5_barrel_mold, MP5 Barrel Mold
+sevendaystomine:mp5_trigger_mold, MP5 Trigger Mold
+sevendaystomine:pistol_barrel_mold, Pistol Slide Mold
+sevendaystomine:pistol_trigger_mold, Pistol Trigger Mold
+sevendaystomine:sniper_rifle_stock_mold, Sniper Rifle Stock Mold
+sevendaystomine:sniper_rifle_trigger_mold, Sniper Rifle Trigger Mold
+sevendaystomine:shotgun_barrel_mold, Shotgun Barrel Mold
+sevendaystomine:shotgun_receiver_mold, Shotgun Receiver Mold
+sevendaystomine:shotgun_short_barrel_mold, Shotgun Short Barrel Mold
+sevendaystomine:salt, Salt
+sevendaystomine:chlorine_tank, Chlorine Tank
+sevendaystomine:natrium_tank, Natrium Tank
+sevendaystomine:chlorine_grenade, Chlorine Grenade
+sevendaystomine:fragmentation_grenade, Fragmentation Grenade
+sevendaystomine:molotov, Molotov
+sevendaystomine:riot_shield, Riot Shield
+sevendaystomine:crude_bow, Crude Bow
+sevendaystomine:compound_bow, Compound Bow
+sevendaystomine:mre, MRE
+sevendaystomine:sand_dust, Sand Dust
+sevendaystomine:vomit, Vomit
+sevendaystomine:rocket, Rocket
+sevendaystomine:car_chassis, Car Chassis
+sevendaystomine:book_rocket, Blueprint
+sevendaystomine:stethoscope, Stethoscope
+sevendaystomine:flare, Flare
+sevendaystomine:soda, Soda
+sevendaystomine:wooden_door_iron_reinforced_item, Wooden Door Iron Reinforced
+sevendaystomine:screwdriver, Screwdriver
+sevendaystomine:mp3player, Audio Player
+sevendaystomine:oakplanksframe, Oak Planks Frame
+sevendaystomine:birchplanksframe, Birch Planks Frame
+sevendaystomine:spruceplanksframe, Spruce Planks Frame
+sevendaystomine:jungleplanksframe, Jungle Planks Frame
+sevendaystomine:acaciaplanksframe, Acacia Planks Frame
+sevendaystomine:darkoakplanksframe, Dark Oak Planks Frame
+sevendaystomine:oakplanksreinforced, Reinforced Oak Planks
+sevendaystomine:birchplanksreinforced, Reinforced Birch Planks
+sevendaystomine:spruceplanksreinforced, Reinforced Spruce Planks
+sevendaystomine:jungleplanksreinforced, Reinforced Jungle Planks
+sevendaystomine:acaciaplanksreinforced, Reinforced Acacia Planks
+sevendaystomine:darkoakplanksreinforced, Reinforced Dark Oak Planks
+sevendaystomine:oakplanksreinforcediron, Iron Reinforced Oak Planks
+sevendaystomine:birchplanksreinforcediron, Iron Reinforced Birch Planks
+sevendaystomine:spruceplanksreinforcediron, Iron Reinforced Spruce Planks
+sevendaystomine:jungleplanksreinforcediron, Iron Reinforced Jungle Planks
+sevendaystomine:acaciaplanksreinforcediron, Iron Reinforced Acacia Planks
+sevendaystomine:darkoakplanksreinforcediron, Iron Reinforced Dark Oak Planks
+sevendaystomine:smallrock:0, Small Rock
+sevendaystomine:smallrock:1, Small Rock
+sevendaystomine:smallrock:2, Small Rock
+sevendaystomine:smallrock:3, Small Rock
+sevendaystomine:stick, Stick
+sevendaystomine:bush, Bush
+sevendaystomine:campfire, Campfire
+sevendaystomine:campfire_lit, Campfire
+sevendaystomine:cookingpot, Cooking Pot
+sevendaystomine:beaker, Beaker
+sevendaystomine:goldenrod, Goldenrod
+sevendaystomine:coffeeplant, Coffee Plant
+sevendaystomine:cornplant, Corn Plant
+sevendaystomine:blueberryplant, Blueberry Bush
+sevendaystomine:baneberryplant, Baneberry Bush
+sevendaystomine:forge, Forge
+sevendaystomine:forge_lit, Lit Forge
+sevendaystomine:orecopper, Copper Ore
+sevendaystomine:oretin, Tin Ore
+sevendaystomine:orezinc, Zinc Ore
+sevendaystomine:orelead, Lead Ore
+sevendaystomine:orepotassium, Potassium Nitrate Ore
+sevendaystomine:orecinnabar, Cinnabar Ore
+sevendaystomine:rebarframe, Rebar Frame
+sevendaystomine:rebarframewood, Rebar Frame
+sevendaystomine:reinforcedconcrete, Reinforced Concrete
+sevendaystomine:reinforcedconcretewet, Wet Reinforced Concrete
+sevendaystomine:keysafe, Key Safe
+sevendaystomine:codesafe, Code Safe
+sevendaystomine:cardboardbox, Cardboard Box
+sevendaystomine:cupboard, Cupboard
+sevendaystomine:torchunlit, Unlit Torch
+sevendaystomine:torchlit, Torch
+sevendaystomine:asphalt, Asphalt
+sevendaystomine:garbage, Garbage
+sevendaystomine:armchairblack, Black Armchair
+sevendaystomine:armchairblue, Blue Armchair
+sevendaystomine:armchairbrown, Brown Armchair
+sevendaystomine:armchairgreen, Green Armchair
+sevendaystomine:armchairpink, Pink Armchair
+sevendaystomine:armchairred, Red Armchair
+sevendaystomine:armchairwhite, White Armchair
+sevendaystomine:armchairyellow, Yellow Armchair
+sevendaystomine:bookshelf, Oak Bookshelf
+sevendaystomine:writingtable:0, Writing table
+sevendaystomine:writingtable:8, Writing table
+sevendaystomine:medicalcabinet, Medical Cabinet
+sevendaystomine:fridge:0, Refrigerator
+sevendaystomine:fridge:8, Refrigerator
+sevendaystomine:mailbox, Mail Box
+sevendaystomine:birdnest, Bird Nest
+sevendaystomine:trashcan, Trash Can
+sevendaystomine:sleepingbag, Sleeping Bag
+sevendaystomine:trafficlight, Traffic Light
+sevendaystomine:trafficlightpedestrian, Pedestrian Traffic Light
+sevendaystomine:sedan_red:0, Red Sedan
+sevendaystomine:sedan_green:0, Green Sedan
+sevendaystomine:sedan_blue:0, Blue Sedan
+sevendaystomine:sedan_yellow:0, Yellow Sedan
+sevendaystomine:sedan_white:0, White Sedan
+sevendaystomine:sedan_black:0, Black Sedan
+sevendaystomine:deadmossystone, Dead Mossy Stone
+sevendaystomine:deadmossybrick, Dead Mossy Bricks
+sevendaystomine:basalt, Basalt
+sevendaystomine:marble, Marble
+sevendaystomine:rhyolite, Rhyolite
+sevendaystomine:basaltcobblestone, Basalt Cobblestone
+sevendaystomine:marblecobblestone, Marble Cobblestone
+sevendaystomine:rhyolitecobblestone, Rhyolite Cobblestone
+sevendaystomine:basaltbricks, Basalt Bricks
+sevendaystomine:marblebricks, Marble Bricks
+sevendaystomine:rhyolitebricks, Rhyolite Bricks
+sevendaystomine:basaltpolished, Basalt Polished
+sevendaystomine:marblepolished, Marble Polished
+sevendaystomine:rhyolitepolished, Rhyolite Polished
+sevendaystomine:andesitebricks, Andesite Bricks
+sevendaystomine:dioritebricks, Diorite Bricks
+sevendaystomine:granitebricks, Granite Bricks
+sevendaystomine:catwalk, Catwalk
+sevendaystomine:catwalk_stairs, Catwalk Stairs
+sevendaystomine:stonebrick_wall:0, Stone Bricks Wall
+sevendaystomine:stonebrick_wall:1, Mossy Stone Bricks Wall
+sevendaystomine:stonebrick_wall:2, Cracked Stone Bricks Wall
+sevendaystomine:stonebrick_wall:3, Dead Mossy Stone Bricks Wall
+sevendaystomine:throttle, Throttle
+sevendaystomine:basalt_bricks_cracked, Cracked Basalt Bricks
+sevendaystomine:marble_bricks_cracked, Cracked Marble Bricks
+sevendaystomine:rhyolite_bricks_cracked, Cracked Rhyolite Bricks
+sevendaystomine:andesite_bricks_cracked, Cracked Andesite Bricks
+sevendaystomine:diorite_bricks_cracked, Cracked Diorite Bricks
+sevendaystomine:granite_bricks_cracked, Cracked Granite Bricks
+sevendaystomine:basalt_bricks_mossy, Mossy Basalt Bricks
+sevendaystomine:marble_bricks_mossy, Mossy Marble Bricks
+sevendaystomine:rhyolite_bricks_mossy, Mossy Rhyolite Bricks
+sevendaystomine:andesite_bricks_mossy, Mossy Andesite Bricks
+sevendaystomine:diorite_bricks_mossy, Mossy Diorite Bricks
+sevendaystomine:granite_bricks_mossy, Mossy Granite Bricks
+sevendaystomine:computer, Computer Case
+sevendaystomine:monitor_off, Monitor
+sevendaystomine:monitor_mac, Monitor (Mac OS X)
+sevendaystomine:monitor_linux, Monitor (Linux)
+sevendaystomine:monitor_win98, Monitor (Windows 98)
+sevendaystomine:monitor_winxp, Monitor (Windows XP)
+sevendaystomine:monitor_win7, Monitor (Windows 7)
+sevendaystomine:monitor_win8, Monitor (Windows 8)
+sevendaystomine:monitor_win10, Monitor (Windows 10)
+sevendaystomine:boards, Boards
+sevendaystomine:toilet, Toilet
+sevendaystomine:flag, Flag
+sevendaystomine:microwave, Microwave
+sevendaystomine:sink_faucet, Sink Faucet
+sevendaystomine:metal_ladder, Metal Ladder
+sevendaystomine:radiator, Radiator
+sevendaystomine:dark_bricks, Dark Brick
+sevendaystomine:cinder, Cinder Blocks
+sevendaystomine:backpack_normal, Backpack
+sevendaystomine:backpack_army, Backpack
+sevendaystomine:backpack_medical, Backpack
+sevendaystomine:chest_old, Old Chest
+sevendaystomine:television_broken, Broken Television
+sevendaystomine:shower_head, Shower Head
+sevendaystomine:corpse_00, Corpse
+sevendaystomine:corpse_01, Corpse
+sevendaystomine:skeleton, Skeleton
+sevendaystomine:skeleton_sitting, Skeleton
+sevendaystomine:workbench, Workbench
+sevendaystomine:chemistry_station, Chemistry Station
+sevendaystomine:chair_oak, Oak Chair
+sevendaystomine:chair_birch, Birch Chair
+sevendaystomine:chair_spruce, Spruce Chair
+sevendaystomine:chair_jungle, Jungle Chair
+sevendaystomine:chair_acacia, Acacia Chair
+sevendaystomine:chair_big_oak, Dark Oak Chair
+sevendaystomine:table_oak, Oak Table
+sevendaystomine:table_birch, Birch Table
+sevendaystomine:table_spruce, Spruce Table
+sevendaystomine:table_jungle, Jungle Table
+sevendaystomine:table_acacia, Acacia Table
+sevendaystomine:table_big_oak, Dark Oak Table
+sevendaystomine:generator_gas, Gas Generator
+sevendaystomine:gasoline, Gasoline
+sevendaystomine:energy_pole, Energy Pole
+sevendaystomine:lamp, Lamp
+sevendaystomine:screen_projector, Screen Projector
+sevendaystomine:dresser, Dresser
+sevendaystomine:big_sign, Big Sign
+sevendaystomine:sofa_black, Black Sofa
+sevendaystomine:sofa_white, White Sofa
+sevendaystomine:sofa_red, Red Sofa
+sevendaystomine:sofa_green, Green Sofa
+sevendaystomine:sofa_blue, Blue Sofa
+sevendaystomine:sofa_brown, Brown Sofa
+sevendaystomine:sofa_pink, Pink Sofa
+sevendaystomine:sofa_yellow, tile.sofa_yellow.name
+sevendaystomine:trash_bin, Trash Bin
+sevendaystomine:wheels, Wheels
+sevendaystomine:large_rock, Large Rock
+sevendaystomine:wooden_spikes, Wooden Spikes
+sevendaystomine:wooden_spikes_blooded, Wooden Spikes
+sevendaystomine:wooden_spikes_broken, Wooden Spikes
+sevendaystomine:airplane_rotor, Airplane Engine
+sevendaystomine:solar_panel, Solar Panel
+sevendaystomine:wind_turbine, Wind Turbine
+sevendaystomine:battery_station, Battery Station
+sevendaystomine:generator_combustion, Coal Generator
+sevendaystomine:energy_switch, Energy Switch
+sevendaystomine:thermometer, Thermometer
+sevendaystomine:brick_block_mossy, Mossy Bricks
+sevendaystomine:dark_bricks_mossy, Mossy Dark Brick
+sevendaystomine:turret_base, Turret Base
+sevendaystomine:oak_log_spike, Oak Log Spike
+sevendaystomine:birch_log_spike, Birch Log Spike
+sevendaystomine:spruce_log_spike, Spruce Log Spike
+sevendaystomine:jungle_log_spike, Jungle Log Spike
+sevendaystomine:acacia_log_spike, Acacia Log Spike
+sevendaystomine:dark_oak_log_spike, Dark Oak Log Spike
+sevendaystomine:sandbags, Sandbags
+sevendaystomine:file_cabinet, File Cabinet
+sevendaystomine:cash_register, Cash Register
+sevendaystomine:camera, Camera
+sevendaystomine:burnt_log, Burnt Log
+sevendaystomine:burnt_planks, Burnt Planks
+sevendaystomine:burnt_frame, Burnt Frame
+sevendaystomine:dry_ground, Dry Ground
+sevendaystomine:burnt_planks_stairs, Burnt Planks Stairs
+sevendaystomine:burnt_planks_slab:0, Burnt Planks Slab
+sevendaystomine:burnt_planks_fence, Burnt Planks Fence
+sevendaystomine:burnt_chair, Burnt Chair
+sevendaystomine:stone_brick_stairs_mossy, Mossy Stone Brick Stairs
+sevendaystomine:radio, Radio
+sevendaystomine:globe, Globe
+sevendaystomine:mercury, Mercury
+sevendaystomine:separator, Electrolytic Cell
+sevendaystomine:turret_advanced, Advanced Turret
+sevendaystomine:razor_wire, Razor Wire
+sevendaystomine:stand, Stand
+sevendaystomine:landmine, Landmine
+sevendaystomine:sirene, Sirene
+sevendaystomine:structure_stone:0, Structure Stone
+sevendaystomine:structure_stone:1, Structure Stone
+sevendaystomine:structure_stone:2, Structure Stone
+sevendaystomine:structure_stone:3, Structure Stone
+sevendaystomine:structure_stone:4, Structure Stone
+sevendaystomine:structure_stone:5, Structure Stone
+sevendaystomine:structure_stone:6, Structure Stone
+sevendaystomine:fake_anvil, Street Light Base
+sevendaystomine:redstone_lamp_broken, Broken Redstone Lamp
+sevendaystomine:calendar, Calendar
+sevendaystomine:flamethrower_trap, Flamethrower Trap
+sevendaystomine:metal_spikes, Metal Spikes
+sevendaystomine:bookshelf_spruce, Spruce Bookshelf
+sevendaystomine:bookshelf_birch, Birch Bookshelf
+sevendaystomine:bookshelf_jungle, Jungle Bookshelf
+sevendaystomine:bookshelf_acacia, Acacia Bookshelf
+sevendaystomine:bookshelf_dark_oak, Dark Oak Bookshelf
+sevendaystomine:police_car:0, Police Car
+sevendaystomine:flower_pot_enhanced, Flower Pot
+sevendaystomine:paper, Paper
+sevendaystomine:sand_layer, Sand Layer
+sevendaystomine:red_sand_layer, Sand Layer
+sevendaystomine:ambulance:0, Ambulance
+sevendaystomine:steel_block, Steel Block
+sevendaystomine:bronze_block, Bronze Block
+sevendaystomine:lead_block, Lead Block
+sevendaystomine:copper_block, Copper Block
+sevendaystomine:dark_bricks_slab:0, Dark Brick Slab
+sevendaystomine:dark_bricks_stairs, Dark Brick Stairs
+sevendaystomine:dark_bricks_mossy_slab:0, Mossy Dark Brick Slab
+sevendaystomine:dark_bricks_mossy_stairs, Mossy Dark Brick Stairs
+sevendaystomine:brick_mossy_stairs, Mossy Brick Stairs
+sevendaystomine:brick_mossy_slab:0, Mossy Brick Slab
+sevendaystomine:stone_brick_stairs_cracked, Cracked Stone Brick Stairs
+sevendaystomine:asphalt_slab:0, Asphalt Slab
+sevendaystomine:brass_block, Brass Block
+sevendaystomine:armchair_cyan, Cyan Armchair
+sevendaystomine:armchair_purple, Purple Armchair
+sevendaystomine:armchair_orange, Orange Armchair
+sevendaystomine:armchair_magenta, Magenta Armchair
+sevendaystomine:armchair_lime, Lime Armchair
+sevendaystomine:armchair_light_blue, Light Blue Armchair
+sevendaystomine:armchair_silver, Silver Armchair
+sevendaystomine:armchair_gray, Gray Armchair
+sevendaystomine:sofa_cyan, Cyan Sofa
+sevendaystomine:sofa_purple, Purple Sofa
+sevendaystomine:sofa_orange, Orange Sofa
+sevendaystomine:sofa_magenta, Magenta Sofa
+sevendaystomine:sofa_lime, Lime Sofa
+sevendaystomine:sofa_light_blue, Light Blue Sofa
+sevendaystomine:sofa_silver, Silver Sofa
+sevendaystomine:sofa_gray, Gray Sofa
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -13235,6 +13792,24 @@ matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
 matteroverdrive:microwave, Microwave
 matteroverdrive:industrial_glass, Industrial Glass
 matteroverdrive:new_tritanium_crate, New Tritanium Crate
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -13355,24 +13930,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 immersivetech:connectors, tile.immersivetech.connectors.name
 immersivetech:metal_trash:0, Trash Can
 immersivetech:metal_trash:1, Fluid Trash Can
@@ -13853,19 +14410,6 @@ techguns:tfg, TFG 10K
 techguns:laserpistol, Laser Pistol
 techguns:stielgranate, Stick Grenade
 techguns:fraggrenade, Frag Grenade
-mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
-mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
-mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
-mob_grinding_utils:absorption_upgrade:0, Absorption Radius Upgrade
-mob_grinding_utils:saw_upgrade:0, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:1, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:2, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:3, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:4, Mob Masher Upgrade
-mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
-mob_grinding_utils:mob_swab, Mob Swab
-mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
-mob_grinding_utils:null_sword, Imaginary Not Here Sword
 mob_grinding_utils:fan, Mob Fan
 mob_grinding_utils:saw, Mob Masher
 mob_grinding_utils:absorption_hopper, Absorption Hopper
@@ -13879,6 +14423,19 @@ mob_grinding_utils:dark_oak_stone, Dark Oak Stone
 mob_grinding_utils:entity_conveyor, Entity Conveyor
 mob_grinding_utils:ender_inhibitor_on, Ender Inhibitor Active
 mob_grinding_utils:ender_inhibitor_off, Ender Inhibitor Inactive
+mob_grinding_utils:fan_upgrade:0, Mob Fan Upgrade
+mob_grinding_utils:fan_upgrade:1, Mob Fan Upgrade
+mob_grinding_utils:fan_upgrade:2, Mob Fan Upgrade
+mob_grinding_utils:absorption_upgrade:0, Absorption Radius Upgrade
+mob_grinding_utils:saw_upgrade:0, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:1, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:2, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:3, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:4, Mob Masher Upgrade
+mob_grinding_utils:saw_upgrade:5, Mob Masher Upgrade
+mob_grinding_utils:mob_swab, Mob Swab
+mob_grinding_utils:gm_chicken_feed, GM Chicken Feed
+mob_grinding_utils:null_sword, Imaginary Not Here Sword
 pickletweaks:colored_cobblestone:0, White Cobblestone
 pickletweaks:colored_cobblestone:1, Orange Cobblestone
 pickletweaks:colored_cobblestone:2, Magenta Cobblestone
@@ -14199,563 +14756,6 @@ rftoolspower:cell2, Powercell (Medium)
 rftoolspower:cell3, Powercell (High)
 rftoolspower:information_screen, Information Screen
 playershop:shop, Player Shop Table
-sevendaystomine:scrapiron, Scrap Iron
-sevendaystomine:scrapbrass, Scrap Brass
-sevendaystomine:scraplead, Scrap Lead
-sevendaystomine:emptycan, Empty Can
-sevendaystomine:stoneaxe, Stone Axe
-sevendaystomine:woodplank, Wood Plank
-sevendaystomine:smallstone, Small Stone
-sevendaystomine:plantfiber, Plant Fiber
-sevendaystomine:stoneshovel, Stone Shovel
-sevendaystomine:cookinggrill, Cooking Grill
-sevendaystomine:emptyjar, Empty Jar
-sevendaystomine:bottledmurkywater, Bottled Murky Water
-sevendaystomine:bottledwater, Bottled Water
-sevendaystomine:scrapglass, Scrap Glass
-sevendaystomine:bottledbeer, Beer
-sevendaystomine:goldenrodtea, Goldenrod Tea
-sevendaystomine:bottledcoffee, Coffee
-sevendaystomine:jarofhoney, Jar of Honey
-sevendaystomine:cannedmurkywater, Canned Murky Water
-sevendaystomine:cannedwater, Canned Water
-sevendaystomine:cannedbeef, Can of Beef
-sevendaystomine:cannedcatfood, Can of Cat Food
-sevendaystomine:cannedchicken, Can of Chicken
-sevendaystomine:cannedchili, Can of Chili
-sevendaystomine:canneddogfood, Can of Dog Food
-sevendaystomine:cannedham, Can of Ham
-sevendaystomine:cannedlamb, Can of Lamb
-sevendaystomine:cannedmiso, Can of Miso
-sevendaystomine:cannedpasta, Can of Pasta
-sevendaystomine:cannedpears, Can of Pears
-sevendaystomine:cannedpeas, Can of Peas
-sevendaystomine:cannedsalmon, Can of Salmon
-sevendaystomine:cannedsoup, Can of Soup
-sevendaystomine:cannedstock, Can of Stock
-sevendaystomine:cannedtuna, Can of Tuna
-sevendaystomine:coffee_beans, Coffee Beans
-sevendaystomine:corn, Corn
-sevendaystomine:blueberry, Blueberry
-sevendaystomine:baneberry, White Baneberry
-sevendaystomine:coffee_berry, Coffee Berries
-sevendaystomine:bandage, Bandage
-sevendaystomine:advancedbandage, Advanced Bandage
-sevendaystomine:firstaidkit, First Aid Kit
-sevendaystomine:bloodbag, Blood Bag
-sevendaystomine:blooddrawkit, Blood Draw Kit
-sevendaystomine:leadingot, Lead Ingot
-sevendaystomine:brassingot, Brass Ingot
-sevendaystomine:steelingot, Steel Ingot
-sevendaystomine:copperingot, Copper Ingot
-sevendaystomine:tiningot, Tin Ingot
-sevendaystomine:zincingot, Zinc Ingot
-sevendaystomine:bronzeingot, Bronze Ingot
-sevendaystomine:ingotmold, Ingot Mold
-sevendaystomine:cloth, Cloth
-sevendaystomine:antibiotics, Antibiotics
-sevendaystomine:concretemix, Concrete Mix
-sevendaystomine:boneshiv, Bone Shiv
-sevendaystomine:cement, Cement
-sevendaystomine:crudeclub, Crude Club
-sevendaystomine:woodenclub, Wooden Club
-sevendaystomine:ironreinforcedclub, Iron Reinforced Club
-sevendaystomine:barbedclub, Barbed Club
-sevendaystomine:spikedclub, Spiked Club
-sevendaystomine:clawhammer, Clawhammer
-sevendaystomine:wrench, Wrench
-sevendaystomine:kitchenknife, Kitchen Knife
-sevendaystomine:armyknife, Army Knife
-sevendaystomine:machete, Machete
-sevendaystomine:sledgehammer, Sledgehammer
-sevendaystomine:fridgeitem, Refrigerator
-sevendaystomine:sleepingbagitem:0, White Sleeping Bag
-sevendaystomine:sleepingbagitem:1, Orange Sleeping Bag
-sevendaystomine:sleepingbagitem:2, Magenta Sleeping Bag
-sevendaystomine:sleepingbagitem:3, Light Blue Sleeping Bag
-sevendaystomine:sleepingbagitem:4, Yellow Sleeping Bag
-sevendaystomine:sleepingbagitem:5, Lime Sleeping Bag
-sevendaystomine:sleepingbagitem:6, Pink Sleeping Bag
-sevendaystomine:sleepingbagitem:7, Gray Sleeping Bag
-sevendaystomine:sleepingbagitem:8, Silver Sleeping Bag
-sevendaystomine:sleepingbagitem:9, Cyan Sleeping Bag
-sevendaystomine:sleepingbagitem:10, Purple Sleeping Bag
-sevendaystomine:sleepingbagitem:11, Blue Sleeping Bag
-sevendaystomine:sleepingbagitem:12, Brown Sleeping Bag
-sevendaystomine:sleepingbagitem:13, Green Sleeping Bag
-sevendaystomine:sleepingbagitem:14, Red Sleeping Bag
-sevendaystomine:sleepingbagitem:15, Black Sleeping Bag
-sevendaystomine:woodendooritem, Wooden Door
-sevendaystomine:woodendoorreinforceditem, Wooden Door Reinforced
-sevendaystomine:auger, Auger
-sevendaystomine:realitywand, Reality Wand
-sevendaystomine:ram, RAM
-sevendaystomine:cpu, Central Processing Unit
-sevendaystomine:hdd, HDD
-sevendaystomine:gpu, Graphics Processing Unit
-sevendaystomine:motherboard, Motherboard
-sevendaystomine:power_supply, Power Supply Unit
-sevendaystomine:disc, Compact Disc
-sevendaystomine:linux_disc, Linux Installation Disc
-sevendaystomine:mac_disc, macOS Installation Disc
-sevendaystomine:win10_disc, Windows 10 Installation Disc
-sevendaystomine:win7_disc, Windows 7 Installation Disc
-sevendaystomine:win8_disc, Windows 8 Installation Disc
-sevendaystomine:win98_disc, Windows 98 Installation Disc
-sevendaystomine:winxp_disc, Windows XP Installation Disc
-sevendaystomine:locked_door_item, Locked Door
-sevendaystomine:wire, Wire
-sevendaystomine:street_sign, Street Sign
-sevendaystomine:photo, Photo
-sevendaystomine:analog_camera, Analog Camera
-sevendaystomine:shorts, Shorts
-sevendaystomine:car_battery, Lead Car Battery
-sevendaystomine:small_engine, Small Engine
-sevendaystomine:minibike_chassis, Minibike Chassis
-sevendaystomine:minibike_handles, Minibike Handlebars
-sevendaystomine:minibike_seat, Minibike Seat
-sevendaystomine:skirt, Skirt
-sevendaystomine:jeans, Jeans
-sevendaystomine:shorts_long, Long Shorts
-sevendaystomine:jacket, Jacket
-sevendaystomine:jumper, Jumper
-sevendaystomine:shirt, Shirt
-sevendaystomine:short_sleeved_shirt, Short Sleeved Shirt
-sevendaystomine:t_shirt_0, T-Shirt
-sevendaystomine:t_shirt_1, T-Shirt
-sevendaystomine:coat, Coat
-sevendaystomine:fiber_hat, Fiber Hat
-sevendaystomine:fiber_chestplate, Fiber Chestplate
-sevendaystomine:fiber_leggings, Fiber Leggings
-sevendaystomine:fiber_boots, Fiber Footwraps
-sevendaystomine:steel_helmet, Steel Helmet
-sevendaystomine:steel_chestplate, Steel Chestplate
-sevendaystomine:steel_leggings, Steel Leggings
-sevendaystomine:steel_boots, Steel Boots
-sevendaystomine:cent, Cent
-sevendaystomine:backpack, Backpack
-sevendaystomine:leather_iron_helmet, Leather-Iron Helmet
-sevendaystomine:leather_iron_chestplate, Leather-Iron Chestplate
-sevendaystomine:leather_iron_boots, Leather-Iron Boots
-sevendaystomine:leather_iron_leggings, Leather-Iron Leggings
-sevendaystomine:voltmeter, Voltmeter
-sevendaystomine:chainsaw, Chainsaw
-sevendaystomine:scrap_shovel, Scrap Shovel
-sevendaystomine:scrap_pickaxe, Scrap Pickaxe
-sevendaystomine:scrap_axe, Scrap Axe
-sevendaystomine:copper_shovel, Copper Shovel
-sevendaystomine:copper_pickaxe, Copper Pickaxe
-sevendaystomine:copper_axe, Copper Axe
-sevendaystomine:bronze_shovel, Bronze Shovel
-sevendaystomine:bronze_pickaxe, Bronze Pickaxe
-sevendaystomine:bronze_axe, Bronze Axe
-sevendaystomine:iron_shovel, Iron Shovel
-sevendaystomine:iron_axe, Iron Axe
-sevendaystomine:iron_pickaxe, Iron Pickaxe
-sevendaystomine:steel_shovel, Steel Shovel
-sevendaystomine:steel_pickaxe, Steel Pickaxe
-sevendaystomine:steel_axe, Steel Axe
-sevendaystomine:book_forging, Recipe Book
-sevendaystomine:iron_pipe, Iron Pipe
-sevendaystomine:circuit, Circuit
-sevendaystomine:link_tool, Cable
-sevendaystomine:survival_guide, Survival Guide
-sevendaystomine:microphone, Microphone
-sevendaystomine:bullet_tip, Bullet Tip
-sevendaystomine:bullet_casing, Bullet Casing
-sevendaystomine:moldy_bread, Moldy Bread
-sevendaystomine:pistol_slide, Pistol Slide
-sevendaystomine:pistol_trigger, Pistol Trigger
-sevendaystomine:pistol_grip, Pistol Grip
-sevendaystomine:sniper_rifle_barrel, Sniper Rifle Barrel
-sevendaystomine:sniper_rifle_parts, Sniper Rifle Parts
-sevendaystomine:sniper_rifle_scope, Sniper Rifle Scope
-sevendaystomine:sniper_rifle_stock, Sniper Rifle Stock
-sevendaystomine:sniper_rifle_trigger, Sniper Rifle Trigger
-sevendaystomine:scrap_helmet, Scrap Helmet
-sevendaystomine:scrap_chestplate, Scrap Chestplate
-sevendaystomine:scrap_leggings, Scrap Leggings
-sevendaystomine:scrap_boots, Scrap Boots
-sevendaystomine:iron_helmet, Iron Helmet
-sevendaystomine:iron_chestplate, Iron Chestplate
-sevendaystomine:iron_leggings, Iron Leggings
-sevendaystomine:iron_boots, Iron Boots
-sevendaystomine:leather_helmet, Leather Cap
-sevendaystomine:leather_chestplate, Leather Tunic
-sevendaystomine:leather_leggings, Leather Pants
-sevendaystomine:leather_boots, Leather Boots
-sevendaystomine:military_helmet, Military Helmet
-sevendaystomine:military_chestplate, Military Chestplate
-sevendaystomine:military_leggings, Military Leggings
-sevendaystomine:military_boots, Military Boots
-sevendaystomine:sniper_rifle, Sniper Rifle
-sevendaystomine:pistol, Pistol
-sevendaystomine:ak47, AK-47
-sevendaystomine:hunting_rifle, Hunting Rifle
-sevendaystomine:shotgun, Shotgun
-sevendaystomine:shotgun_short, Sawed-off Shotgun
-sevendaystomine:bellows, Bellows
-sevendaystomine:book_ammo, Recipe Book
-sevendaystomine:bullet_tip_mold, Bullet Tip Mold
-sevendaystomine:bullet_casing_mold, Bullet Casing Mold
-sevendaystomine:book_computers, Recipe Book
-sevendaystomine:book_concrete, Recipe Book
-sevendaystomine:cement_mold, Cement Mold
-sevendaystomine:book_electricity, Recipe Book
-sevendaystomine:magnet, Magnet
-sevendaystomine:photo_cell, Photovoltaic Cell
-sevendaystomine:book_chemistry, Recipe Book
-sevendaystomine:potassium, Potassium Nitrate
-sevendaystomine:book_metalworking, Recipe Book
-sevendaystomine:book_pistol, Recipe Book
-sevendaystomine:book_minibike, Recipe Book
-sevendaystomine:gas_canister, Gas Can
-sevendaystomine:book_shotgun, Blueprint
-sevendaystomine:shotgun_barrel, Shotgun Barrel
-sevendaystomine:shotgun_barrel_short, Shotgun Short Barrel
-sevendaystomine:shotgun_parts, Shotgun Pump
-sevendaystomine:shotgun_receiver, Shotgun Receiver
-sevendaystomine:shotgun_stock, Shotgun Stock
-sevendaystomine:shotgun_stock_short, Shotgun Short Stock
-sevendaystomine:book_sniper, Blueprint
-sevendaystomine:magnum, .44 Magnum
-sevendaystomine:magnum_scoped, Scoped .44 Magnum
-sevendaystomine:flamethrower, Flamethrower
-sevendaystomine:mp5, MP5
-sevendaystomine:rpg, RPG
-sevendaystomine:m4, M4
-sevendaystomine:bullet_10mm, 10mm Bullet
-sevendaystomine:sevenmmbullet, 7.62mm Bullet
-sevendaystomine:ninemmbullet, 9mm Bullet
-sevendaystomine:bullet_magnum, .44 Magnum Bullet
-sevendaystomine:magnum_frame, .44 Magnum Frame
-sevendaystomine:magnum_cylinder, .44 Magnum Cylinder
-sevendaystomine:magnum_grip, .44 Magnum Grip
-sevendaystomine:book_magnum, Blueprint
-sevendaystomine:mp5_barrel, MP5 Barrel
-sevendaystomine:mp5_stock, MP5 Stock
-sevendaystomine:mp5_trigger, MP5 Trigger
-sevendaystomine:book_mp5, Blueprint
-sevendaystomine:shotgun_shell, Shotgun Shell
-sevendaystomine:auger_blade, Auger Blade
-sevendaystomine:night_vision_device, Night Vision Device
-sevendaystomine:christmas_hat, Christmas Hat
-sevendaystomine:beret, Beret
-sevendaystomine:bloodmoon, Bloodmoon Icon
-sevendaystomine:scrap_hoe, Scrap Hoe
-sevendaystomine:copper_hoe, Copper Hoe
-sevendaystomine:bronze_hoe, Bronze Hoe
-sevendaystomine:iron_hoe, Iron Hoe
-sevendaystomine:steel_hoe, Steel Hoe
-sevendaystomine:auger_handles, Auger Handlebars
-sevendaystomine:book_auger, Blueprint
-sevendaystomine:hunting_rifle_barrel, Hunting Rifle Barrel
-sevendaystomine:hunting_rifle_bolt, Hunting Rifle Bolt
-sevendaystomine:hunting_rifle_parts, Hunting Rifle Parts
-sevendaystomine:hunting_rifle_stock, Hunting Rifle Stock
-sevendaystomine:book_hunting_rifle, Blueprint
-sevendaystomine:empty_jar_mold, Empty Jar Mold
-sevendaystomine:hunting_rifle_barrel_mold, Hunting Rifle Barrel Mold
-sevendaystomine:hunting_rifle_bolt_mold, Hunting Rifle Bolt Mold
-sevendaystomine:mp5_stock_mold, MP5 Stock Mold
-sevendaystomine:mp5_barrel_mold, MP5 Barrel Mold
-sevendaystomine:mp5_trigger_mold, MP5 Trigger Mold
-sevendaystomine:pistol_barrel_mold, Pistol Slide Mold
-sevendaystomine:pistol_trigger_mold, Pistol Trigger Mold
-sevendaystomine:sniper_rifle_stock_mold, Sniper Rifle Stock Mold
-sevendaystomine:sniper_rifle_trigger_mold, Sniper Rifle Trigger Mold
-sevendaystomine:shotgun_barrel_mold, Shotgun Barrel Mold
-sevendaystomine:shotgun_receiver_mold, Shotgun Receiver Mold
-sevendaystomine:shotgun_short_barrel_mold, Shotgun Short Barrel Mold
-sevendaystomine:salt, Salt
-sevendaystomine:chlorine_tank, Chlorine Tank
-sevendaystomine:natrium_tank, Natrium Tank
-sevendaystomine:chlorine_grenade, Chlorine Grenade
-sevendaystomine:fragmentation_grenade, Fragmentation Grenade
-sevendaystomine:molotov, Molotov
-sevendaystomine:riot_shield, Riot Shield
-sevendaystomine:crude_bow, Crude Bow
-sevendaystomine:compound_bow, Compound Bow
-sevendaystomine:mre, MRE
-sevendaystomine:sand_dust, Sand Dust
-sevendaystomine:vomit, Vomit
-sevendaystomine:rocket, Rocket
-sevendaystomine:car_chassis, Car Chassis
-sevendaystomine:book_rocket, Blueprint
-sevendaystomine:stethoscope, Stethoscope
-sevendaystomine:flare, Flare
-sevendaystomine:soda, Soda
-sevendaystomine:wooden_door_iron_reinforced_item, Wooden Door Iron Reinforced
-sevendaystomine:screwdriver, Screwdriver
-sevendaystomine:mp3player, Audio Player
-sevendaystomine:oakplanksframe, Oak Planks Frame
-sevendaystomine:birchplanksframe, Birch Planks Frame
-sevendaystomine:spruceplanksframe, Spruce Planks Frame
-sevendaystomine:jungleplanksframe, Jungle Planks Frame
-sevendaystomine:acaciaplanksframe, Acacia Planks Frame
-sevendaystomine:darkoakplanksframe, Dark Oak Planks Frame
-sevendaystomine:oakplanksreinforced, Reinforced Oak Planks
-sevendaystomine:birchplanksreinforced, Reinforced Birch Planks
-sevendaystomine:spruceplanksreinforced, Reinforced Spruce Planks
-sevendaystomine:jungleplanksreinforced, Reinforced Jungle Planks
-sevendaystomine:acaciaplanksreinforced, Reinforced Acacia Planks
-sevendaystomine:darkoakplanksreinforced, Reinforced Dark Oak Planks
-sevendaystomine:oakplanksreinforcediron, Iron Reinforced Oak Planks
-sevendaystomine:birchplanksreinforcediron, Iron Reinforced Birch Planks
-sevendaystomine:spruceplanksreinforcediron, Iron Reinforced Spruce Planks
-sevendaystomine:jungleplanksreinforcediron, Iron Reinforced Jungle Planks
-sevendaystomine:acaciaplanksreinforcediron, Iron Reinforced Acacia Planks
-sevendaystomine:darkoakplanksreinforcediron, Iron Reinforced Dark Oak Planks
-sevendaystomine:smallrock:0, Small Rock
-sevendaystomine:smallrock:1, Small Rock
-sevendaystomine:smallrock:2, Small Rock
-sevendaystomine:smallrock:3, Small Rock
-sevendaystomine:stick, Stick
-sevendaystomine:bush, Bush
-sevendaystomine:campfire, Campfire
-sevendaystomine:campfire_lit, Campfire
-sevendaystomine:cookingpot, Cooking Pot
-sevendaystomine:beaker, Beaker
-sevendaystomine:goldenrod, Goldenrod
-sevendaystomine:coffeeplant, Coffee Plant
-sevendaystomine:cornplant, Corn Plant
-sevendaystomine:blueberryplant, Blueberry Bush
-sevendaystomine:baneberryplant, Baneberry Bush
-sevendaystomine:forge, Forge
-sevendaystomine:forge_lit, Lit Forge
-sevendaystomine:orecopper, Copper Ore
-sevendaystomine:oretin, Tin Ore
-sevendaystomine:orezinc, Zinc Ore
-sevendaystomine:orelead, Lead Ore
-sevendaystomine:orepotassium, Potassium Nitrate Ore
-sevendaystomine:orecinnabar, Cinnabar Ore
-sevendaystomine:rebarframe, Rebar Frame
-sevendaystomine:rebarframewood, Rebar Frame
-sevendaystomine:reinforcedconcrete, Reinforced Concrete
-sevendaystomine:reinforcedconcretewet, Wet Reinforced Concrete
-sevendaystomine:keysafe, Key Safe
-sevendaystomine:codesafe, Code Safe
-sevendaystomine:cardboardbox, Cardboard Box
-sevendaystomine:cupboard, Cupboard
-sevendaystomine:torchunlit, Unlit Torch
-sevendaystomine:torchlit, Torch
-sevendaystomine:asphalt, Asphalt
-sevendaystomine:garbage, Garbage
-sevendaystomine:armchairblack, Black Armchair
-sevendaystomine:armchairblue, Blue Armchair
-sevendaystomine:armchairbrown, Brown Armchair
-sevendaystomine:armchairgreen, Green Armchair
-sevendaystomine:armchairpink, Pink Armchair
-sevendaystomine:armchairred, Red Armchair
-sevendaystomine:armchairwhite, White Armchair
-sevendaystomine:armchairyellow, Yellow Armchair
-sevendaystomine:bookshelf, Oak Bookshelf
-sevendaystomine:writingtable:0, Writing table
-sevendaystomine:writingtable:8, Writing table
-sevendaystomine:medicalcabinet, Medical Cabinet
-sevendaystomine:fridge:0, Refrigerator
-sevendaystomine:fridge:8, Refrigerator
-sevendaystomine:mailbox, Mail Box
-sevendaystomine:birdnest, Bird Nest
-sevendaystomine:trashcan, Trash Can
-sevendaystomine:sleepingbag, Sleeping Bag
-sevendaystomine:trafficlight, Traffic Light
-sevendaystomine:trafficlightpedestrian, Pedestrian Traffic Light
-sevendaystomine:sedan_red:0, Red Sedan
-sevendaystomine:sedan_green:0, Green Sedan
-sevendaystomine:sedan_blue:0, Blue Sedan
-sevendaystomine:sedan_yellow:0, Yellow Sedan
-sevendaystomine:sedan_white:0, White Sedan
-sevendaystomine:sedan_black:0, Black Sedan
-sevendaystomine:deadmossystone, Dead Mossy Stone
-sevendaystomine:deadmossybrick, Dead Mossy Bricks
-sevendaystomine:basalt, Basalt
-sevendaystomine:marble, Marble
-sevendaystomine:rhyolite, Rhyolite
-sevendaystomine:basaltcobblestone, Basalt Cobblestone
-sevendaystomine:marblecobblestone, Marble Cobblestone
-sevendaystomine:rhyolitecobblestone, Rhyolite Cobblestone
-sevendaystomine:basaltbricks, Basalt Bricks
-sevendaystomine:marblebricks, Marble Bricks
-sevendaystomine:rhyolitebricks, Rhyolite Bricks
-sevendaystomine:basaltpolished, Basalt Polished
-sevendaystomine:marblepolished, Marble Polished
-sevendaystomine:rhyolitepolished, Rhyolite Polished
-sevendaystomine:andesitebricks, Andesite Bricks
-sevendaystomine:dioritebricks, Diorite Bricks
-sevendaystomine:granitebricks, Granite Bricks
-sevendaystomine:catwalk, Catwalk
-sevendaystomine:catwalk_stairs, Catwalk Stairs
-sevendaystomine:stonebrick_wall:0, Stone Bricks Wall
-sevendaystomine:stonebrick_wall:1, Mossy Stone Bricks Wall
-sevendaystomine:stonebrick_wall:2, Cracked Stone Bricks Wall
-sevendaystomine:stonebrick_wall:3, Dead Mossy Stone Bricks Wall
-sevendaystomine:throttle, Throttle
-sevendaystomine:basalt_bricks_cracked, Cracked Basalt Bricks
-sevendaystomine:marble_bricks_cracked, Cracked Marble Bricks
-sevendaystomine:rhyolite_bricks_cracked, Cracked Rhyolite Bricks
-sevendaystomine:andesite_bricks_cracked, Cracked Andesite Bricks
-sevendaystomine:diorite_bricks_cracked, Cracked Diorite Bricks
-sevendaystomine:granite_bricks_cracked, Cracked Granite Bricks
-sevendaystomine:basalt_bricks_mossy, Mossy Basalt Bricks
-sevendaystomine:marble_bricks_mossy, Mossy Marble Bricks
-sevendaystomine:rhyolite_bricks_mossy, Mossy Rhyolite Bricks
-sevendaystomine:andesite_bricks_mossy, Mossy Andesite Bricks
-sevendaystomine:diorite_bricks_mossy, Mossy Diorite Bricks
-sevendaystomine:granite_bricks_mossy, Mossy Granite Bricks
-sevendaystomine:computer, Computer Case
-sevendaystomine:monitor_off, Monitor
-sevendaystomine:monitor_mac, Monitor (Mac OS X)
-sevendaystomine:monitor_linux, Monitor (Linux)
-sevendaystomine:monitor_win98, Monitor (Windows 98)
-sevendaystomine:monitor_winxp, Monitor (Windows XP)
-sevendaystomine:monitor_win7, Monitor (Windows 7)
-sevendaystomine:monitor_win8, Monitor (Windows 8)
-sevendaystomine:monitor_win10, Monitor (Windows 10)
-sevendaystomine:boards, Boards
-sevendaystomine:toilet, Toilet
-sevendaystomine:flag, Flag
-sevendaystomine:microwave, Microwave
-sevendaystomine:sink_faucet, Sink Faucet
-sevendaystomine:metal_ladder, Metal Ladder
-sevendaystomine:radiator, Radiator
-sevendaystomine:dark_bricks, Dark Brick
-sevendaystomine:cinder, Cinder Blocks
-sevendaystomine:backpack_normal, Backpack
-sevendaystomine:backpack_army, Backpack
-sevendaystomine:backpack_medical, Backpack
-sevendaystomine:chest_old, Old Chest
-sevendaystomine:television_broken, Broken Television
-sevendaystomine:shower_head, Shower Head
-sevendaystomine:corpse_00, Corpse
-sevendaystomine:corpse_01, Corpse
-sevendaystomine:skeleton, Skeleton
-sevendaystomine:skeleton_sitting, Skeleton
-sevendaystomine:workbench, Workbench
-sevendaystomine:chemistry_station, Chemistry Station
-sevendaystomine:chair_oak, Oak Chair
-sevendaystomine:chair_birch, Birch Chair
-sevendaystomine:chair_spruce, Spruce Chair
-sevendaystomine:chair_jungle, Jungle Chair
-sevendaystomine:chair_acacia, Acacia Chair
-sevendaystomine:chair_big_oak, Dark Oak Chair
-sevendaystomine:table_oak, Oak Table
-sevendaystomine:table_birch, Birch Table
-sevendaystomine:table_spruce, Spruce Table
-sevendaystomine:table_jungle, Jungle Table
-sevendaystomine:table_acacia, Acacia Table
-sevendaystomine:table_big_oak, Dark Oak Table
-sevendaystomine:generator_gas, Gas Generator
-sevendaystomine:gasoline, Gasoline
-sevendaystomine:energy_pole, Energy Pole
-sevendaystomine:lamp, Lamp
-sevendaystomine:screen_projector, Screen Projector
-sevendaystomine:dresser, Dresser
-sevendaystomine:big_sign, Big Sign
-sevendaystomine:sofa_black, Black Sofa
-sevendaystomine:sofa_white, White Sofa
-sevendaystomine:sofa_red, Red Sofa
-sevendaystomine:sofa_green, Green Sofa
-sevendaystomine:sofa_blue, Blue Sofa
-sevendaystomine:sofa_brown, Brown Sofa
-sevendaystomine:sofa_pink, Pink Sofa
-sevendaystomine:sofa_yellow, tile.sofa_yellow.name
-sevendaystomine:trash_bin, Trash Bin
-sevendaystomine:wheels, Wheels
-sevendaystomine:large_rock, Large Rock
-sevendaystomine:wooden_spikes, Wooden Spikes
-sevendaystomine:wooden_spikes_blooded, Wooden Spikes
-sevendaystomine:wooden_spikes_broken, Wooden Spikes
-sevendaystomine:airplane_rotor, Airplane Engine
-sevendaystomine:solar_panel, Solar Panel
-sevendaystomine:wind_turbine, Wind Turbine
-sevendaystomine:battery_station, Battery Station
-sevendaystomine:generator_combustion, Coal Generator
-sevendaystomine:energy_switch, Energy Switch
-sevendaystomine:thermometer, Thermometer
-sevendaystomine:brick_block_mossy, Mossy Bricks
-sevendaystomine:dark_bricks_mossy, Mossy Dark Brick
-sevendaystomine:turret_base, Turret
-sevendaystomine:oak_log_spike, Oak Log Spike
-sevendaystomine:birch_log_spike, Birch Log Spike
-sevendaystomine:spruce_log_spike, Spruce Log Spike
-sevendaystomine:jungle_log_spike, Jungle Log Spike
-sevendaystomine:acacia_log_spike, Acacia Log Spike
-sevendaystomine:dark_oak_log_spike, Dark Oak Log Spike
-sevendaystomine:sandbags, Sandbags
-sevendaystomine:file_cabinet, File Cabinet
-sevendaystomine:cash_register, Cash Register
-sevendaystomine:camera, Camera
-sevendaystomine:burnt_log, Burnt Log
-sevendaystomine:burnt_planks, Burnt Planks
-sevendaystomine:burnt_frame, Burnt Frame
-sevendaystomine:dry_ground, Dry Ground
-sevendaystomine:burnt_planks_stairs, Burnt Planks Stairs
-sevendaystomine:burnt_planks_slab:0, Burnt Planks Slab
-sevendaystomine:burnt_planks_fence, Burnt Planks Fence
-sevendaystomine:burnt_chair, Burnt Chair
-sevendaystomine:stone_brick_stairs_mossy, Mossy Stone Brick Stairs
-sevendaystomine:radio, Radio
-sevendaystomine:globe, Globe
-sevendaystomine:mercury, Mercury
-sevendaystomine:separator, Electrolytic Cell
-sevendaystomine:turret_advanced, Advanced Turret
-sevendaystomine:razor_wire, Razor Wire
-sevendaystomine:stand, Stand
-sevendaystomine:landmine, Landmine
-sevendaystomine:sirene, Sirene
-sevendaystomine:structure_stone:0, Structure Stone
-sevendaystomine:structure_stone:1, Structure Stone
-sevendaystomine:structure_stone:2, Structure Stone
-sevendaystomine:structure_stone:3, Structure Stone
-sevendaystomine:structure_stone:4, Structure Stone
-sevendaystomine:structure_stone:5, Structure Stone
-sevendaystomine:structure_stone:6, Structure Stone
-sevendaystomine:fake_anvil, Street Light Base
-sevendaystomine:redstone_lamp_broken, Broken Redstone Lamp
-sevendaystomine:calendar, Calendar
-sevendaystomine:flamethrower_trap, Flamethrower Trap
-sevendaystomine:metal_spikes, Metal Spikes
-sevendaystomine:bookshelf_spruce, Spruce Bookshelf
-sevendaystomine:bookshelf_birch, Birch Bookshelf
-sevendaystomine:bookshelf_jungle, Jungle Bookshelf
-sevendaystomine:bookshelf_acacia, Acacia Bookshelf
-sevendaystomine:bookshelf_dark_oak, Dark Oak Bookshelf
-sevendaystomine:police_car:0, Police Car
-sevendaystomine:flower_pot_enhanced, Flower Pot
-sevendaystomine:paper, Paper
-sevendaystomine:sand_layer, Sand Layer
-sevendaystomine:red_sand_layer, Sand Layer
-sevendaystomine:ambulance:0, Ambulance
-sevendaystomine:steel_block, Steel Block
-sevendaystomine:bronze_block, Bronze Block
-sevendaystomine:lead_block, Lead Block
-sevendaystomine:copper_block, Copper Block
-sevendaystomine:dark_bricks_slab:0, Dark Brick Slab
-sevendaystomine:dark_bricks_stairs, Dark Brick Stairs
-sevendaystomine:dark_bricks_mossy_slab:0, Mossy Dark Brick Slab
-sevendaystomine:dark_bricks_mossy_stairs, Mossy Dark Brick Stairs
-sevendaystomine:brick_mossy_stairs, Mossy Brick Stairs
-sevendaystomine:brick_mossy_slab:0, Mossy Brick Slab
-sevendaystomine:stone_brick_stairs_cracked, Cracked Stone Brick Stairs
-sevendaystomine:asphalt_slab:0, Asphalt Slab
-sevendaystomine:brass_block, Brass Block
-sevendaystomine:armchair_cyan, Cyan Armchair
-sevendaystomine:armchair_purple, Purple Armchair
-sevendaystomine:armchair_orange, Orange Armchair
-sevendaystomine:armchair_magenta, Magenta Armchair
-sevendaystomine:armchair_lime, Lime Armchair
-sevendaystomine:armchair_light_blue, Light Blue Armchair
-sevendaystomine:armchair_silver, Silver Armchair
-sevendaystomine:armchair_gray, Gray Armchair
-sevendaystomine:sofa_cyan, Cyan Sofa
-sevendaystomine:sofa_purple, Purple Sofa
-sevendaystomine:sofa_orange, Orange Sofa
-sevendaystomine:sofa_magenta, Magenta Sofa
-sevendaystomine:sofa_lime, Lime Sofa
-sevendaystomine:sofa_light_blue, Light Blue Sofa
-sevendaystomine:sofa_silver, Silver Sofa
-sevendaystomine:sofa_gray, Gray Sofa
 simplybackpacks:commonbackpack, Common Backpack
 simplybackpacks:uncommonbackpack, Uncommon Backpack
 simplybackpacks:rarebackpack, Rare Backpack
@@ -14853,12 +14853,12 @@ thermallogistics:distributor:3, Signalum Distributor
 thermallogistics:distributor:4, Resonant Distributor
 thermallogistics:manager, Network Manager
 thermallogistics:terminal_item, Terminal
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 twistedtweaks:test, Music Disk
 twistedtweaks:torch_oil, Torch Oil
 twistedtweaks:torch_paste, Torch Paste

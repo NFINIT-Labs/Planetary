@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "MAGICAL",
     "COLD",
-    "SNOWY",
     "MOUNTAIN",
-    "RARE"
+    "RARE",
+    "SNOWY",
+    "FOREST",
+    "MAGICAL"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -55,12 +55,6 @@
     }
   ],
   "Spawnable Monsters": [
-    {
-      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
-      "Weight": 20,
-      "Min Group Count": 3,
-      "Max Group Count": 30
-    },
     {
       "Entity Class": "nuparu.sevendaystomine.entity.EntityReanimatedCorpse",
       "Weight": 0,
@@ -132,6 +126,12 @@
       "Weight": 0,
       "Min Group Count": 0,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.mcreator.femalezombie.entity.EntityFemaleZo$EntityCustom",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 30
     },
     {
       "Entity Class": "matteroverdrive.entity.monster.EntityMeleeRougeAndroidMob",

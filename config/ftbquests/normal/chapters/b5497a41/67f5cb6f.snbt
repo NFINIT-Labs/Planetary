@@ -1,14 +1,15 @@
 {
+	title: "Stone Sticks",
 	x: -7.0d,
 	y: -0.5d,
 	dependencies: [
 		"5ba64c0a"
 	],
 	tasks: [{
-		uid: "11436725",
+		uid: "d5b39466",
 		type: "item",
 		items: [{
-			item: "microblockcbe:stone_rod"
+			item: "sct:stone_stick"
 		}],
 		count: 2L
 	}],

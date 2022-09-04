@@ -21,9 +21,9 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "SPOOKY",
-    "DEAD",
     "DRY",
-    "SPARSE"
+    "SPARSE",
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -1,6 +1,6 @@
 
 {
-  "Name": "zombie_soldier",
+  "Name": "zombie_soldier-dtm",
   "Registry ID": "sevendaystomine:zombie_soldier",
   "Class": "nuparu.sevendaystomine.entity.EntityZombieSoldier"
 }
