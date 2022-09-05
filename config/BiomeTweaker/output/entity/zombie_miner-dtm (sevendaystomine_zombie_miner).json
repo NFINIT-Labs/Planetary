@@ -1,6 +1,0 @@
-
-{
-  "Name": "zombie_miner-dtm",
-  "Registry ID": "sevendaystomine:zombie_miner",
-  "Class": "nuparu.sevendaystomine.entity.EntityZombieMiner"
-}
